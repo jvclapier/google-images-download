@@ -19,6 +19,7 @@ clean to copy.
 | Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
+| Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Bran Muffins | Breakfasts › Bran Muffins | ☐ |
@@ -170,6 +171,28 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 *A very tasty way to serve cauliflower — a much "asked for" recipe.*
 
 *(A handwritten "3" is pencilled beside the cauliflower.)*
+
+## **Jerusalem Cous Cous Salad**
+
+**Ingredients**
+
+  - 1½ c. pearl cous cous
+  - 1 can chickpeas, drained & rinsed
+  - 6-10 dates, pitted & chopped
+  - Handful of mint, chopped
+  - Handful of cilantro, chopped
+  - 1 small tub feta
+  - ½ c. pomegranate arils
+  - ⅓ c. olive oil
+  - Juice of 1 large lemon
+  - Salt to taste
+
+**Instructions**
+
+1.  Bring a large saucepan of water to boil — cook cous cous **7-8 min** until al dente. Drain & rinse with cold water.
+2.  Add the rest of ingredients to a bowl & toss with the cous cous.
+
+*If you can't find pomegranate arils, you can cut up green grapes as a substitute but it's so good plain as a salad and I have loved it in a pita with chicken and baba ghannouj. So fresh and yummy!*
 
 ---
 
@@ -1273,3 +1296,23 @@ Sweet Turkey Chili*, a different recipe. A new tab is needed.
 
 Attributed to Mel's Kitchen Cafe, the actual source — there is no personal name on the
 page and no doc stub to carry one from.
+
+## Jerusalem Cous Cous Salad
+
+**A phone screenshot of an Instagram story**, dated April 15 2023, showing a handwritten
+card. The handwriting is clear and the read is clean.
+
+**No attribution.** The poster's handle is cut off at the top of the screenshot — only a
+partial "meg_…" is visible, not enough to name anyone. No `###` line, and no doc stub to
+carry one from.
+
+The italic closing line is the story's **caption overlay**, not part of the card — the
+poster's own note about substituting green grapes and eating it in a pita. Kept because it
+carries a real substitution. A flexed-arm emoji in the original is dropped.
+
+**No tab exists for this recipe.** Sides is the right category. Note that Sides already
+has a *Pomegranate Salad* (Amie Glauser) — this recipe contains pomegranate arils but is a
+couscous salad, so the two have not been merged. Worth checking that tab before creating a
+new one, in case they turn out to be the same dish.
+
+"Cous Cous" is the card's own two-word spelling, kept throughout.
