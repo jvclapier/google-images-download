@@ -19,6 +19,7 @@ clean to copy.
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
+| Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -173,6 +174,27 @@ replaces filler, never a real recipe.
 
 1.  Frost and eat.
 
+## **Grasshopper Pie**
+
+### **Lauren Glauser**
+
+**Ingredients**
+
+  - 2 C. whole oreos, crushed
+  - ¼ C. butter, melted
+  - ½ gal. mint choc. chip ice cream
+  - 1 pt. whip cream (whipped w/ pdr. sugar & vanilla)
+  - Peppermint extract
+  - Green food coloring
+
+**Instructions**
+
+1.  Crush oreos & mix together with melted butter in **9x13 pan**. Save some for top.
+2.  Soften ½ gal. mint choc. chip ice cream. Stir until smooth.
+3.  Fold in 1 pt. whip cream (whipped w/ pdr. sugar & vanilla).
+4.  Add peppermint extract & green food coloring.
+5.  Pour over crust — top w/ remaining cookie crumbs — freeze.
+
 ---
 
 # Breads
@@ -304,3 +326,16 @@ correction, so `8 Tbls.` is the live figure. "melted" also looks written over it
 
 "Cook one minute or until melted" is squeezed into the back's top corner alongside the
 marshmallow line, so it belongs to that step rather than being a separate instruction.
+
+## Grasshopper Pie
+
+Handwritten lined index card, signed "Lauren Glauser". Clean read.
+
+**Three different names are attached to this recipe.** The card says *Lauren Glauser*,
+which is used above. The doc's existing entry credits *Linda Glauser*, and the index tab
+lists "Grasshopper pie" under **EMS** (Emily Romrell). Worth settling before pasting.
+
+**The destination tab is misnamed.** In Desserts there is no "Grasshopper Pie" tab — the
+recipe sits inside a tab titled **Emily Romrell**, which still holds the
+`1½ cups white sugar` stub. Paste there, or rename that tab to "Grasshopper Pie" first
+to match how every other recipe tab is named.

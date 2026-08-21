@@ -43,6 +43,12 @@ there.
 Pick the category from the recipe itself. When no category fits, or two fit equally, put
 it under **Overflow** rather than guessing — that is what it is for.
 
+**Check for a duplicate first.** Users re-send photos. If a recipe of that name is
+already in the file, do not append a second copy: re-read the card, correct the existing
+entry if the new photo shows something the old one missed, and say in the report that it
+was already filed. Then emit its block in chat as usual — a re-sent photo is often just a
+request for the block again.
+
 The recipe block, matching the doc's house style:
 
 ```
