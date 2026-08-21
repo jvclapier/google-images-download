@@ -16,6 +16,7 @@ clean to copy.
 |---|---|---|
 | Chicken Ranch Pasta | Main Dishes › Chicken Ranch Pasta | ✅ |
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
+| Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
@@ -90,6 +91,26 @@ replaces filler, never a real recipe.
 4.  Bake **350° 30 min.**
 
 *(I put some cheese in middle)*
+
+## **Chicken Casserole**
+
+### **Mom**
+
+**Ingredients**
+
+  - One whole chicken (cook & cut up)
+  - 1 can cr. of chicken soup
+  - 1 lg. bunch broccoli (cook & chop)
+  - 1 tsp. lemon juice
+  - ½ c. mayonnaise
+  - 1 c. grated cheese
+
+**Instructions**
+
+1.  Fold soup, lemon juice, & mayo.
+2.  Add cut up chicken & spoon over broccoli (placed in casserole dish).
+3.  Top with grated cheese.
+4.  Bake **350° 30 mins.**
 
 ---
 
@@ -979,3 +1000,18 @@ rather than split into two ingredients.
 **Destination is an inline tab.** Breads holds its recipes stacked inside the one tab
 rather than in child tabs, so this replaces the Banana Bread stub *within* the Breads tab
 instead of getting a tab of its own.
+
+## Chicken Casserole
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Mom" — **the fifth card in the
+batch signed only "Mom"**. The card is torn along its right edge and lower-right corner,
+but no text is lost. "Serves" was blank.
+
+Clean read throughout.
+
+**Title vs. tab:** the card says simply *Chicken Casserole*; the doc tab is *Broccoli
+Chicken Casserole*, which is the only casserole among the several chicken tabs in Main
+Dishes and matches this recipe's broccoli base. Kept the card's shorter title.
+
+The parenthetical prep notes — "cook & cut up" on the chicken, "cook & chop" on the
+broccoli — are the card's own and are kept on the ingredient lines where she wrote them.
