@@ -23,6 +23,7 @@ clean to copy.
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
 | Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
 | Brownies | Desserts › Chocolate Brownies | ☐ |
+| Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -302,7 +303,23 @@ replaces filler, never a real recipe.
 
 # Dips & Dressings
 
-*(none yet)*
+## **Vegetable Dip**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 1 pt. sour cream
+  - ¾ c. mayonnaise
+  - 1 T. chopped onion
+  - 1 T. parsley
+  - 1 T. Beau Monde
+  - 1 T. Dill weed
+
+**Instructions**
+
+1.  Mix and chill.
+2.  Serve with cucumber, cauliflower, chips, etc.
 
 ---
 
@@ -496,3 +513,27 @@ Kept the card's shorter title.
 **Third card signed "Mom".** The Sausage Souffle card resolves "Mom" to Verna Metcalf,
 but this card and the Sugar Cookies card give no surname, so none of them have been
 assumed to be the same person.
+
+## Vegetable Dip
+
+**Typewritten page from a compiled cookbook**, not a handwritten card — the first
+non-card source in the batch. Credited to Verna Metcalf. The typed text reads cleanly.
+
+**A handwritten `1 c.` is pencilled beside the `1 pt. sour cream` line**, with a mark
+pointing at it. It looks like a later revision of the sour cream quantity from a pint to
+a cup. Kept the typed `1 pt.` as the listed amount; check the photo before mixing.
+
+**Title vs. tab:** the page says *VEGETABLE DIP*, the doc tab is *Veggie Dip*. Same
+recipe; kept the page's wording.
+
+A hand-drawn oval loops around part of the page. What exactly it marks is not clear —
+possibly this recipe, possibly the one below it.
+
+### Two other recipes are visible on this page but were not transcribed
+
+- **Cheese Squares — Mildred Naylor.** Only the title line is on the photo; the body
+  falls below the edge. Send a shot of the lower half and it can be added.
+- An **unnamed recipe above Vegetable Dip**, of which only the closing line survives at
+  the top of the photo: *"Dip vegetables into it: celery sticks, carrots, radishes,
+  cauliflower, parsnips, etc."* That tail belongs to a different recipe, not to Vegetable
+  Dip, which has its own serving line.
