@@ -18,6 +18,7 @@ clean to copy.
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
+| Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -132,6 +133,45 @@ replaces filler, never a real recipe.
 1.  Cream butter, sugar + eggs.
 2.  Sift dry ingredients, soda, salt — add to creamed mixture.
 3.  Chill, roll out and bake **350° 6-8 mins.**
+
+## **Chocolate Marshmallow Cookies**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 1 cup shortning
+  - 2 cups sugar
+  - 2 eggs
+  - 3½ cups flour
+  - 1 tsp. salt
+  - 1 cup cocoa
+  - 1 tsp. soda
+  - 1 cup milk
+  - 2 tsp. vanilla
+
+**Instructions**
+
+1.  Blend shortning, sugar, eggs well.
+2.  Add dry ingredients alternating with milk.
+3.  Add vanilla.
+4.  Bake **350° 8-10 mins.**
+5.  Top with 3-5 small marshmellows. Cook **one minute** or until melted.
+
+### **Frosting**
+
+**Ingredients**
+
+  - 4 cups powdered sugar
+  - 10 Tbls. cocoa
+  - Dash or two of salt
+  - 8 Tbls. melted butter
+  - 8 Tbls. cream
+  - 4 tsp. vanilla
+
+**Instructions**
+
+1.  Frost and eat.
 
 ---
 
@@ -248,3 +288,19 @@ decided it.
 
 The card gives no unit for "3 celery" or "1 onion". It braces the vegetable column under
 *cook*, and butter + flour under *melt + mix together*.
+
+## Chocolate Marshmallow Cookies
+
+Handwritten floral "RECIPE" card, front and back. Cook time, prep time, and servings all
+blank. **The card carries no name** — the `### Linda Glauser` line is carried over from
+the doc's existing stub, not from the card.
+
+The card's own spellings are kept in the body: "shortning", "marshmellows". The title
+uses the doc's spelling so it matches the tab; the card writes "Chocolate Marshmellow
+Cookies".
+
+The frosting's melted butter has a struck-out quantity before the `8 Tbls.` — a
+correction, so `8 Tbls.` is the live figure. "melted" also looks written over itself.
+
+"Cook one minute or until melted" is squeezed into the back's top corner alongside the
+marshmallow line, so it belongs to that step rather than being a separate instruction.
