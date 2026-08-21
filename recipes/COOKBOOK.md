@@ -21,6 +21,7 @@ clean to copy.
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
+| Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -217,6 +218,57 @@ replaces filler, never a real recipe.
 4.  Add peppermint extract & green food coloring.
 5.  Pour over crust — top w/ remaining cookie crumbs — freeze.
 
+## **Clapier's Mint Brownies**
+
+### **Linda Clapier**
+
+### **Brownies**
+
+**Ingredients**
+
+  - 6 eggs
+  - 3 C. sugar
+  - 5 sq. bakers choc.
+  - 1½ C. butter
+  - 3 tsp. peppermint
+  - 2¼ C. flour
+
+**Instructions**
+
+1.  Beat eggs & sugar.
+2.  Melt butter & choc. Once melted — add peppermint.
+3.  Add choc. mixture to egg mixture & beat.
+4.  Add flour.
+5.  Bake **350° 20-25 mins** = 23.
+6.  Cool in fridge **10 mins** before frosting.
+
+*(cookie sheet)*
+
+### **Frosting**
+
+**Ingredients**
+
+  - 10 Tbls. butter
+  - 5 C. pdr sugar
+  - 5 tsp. peppermint
+  - 5-7 Tbl. milk
+
+**Instructions**
+
+1.  Frost brownies & put in fridge.
+
+### **Drizzle**
+
+**Ingredients**
+
+  - 3 sq. bakers choc.
+  - 6 Tbls. butter
+
+**Instructions**
+
+1.  Drizzle over frosted brownies & place in fridge set up.
+2.  Pull out of fridge a few mins before cutting.
+
 ---
 
 # Breads
@@ -384,3 +436,23 @@ possibly a note on the sausage type, possibly not a word at all.
 **Cross-reference:** this card resolves "Mom" to Verna Metcalf. The Sugar Cookies card
 above is also signed "Mom" but gives no surname, and I have not assumed they are the same
 person.
+
+## Clapier's Mint Brownies
+
+Handwritten on a lined sheet rather than a card, headed "Clapier's Mint Brownies". Easily
+the clearest handwriting in the batch — the read is clean throughout.
+
+**The card is unsigned.** The `### Linda Clapier` line comes from the doc's existing stub;
+the title's "Clapier's" is the only attribution the page itself carries.
+
+**Title vs. tab:** the page says *Clapier's Mint Brownies*, the doc tab is just
+*Mint Brownies*. Kept the page's fuller title, which matches how the doc titles
+Robynne's Lasagne and Claire's Pumpkin Bars. Trim it or rename the tab, whichever you
+prefer.
+
+Two marginal annotations kept: `= 23` sits beside the 20-25 minute range, apparently the
+time actually used, and "cookie sheet" is written in the right margin next to the bake
+line — kept as the italic note under the brownie steps rather than folded into a step,
+since the page does not say to spread it on one.
+
+"Place in fridge set up" is the page's own wording, missing a "to".
