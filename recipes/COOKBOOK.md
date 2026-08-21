@@ -32,6 +32,7 @@ clean to copy.
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
 | Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
+| Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
@@ -518,6 +519,27 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 1.  Cream shortening, sugar, eggs.
 2.  Add bananas, dry ingredients & nuts.
 3.  Bake **350° 45 mins.**
+
+## **Rolls**
+
+### **Linda Clapier**
+
+**Ingredients**
+
+  - 2½ c. warm water
+  - 2 pkg. yeast (2 Tbls.)
+  - ¾ C. sugar
+  - 2 tsp. salt
+  - 1 C. butter, melted
+  - 4 eggs
+  - 7½ C. flour
+
+**Instructions**
+
+1.  Stir all together — double in size.
+2.  Divide dough 3 parts, roll into large circle, cut & roll into crescents.
+3.  Greased cookie sheet — rise til double.
+4.  Bake **375° 10-15 mins.**
 
 ---
 
@@ -1098,3 +1120,25 @@ Chocolate*. Kept the card's abbreviation.
 
 **Destination is an inline tab.** Drinks stacks its recipes inside the one tab rather than
 in child tabs, so this replaces the French Hot Chocolate stub *within* Drinks.
+
+## Rolls
+
+Handwritten on the back of a realtor's notepad sheet — the printed "RYAN KIRKHAM |
+801.450.0900" and "Each Office Is Independently Owned And Operated" are the notepad's
+letterhead, **not** the recipe's author. Clear handwriting; the read is clean.
+
+**The page has no title.** *Rolls* is used to match the doc's existing Breads entry, but
+the page itself names nothing. The method makes **crescents** specifically, so
+"Crescent Rolls" may be the truer name.
+
+**Ingredients have been reordered.** Each is circled with a number on the page — water 1,
+yeast 2, sugar 3, salt 4, butter 5, eggs 6, flour 7 — which is the order to add them, and
+"Stir all together" depends on it. They are listed here in that circled order rather than
+in the order they physically appear down the page.
+
+**The page is unsigned**, so the `### Linda Clapier` line is carried from the doc's Breads
+entry. Note the doc contradicts itself here: the Breads tab credits **Linda Clapier**
+while the `List of Recipes` index files "Rolls" under **ROBYNNE CARTER**. Neither is
+confirmed by this page.
+
+"rise til double" is written above a struck-out word on the page.
