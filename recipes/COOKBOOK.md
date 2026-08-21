@@ -30,6 +30,7 @@ clean to copy.
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
+| Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
 | Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -477,6 +478,42 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 3.  Add veges. & chicken & mix.
 4.  Melt butter & flour, mix together.
 
+## **Smokey and Sweet Turkey Chili**
+
+### **Eliza Clapier**
+
+**Ingredients**
+
+  - 2 tablespoons avocado or canola oil, divided
+  - 1 lb lean ground turkey
+  - 1 large onion, diced
+  - 1 tablespoon minced garlic
+  - ½ tsp. salt
+  - 3 tablespoons chili powder
+  - 2 tablespoons ground cumin
+  - 1 tablespoon smoked paprika
+  - 1 tsp. ground dried chipotle
+  - 4½ tsp. red wine vinegar
+  - 1 cup water
+  - 1 (28-ounce) can crushed tomatoes, preferably fire roasted
+  - 1 (15-ounce) can dark red kidney beans, drained and rinsed
+  - ⅓ cup dark pure maple syrup
+  - 1 avocado, diced
+  - ¼ cup chopped cilantro
+  - ¼ cup toasted pepitas
+
+**Instructions**
+
+1.  Heat 1 tablespoon of the oil in a large heavy-bottomed soup pot or Dutch oven over high heat. Add turkey and cook, breaking up with a wooden spoon and stirring occasionally, until completely browned. Transfer turkey and any juices to a bowl and set aside.
+2.  Return pot to medium-high heat and add remaining 1 tablespoon oil. Add onion, garlic, and salt and cook, stirring often, for **6 to 10 minutes**, until onion is soft and browned.
+3.  Add chili powder, cumin, paprika, and chipotle and cook, stirring, for **30 to 90 seconds**, until spices are fragrant and starting to toast and darken slightly.
+4.  Add vinegar and stir for **30 seconds to 1 minute**, until liquid is evaporated.
+5.  Add water and bring to simmer, scraping up any browned bits and spices from the bottom of the pot.
+6.  Add tomatoes, beans, syrup, and browned turkey, stirring to combine. Increase heat to high and bring to a simmer. Reduce heat to medium-low to maintain a gentle simmer and cook, stirring occasionally, for **10 to 14 minutes**, until turkey and onions are tender.
+7.  Serve topped with avocado, cilantro, and pepitas.
+
+*Source: Mountain Mama Cooks.*
+
 ---
 
 # Drinks
@@ -801,3 +838,20 @@ what the source says. Same dish either way — it is the only butternut-and-appl
 
 **Also on this page but not transcribed, per instruction:** *Autumn Carrot Chowder*
 (Denice & Eddie), which is complete on the photo and can be added any time.
+
+## Smokey and Sweet Turkey Chili
+
+**A printed web page**, not a card — the first in the batch. Sourced from Mountain Mama
+Cooks (@mountainmamacooks), recorded as an italic source line under the recipe. Typeset,
+so the read is exact and there is nothing ambiguous.
+
+**The printed heading is "Smokey and Sweet Turkey Chili {Maple Cookbook Review &
+Giveaway}".** The braced half is the blog post's own title, not part of the recipe name,
+so it was dropped. The doc tab is *Smokey & Sweet Turkey Chili*.
+
+**The page carries no personal attribution**, being a blog printout. The
+`### Eliza Clapier` line is carried from the doc's existing stub; the blog is credited
+separately in the source line.
+
+Fractions converted to the doc's house glyphs — `1/2` → `½`, `4 1/2` → `4½`, `1/3` → `⅓`,
+`1/4` → `¼`. Wording is otherwise verbatim.
