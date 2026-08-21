@@ -36,6 +36,7 @@ clean to copy.
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
+| Quick French Choc. | Drinks › French Hot Chocolate *(inline tab)* | ☐ |
 | Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -630,7 +631,24 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 # Drinks
 
-*(none yet)*
+## **Quick French Choc.**
+
+### **Grandma M**
+
+**Ingredients**
+
+  - ¼ cup semi sweet choc. chips
+  - ¼ cup light corn syrup
+  - 2 Tbl. water
+  - ½ tsp. vanilla
+  - 1 cup heavy cream
+  - 3 cup scalded milk
+
+**Instructions**
+
+Melt choc. pieces, syrup, water in a small saucepan, stir over low heat & beat until choc. is melted. Stir & cool.
+
+*Serves 6-8.*
 
 ---
 
@@ -1057,3 +1075,26 @@ add them by hand if you know them.**
 
 The card's own spellings are kept: "carmels" and "carmel" throughout, "brn. sugar",
 "ingred.", "mix.".
+
+## Quick French Choc.
+
+A vintage fruit-illustrated card headed "Here's what's cookin':", **"Recipe from: Grandma
+M"**, with Serves filled in as 6-8 — one of the few cards in the batch to give a yield, so
+it is kept as an italic note.
+
+**The method looks incomplete.** It ends at "Stir & cool", having used only the chocolate
+chips, corn syrup and water. **The heavy cream and the scalded milk are never used** —
+presumably the cream gets whipped and the base stirred into the hot milk, but the card
+does not say so and nothing has been invented. Steps are missing from the end.
+
+**"Grandma M" is probably Grandma Metcalf.** The doc's French Hot Chocolate entry credits
+Verna Metcalf, and the Grandma Verna's Waffles tab uses the same first name. Left as
+"Grandma M" exactly as the card has it rather than resolved.
+
+**Title vs. tab:** the card says *Quick French Choc.*; the doc entry is *French Hot
+Chocolate*. Kept the card's abbreviation.
+
+"3 cup scalded milk" is the card's own wording, singular "cup" included.
+
+**Destination is an inline tab.** Drinks stacks its recipes inside the one tab rather than
+in child tabs, so this replaces the French Hot Chocolate stub *within* Drinks.
