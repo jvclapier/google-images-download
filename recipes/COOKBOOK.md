@@ -22,6 +22,7 @@ clean to copy.
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
 | Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
+| Brownies | Desserts › Chocolate Brownies | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -269,6 +270,28 @@ replaces filler, never a real recipe.
 1.  Drizzle over frosted brownies & place in fridge set up.
 2.  Pull out of fridge a few mins before cutting.
 
+## **Brownies**
+
+### **Mom**
+
+**Ingredients**
+
+  - 1⅓ C. butter
+  - 8 sq. bitter choc.
+  - 4 C. sugar
+  - ¼ tsp. salt
+  - 8 eggs
+  - 3 C. flour
+  - 2 tsp. vanilla
+  - 2 C. walnuts
+
+**Instructions**
+
+1.  Melt butter & bitter choc. together.
+2.  Beat eggs, add sugar + vanilla, salt + choc. mixture.
+3.  Stir in flour + nuts (if desired).
+4.  Bake **350° 25 mins.**
+
 ---
 
 # Breads
@@ -456,3 +479,20 @@ line — kept as the italic note under the brownie steps rather than folded into
 since the page does not say to spread it on one.
 
 "Place in fridge set up" is the page's own wording, missing a "to".
+
+## Brownies
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Mom" with a small drawn heart
+after the name. Clean read — no ambiguous quantities. "Serves" was blank.
+
+The card braces butter and bitter chocolate together under *melted together*, which is
+why that is step 1 rather than an ingredient note.
+
+**Title vs. tab:** the card says simply *Brownies*; the nearest tab is
+*Chocolate Brownies*. Desserts has three brownie tabs — Mint, Chocolate, and Gold Rush —
+and this one is neither minted nor a gold rush bar, so Chocolate Brownies is the fit.
+Kept the card's shorter title.
+
+**Third card signed "Mom".** The Sausage Souffle card resolves "Mom" to Verna Metcalf,
+but this card and the Sugar Cookies card give no surname, so none of them have been
+assumed to be the same person.
