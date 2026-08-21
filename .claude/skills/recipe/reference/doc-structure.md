@@ -22,6 +22,13 @@ Applies to: `Breads`, `Drinks`.
 
 `List of Recipes` is a plain index tab (see below), not a recipe container.
 
+**Pattern C — `Overflow`, the catch-all.**
+A running list of recipes whose home was not obvious: no matching tab, several plausible
+tabs, or a matching tab that already held a real recipe. Always `append`, never
+`replace` — a `replace` here erases every recipe filed before it. Each entry carries the
+reason it landed there in its `note`. Entries are meant to be moved out by hand once the
+user decides where they belong.
+
 ## Tab inventory
 
 Captured 2026-08-21. Re-read the doc each run — tabs get added.
@@ -35,6 +42,7 @@ Captured 2026-08-21. Re-read the doc each run — tabs get added.
 - **Dips & Dressings** — Toffee Fruit Dip · Veggie Dip · 7 Layer Dip · Pineapple Cheese Ball · Cowboy Caviar · Hummus · Cranberry Jalapeno Cream Cheese Dip · Fruit Dip · Salsa · Guacamole
 - **Soups** — Butternut Squash Apple Soup · Lemon Chicken Soup · Chicken Noodle Soup · Beef Stew · Taco Soup · Corn Chowder · Vegetable Beef Soup · Smokey & Sweet Turkey Chili
 - **Drinks** *(inline)* — French Hot Chocolate · Slush · Root Beer
+- **Overflow** *(catch-all, append-only)* — recipes with no confident home
 
 ### Stub tabs
 
