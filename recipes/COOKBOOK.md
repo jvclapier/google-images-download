@@ -21,6 +21,7 @@ clean to copy.
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Bran Muffins | Breakfasts › Bran Muffins | ☐ |
+| Granola | Breakfasts › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -218,6 +219,28 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 1.  Mix shortening & sugar together.
 2.  Mix together — place in fridge over night.
 3.  Bake **20 mins.**
+
+## **Granola**
+
+### **Linda Clapier**
+
+**Ingredients**
+
+  - 8½ C. Rolled Oats
+  - 1½ C. Brown sugar
+  - 1½ C. Sunflower seeds
+  - 1½ C. nuts (I like lots of nuts so I usually do 1 C. cashews and 1 C. almonds - or even 1½ C. each cashews and almonds.)
+  - ½ C. Honey
+  - ½ C. Peanut Butter
+  - ½ C. Oil
+  - 1 t. Vanilla
+
+**Instructions**
+
+1.  Mix honey, peanut butter, oil, and vanilla.
+2.  Mix oats, brown sugar, sunflower seeds, and nuts.
+3.  Pour honey and peanut butter mixture over oat mixture and mix to coat.
+4.  Spread on 2 cookie sheets and bake at **250 degrees for 2 hours** — stir every **30 minutes**.
 
 ---
 
@@ -901,3 +924,20 @@ card earlier says only *Sue*, and was deliberately not promoted to "Aunt Sue". T
 makes it more likely they are the same person, along with the doc's existing
 *Aunt Sue's Chocolate Chip Cookies* tab — but it is still your call, not an assumption
 made here.
+
+## Granola
+
+**A printed email**, dated Tue, Jun 24, 2014, subject "GRANOLA RECIPE", from
+lclapier@sisna.com to lindaglauser@aol.com and signed "Linda" — hence the attribution to
+Linda Clapier. Typed text, so the read is exact.
+
+**Only the recipe was transcribed, as requested.** The email's personal message after the
+recipe — about Ragnar, ATP drinks and a thank-you — was left out entirely.
+
+**This one is on the doc's wishlist.** *Granola* is listed under **POTENTIAL** in the
+`List of Recipes` index, meaning it was wanted but never collected. It needs a new tab
+under Breakfasts, and its index line should move out of POTENTIAL into the real sections.
+
+The parenthetical about nuts is the sender's own aside and is kept on the ingredient line
+where she wrote it. Fractions converted to the doc's glyphs; the email's "1/2 c," (comma
+for period) is the only typo, silently normalised.
