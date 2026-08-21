@@ -103,7 +103,7 @@ function writeJob(job) {
   const mode = job.mode || 'replace';
 
   if (mode === 'replace') {
-    body.clear();
+    clearBody(body);
   } else if (mode !== 'append') {
     throw new Error('mode must be "replace" or "append"');
   }
@@ -147,6 +147,27 @@ function doPost(e) {
     return json({ ok: true, tab: result.tabPath, mode: result.mode });
   } catch (err) {
     return json({ ok: false, error: String(err.message || err) });
+  }
+}
+
+/**
+ * Empty a tab body. Body.clear() throws "Can't remove the last paragraph in a
+ * document section" when the body carries a section break, which varies per tab —
+ * so remove children one at a time and blank whatever refuses to be removed.
+ */
+function clearBody(body) {
+  for (var i = body.getNumChildren() - 1; i >= 0; i--) {
+    var child = body.getChild(i);
+    try {
+      child.removeFromParent();
+    } catch (undeletable) {
+      var type = child.getType();
+      if (type === DocumentApp.ElementType.PARAGRAPH) {
+        child.asParagraph().clear();
+      } else if (type === DocumentApp.ElementType.LIST_ITEM) {
+        child.asListItem().clear();
+      }
+    }
   }
 }
 
