@@ -33,6 +33,7 @@ clean to copy.
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
 | Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
 | Chocolate Butterscotch Bundt Cake | Desserts › **(new tab needed)** | ☐ |
+| Amy Brindley Brownies | Desserts › **(new tab needed)** | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -546,6 +547,39 @@ Combine cake mix, pudding, water, and oil. Beat until smooth. Add eggs. Pour ⅔
 **Instructions**
 
 Melt chocolate and butter, then mix in sugar and milk. Pour over warm cake.
+
+## **Amy Brindley Brownies**
+
+### **Amy Brindley**
+
+### **Brownies**
+
+**Ingredients**
+
+  - 2.5 squares butter, soft
+  - 2.5 c. sugar
+  - 6 eggs
+  - ¾ c. cocoa
+  - 2 tsp. vanilla
+  - 2 c. flour
+  - ½ tsp. salt
+
+**Instructions**
+
+Cream butter & sugar. Add eggs 2 at a time beating well after each pair. Add cocoa, salt, vanilla & beat until blended. Add flour and mix. Pour into an **11x17 jelly roll pan** (greased/floured). Bake @ **350° for 25-30 min.**
+
+### **Frosting**
+
+**Ingredients**
+
+  - 1 cube butter, melted
+  - ¼–½ c. cocoa powder
+  - 1 tsp. vanilla
+  - 3-4 c. powdered sugar
+
+**Instructions**
+
+Add evaporated milk to desired consistency (regular milk works too).
 
 ---
 
@@ -1316,3 +1350,25 @@ couscous salad, so the two have not been merged. Worth checking that tab before 
 new one, in case they turn out to be the same dish.
 
 "Cous Cous" is the card's own two-word spelling, kept throughout.
+
+## Amy Brindley Brownies
+
+Two sheets of Sheraton hotel notepaper making up **one recipe** — brownies on the first,
+frosting on the second. Modern, very clear handwriting; the read is clean.
+
+**Titled at your instruction.** The first sheet is headed simply *Brownies*; the fuller
+name is yours, and `### Amy Brindley` follows from it — neither sheet carries a name.
+
+**Decimal quantities kept as written.** The card says `2.5 squares butter` and
+`2.5 c. sugar` rather than `2½`, which is unusual for this collection but is what is on
+the page.
+
+The bake line sits off to the right of the ingredients on the first sheet rather than at
+the end of the method; it is placed last here, where it belongs in sequence.
+
+"cocoa powder" on the frosting sheet has a letter written over another — it reads as
+"cocaa" at a glance but is plainly cocoa.
+
+**No tab exists for this recipe.** Desserts already has three brownie tabs, but this batch
+has now claimed all of them — Mint Brownies, Chocolate Brownies, and Gold Rush Brownies
+are each taken by a different card. A new tab is needed.
