@@ -30,6 +30,7 @@ clean to copy.
 | Brownies | Desserts › Chocolate Brownies | ☐ |
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
+| Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
@@ -466,6 +467,30 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 3.  Add choc. chips, coconut, and nuts.
 4.  Pour 1½ – 1¾ can condensed milk over top.
 5.  Bake **325° 25 min** (in glass pan) or golden brown.
+
+## **Oatmeal Carmelitas**
+
+### **Gail Bown**
+
+**Ingredients**
+
+  - 32 light carmels
+  - 5 Tbl. cream
+  - 1 C. flour
+  - 1 C. quick oatmeal
+  - ¾ C. brn. sugar
+  - ½ C. chopped pecans
+  - ½ tsp. soda
+  - ¼ tsp. salt
+  - ¾ C. butter, melted
+  - 1 C. milk choc. chips
+
+**Instructions**
+
+1.  Melt carmels in cream — cool slightly.
+2.  Combine all ingred. except choc. chips, carmel mix. & nuts.
+3.  Press ½ crumb mixture into **9x13 pan**, bake **350° 10 mins.**
+4.  Sprinkle w/ choc. chips, nuts, spread carmel mixture on top.
 
 ---
 
@@ -1015,3 +1040,20 @@ Dishes and matches this recipe's broccoli base. Kept the card's shorter title.
 
 The parenthetical prep notes — "cook & cut up" on the chicken, "cook & chop" on the
 broccoli — are the card's own and are kept on the ingredient lines where she wrote them.
+
+## Oatmeal Carmelitas
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Gail Bown". "Serves" was blank.
+
+**This card resolves an open question in the doc.** The Oatmeal Carmelitas tab currently
+credits *"Amie Glauser or Gail Bown"* — the card settles it as Gail Bown.
+
+**The method looks unfinished, and the card is torn along its bottom edge.** The last
+legible instruction is "sprinkle w/ choc. chips, nuts, spread carmel mixture on top",
+with no closing step. A bar cookie built this way would normally finish by scattering the
+remaining crumb mixture over the top and baking again — but that step is not on the card
+or is lost to the tear, so nothing has been invented. **Steps are missing from the end;
+add them by hand if you know them.**
+
+The card's own spellings are kept: "carmels" and "carmel" throughout, "brn. sugar",
+"ingred.", "mix.".
