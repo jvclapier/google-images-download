@@ -29,6 +29,7 @@ clean to copy.
 | Brownies | Desserts › Chocolate Brownies | ☐ |
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
+| Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
@@ -449,7 +450,27 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 
 # Breads
 
-*(none yet)*
+## **Banana Bread**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - ½ C. shortening
+  - 1 C. sugar
+  - 2 eggs
+  - ½ tsp. salt
+  - 1 C. milk w/ 1 tsp vinegar
+  - 3 bananas
+  - 2 C. flour
+  - 2 tsp. soda
+  - 1 c. chopped nuts
+
+**Instructions**
+
+1.  Cream shortening, sugar, eggs.
+2.  Add bananas, dry ingredients & nuts.
+3.  Bake **350° 45 mins.**
 
 ---
 
@@ -941,3 +962,20 @@ under Breakfasts, and its index line should move out of POTENTIAL into the real 
 The parenthetical about nuts is the sender's own aside and is kept on the ingredient line
 where she wrote it. Fractions converted to the doc's glyphs; the email's "1/2 c," (comma
 for period) is the only typo, silently normalised.
+
+## Banana Bread
+
+A small handwritten slip of paper rather than a card — no printed form, no "From the
+Kitchen of" line. **Unsigned**, so the `### Verna Metcalf` line is carried from the doc's
+existing Banana Bread entry, not from the slip.
+
+**`2 tsp. soda` is on the high side** for two cups of flour and is worth a second look,
+though it is plausible here: the recipe sours its own milk with a teaspoon of vinegar,
+which wants extra soda to react. Read as written.
+
+"1 C. milk w/ 1 tsp vinegar" is the slip's own wording for that soured milk, kept intact
+rather than split into two ingredients.
+
+**Destination is an inline tab.** Breads holds its recipes stacked inside the one tab
+rather than in child tabs, so this replaces the Banana Bread stub *within* the Breads tab
+instead of getting a tab of its own.
