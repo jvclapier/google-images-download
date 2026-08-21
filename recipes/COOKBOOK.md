@@ -31,6 +31,7 @@ clean to copy.
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
 | Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
+| Chocolate Butterscotch Bundt Cake | Desserts › **(new tab needed)** | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -493,6 +494,34 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 2.  Combine all ingred. except choc. chips, carmel mix. & nuts.
 3.  Press ½ crumb mixture into **9x13 pan**, bake **350° 10 mins.**
 4.  Sprinkle w/ choc. chips, nuts, spread carmel mixture on top.
+
+## **Chocolate Butterscotch Bundt Cake**
+
+**Ingredients**
+
+  - 1 yellow cake mix
+  - 1 small package instant butterscotch pudding
+  - 1 cup water
+  - ½ cup oil
+  - 4 eggs
+  - ½ cup hersheys chocolate syrup (or a bit less)
+
+**Instructions**
+
+Combine cake mix, pudding, water, and oil. Beat until smooth. Add eggs. Pour ⅔–¾ of the batter into well greased **bundt pan**. Mix syrup into remaining batter and pour over top. Bake at **325° for 50 min.**
+
+### **Frosting**
+
+**Ingredients**
+
+  - 1 4oz package german sweet chocolate
+  - 3 Tbsp butter
+  - 4 Tbsp milk
+  - 1½ cups powdered sugar
+
+**Instructions**
+
+Melt chocolate and butter, then mix in sugar and milk. Pour over warm cake.
 
 ---
 
@@ -1142,3 +1171,23 @@ while the `List of Recipes` index files "Rolls" under **ROBYNNE CARTER**. Neithe
 confirmed by this page.
 
 "rise til double" is written above a struck-out word on the page.
+
+## Chocolate Butterscotch Bundt Cake
+
+Two handwritten index cards making up **one recipe** — the cake on the first, the frosting
+on the second. The first card ends with a drawn arrow at the bottom right pointing to the
+continuation, which confirms the pairing. Modern, very legible handwriting; the read is
+clean throughout.
+
+**No name on either card, and no existing tab to carry one from**, so this is the only
+recipe in the file with no `###` attribution line at all. Add one when you know whose it
+is.
+
+**No tab exists for this recipe.** Desserts is clearly right, but nothing there matches —
+*Hurry Up Chocolate Cake* is a different recipe by Verna Metcalf, and the index's generic
+"Chocolate cake" line refers to it. A new tab is needed.
+
+Both cards run their methods as paragraphs, so both are kept as paragraphs.
+
+"hersheys" is lowercase and unapostrophed on the card, and "(or a bit less)" is the
+writer's own aside — both kept as written.
