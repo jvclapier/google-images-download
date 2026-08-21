@@ -46,6 +46,21 @@ Markdown.
 That's it. `setup()` created a **Recipe Inbox** folder in your Drive and a trigger that
 checks it every minute.
 
+## If the doc and the connector are different Google accounts
+
+This doc is owned by `eaglauser@gmail.com` while Claude's Drive connector is authorized
+as `jvclapier@gmail.com`, so `setup()` — running as the account that authorized the
+script — created **Recipe Inbox** in the *other* account's Drive. Claude then cannot
+see it, and `create_file` fails with `Requested entity was not found`.
+
+Fix: from the account that owns the folder, share it with the connector's account as
+**Editor** (Viewer is not enough — Claude has to create files in it). The folder ID does
+not change, so `config.json` stays as is.
+
+To check which side a folder is on, have Claude run a Drive search for
+`mimeType = 'application/vnd.google-apps.folder' and owner = 'me'`. If other folders come
+back but `Recipe Inbox` does not, it is the cross-account case above.
+
 ## Checking it works
 
 Ask Claude to post any already-transcribed recipe. Within a minute the job file in
@@ -60,6 +75,7 @@ usual causes:
 | `no tab matching [...]` | The tab does not exist yet — add it in Docs first. |
 | `ambiguous tab "..."` | Two tabs share that title; the job needs a full path. |
 | `mode must be...` | Malformed job file. |
+| `Requested entity was not found` (Claude's side, before the job is even created) | Cross-account inbox — see the section above. |
 
 Deeper failures show up in **Apps Script → Executions**.
 
