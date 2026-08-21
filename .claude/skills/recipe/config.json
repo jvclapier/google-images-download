@@ -1,0 +1,6 @@
+{
+  "docId": "1-DuEEfuHq5T2mX3YhBN9JPCWcciPggBf3R8HD9IoV40",
+  "docTitle": "Mama G's Recipes (& more)",
+  "inboxFolderId": null,
+  "_comment": "inboxFolderId is printed by setup() in apps-script/Code.gs. Until it is filled in, the skill falls back to the manual paste handoff."
+}
