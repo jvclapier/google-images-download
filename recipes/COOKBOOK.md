@@ -38,6 +38,7 @@ clean to copy.
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
+| Creamy White Chicken Chili | Soups › **(new tab needed)** | ☐ |
 | Quick French Choc. | Drinks › French Hot Chocolate *(inline tab)* | ☐ |
 | Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
@@ -678,6 +679,61 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 *Source: Mountain Mama Cooks.*
 
+## **Creamy White Chicken Chili**
+
+### **Mel's Kitchen Cafe**
+
+**Ingredients**
+
+  - 1 tablespoon oil
+  - 1 pound boneless skinless chicken breasts, cut into ½-inch pieces (leave whole for slow cooker method)
+  - 1 medium chopped onion, (about ½ cup)
+  - 1½ teaspoons garlic powder or 2 cloves fresh garlic, finely minced
+  - 2 cans (15.5-ounces each) Great Northern Beans, rinsed and drained
+  - 1 (14.5) ounce can chicken broth, (about 1¾ cups)
+  - 2 cans (4-ounces each) chopped green chiles (see note)
+  - 1 teaspoon salt
+  - 1 teaspoon ground cumin
+  - 1 teaspoon dried oregano
+  - ½ teaspoon pepper
+  - ¼ teaspoon cayenne pepper
+  - 1 cup sour cream
+  - ½ cup whipping cream (see note)
+  - Fresh cilantro, for garnish (optional)
+  - Shredded cheese, tortilla chips, other toppings (optional)
+
+### **Stovetop Directions**
+
+**Instructions**
+
+1.  In a **4- or 5-quart pot**, heat the oil over medium heat. Add the chicken, onion, and garlic powder (or fresh garlic, if using). Cook, stirring occasionally, for **1-2 minutes**, until the onion starts to soften (it's ok if the chicken isn't cooked all the way; it will cook more in the next step).
+2.  Add the beans, broth, chiles, salt, cumin, oregano, pepper and cayenne.
+3.  Bring the mixture to a simmer and cook, uncovered, for **15 to 30 minutes**.
+4.  Remove from the heat; stir in the sour cream and cream.
+5.  Garnish with fresh cilantro, if desired. Serve immediately with other toppings of choice, if desired.
+
+### **Slow Cooker Directions**
+
+**Instructions**
+
+1.  In a **5- or 6-quart slow cooker**, place 1 pound boneless, skinless chicken breasts whole (without cutting into pieces).
+2.  Add the chopped onion, garlic powder, beans, green chiles and all of the spices. Do not add the sour cream or whipping cream yet!
+3.  Reduce the chicken broth to 12 ounces (about 1½ cups) and pour in over the other ingredients. Stir the mixture around a bit to incorporate the dry spices. Cook on low for **5-7 hours**.
+4.  Remove the chicken to a cutting board and shred in bite-size pieces (or use a couple forks and shred right in the slow cooker). Add the shredded chicken back into the slow cooker.
+5.  In a small bowl or liquid measuring cup, whisk together the sour cream and whipping cream until smooth. Whisk the cream mixture into the crockpot with the other ingredients. Let the chili cook warm through on low temperature. Serve.
+
+### **Notes**
+
+**Green Chiles:** Over the years, I've often subbed out the green chiles completely for a jar (12 ounces) of green salsa (salsa verde or tomatillo salsa).
+
+**Variations:** I hardly ever use the whipping cream anymore. I either add extra sour cream OR use milk OR if I want a thicker chili, I blend ½ cup milk with 1 tablespoon flour and use that.
+
+**Chicken:** This chili is really delicious with already cooked chicken (like a rotisserie chicken or leftover chicken). Simply stir in cooked chicken at the end and heat through.
+
+*Handwritten on the page, beside the cream: "or 8oz. cream cheese + 1 can bean, drained & pureed".*
+
+*Yield 6 servings. Prep 20 mins, cook 25 mins, total 45 mins. Source: Mel's Kitchen Cafe.*
+
 ---
 
 # Drinks
@@ -1191,3 +1247,29 @@ Both cards run their methods as paragraphs, so both are kept as paragraphs.
 
 "hersheys" is lowercase and unapostrophed on the card, and "(or a bit less)" is the
 writer's own aside — both kept as written.
+
+## Creamy White Chicken Chili
+
+**A two-page web printout** from Mel's Kitchen Cafe, printed 10/11/22 — pages 1/2 and 2/2
+of one recipe. Typeset, so the read is exact.
+
+**A handwritten substitution is pencilled beside the cream lines:** *"or 8oz. cream cheese
++ 1 can bean, drained & pureed"*. Kept as an italic marginalia line rather than folded
+into the ingredient list, since the printed `½ cup whipping cream` is what the page
+actually lists.
+
+**The steps were split and renumbered.** The page runs one continuous list of 1-10, with
+step 1 labelled "Stovetop Directions" and step 6 labelled "Slow Cooker Directions" — they
+are two alternative methods, not ten sequential steps. They are given here as two headed
+sections, each numbered from 1, which is what the doc's multi-component pattern is for.
+
+**The author's notes are trimmed.** The page's three notes carry a lot of blog voice
+("Yum, super yum", "sorry, I'm almost done", references to the comment thread). The
+substance of each is kept; the chatter is not. The full text is on the printout if you
+want it verbatim.
+
+**No tab exists for this recipe.** Soups is right, but the only chili tab is *Smokey &
+Sweet Turkey Chili*, a different recipe. A new tab is needed.
+
+Attributed to Mel's Kitchen Cafe, the actual source — there is no personal name on the
+page and no doc stub to carry one from.
