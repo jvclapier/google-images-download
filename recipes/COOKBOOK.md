@@ -19,6 +19,7 @@ clean to copy.
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
+| Bran Muffins | Breakfasts › Bran Muffins | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -162,6 +163,29 @@ replaces filler, never a real recipe.
   - 6 T. oil
   - 6 teaspoons sugar
   - 2 t. salt
+
+## **Bran Muffins**
+
+### **Mom**
+
+**Ingredients**
+
+  - 1 C. shortening
+  - 2 C. sugar
+  - 4 beaten eggs
+  - 5 C. flour
+  - 2 C. Bran Flakes
+  - 4 C. All Bran
+  - 5 tsp. baking soda
+  - 2 C. boiling water
+  - 1 qt. buttermilk
+  - 1 Tbls. salt
+
+**Instructions**
+
+1.  Mix shortening & sugar together.
+2.  Mix together — place in fridge over night.
+3.  Bake **20 mins.**
 
 ---
 
@@ -582,3 +606,19 @@ corroboration that the column was read correctly.
 
 **Title vs. card:** the card spells it *Sweedish Pancakes*. Used the doc's spelling so it
 matches the tab.
+
+## Bran Muffins
+
+Handwritten floral "RECIPE" card, signed "Mom" with a small drawn heart — **the fourth
+card in the batch signed only "Mom"**. Cook time is filled in as 20 mins; prep time and
+servings are blank.
+
+**No oven temperature anywhere on the card.** It says only "Bake 20 mins." Nothing has
+been invented to fill that in — the temperature needs adding from whoever bakes these.
+
+The card braces the shortening and sugar under *mix together*, kept as step 1. The
+lower line then repeats "Mix together — place in fridge over night", which reads as the
+whole batter rather than those two alone, so both are kept as written.
+
+Quantities are split across two columns on the card; the left column's leading numerals
+are amounts, not step numbers.
