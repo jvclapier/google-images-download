@@ -17,6 +17,7 @@ clean to copy.
 | Chicken Ranch Pasta | Main Dishes › Chicken Ranch Pasta | ✅ |
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
+| Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Bran Muffins | Breakfasts › Bran Muffins | ☐ |
@@ -112,6 +113,32 @@ replaces filler, never a real recipe.
 3.  Add drained pineapple tidbits, Mandarin oranges, mini marshmallows, and grated cheese.
 4.  Add 5 bananas before serving.
 5.  Set **12 hours.**
+
+## **Cauliflower Casserole**
+
+### **Jennifer Merkley**
+
+**Ingredients**
+
+  - 1 medium cauliflower, separated into flowerets
+  - 2 T. butter
+  - 2 T. flour
+  - 1 cup milk
+  - ½ t. salt
+  - ¼ t. pepper
+  - 1 (4 oz.) can sliced mushrooms, drained
+  - 1 cup grated cheddar cheese
+  - Buttered bread cubes
+
+**Instructions**
+
+Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. Drain. Melt butter in saucepan and add flour. Blend together. Add milk slowly until thickened. Add salt, pepper and mushrooms to sauce. Butter **9x9-inch casserole dish**. Alternate layers of cauliflower, white sauce, and grated cheese. End with white sauce. Cover with remaining cheese and top with buttered bread cubes. Bake at **350° for 20 min.**
+
+**Buttered bread cubes:** Slice 2 to 3 slices of bread into cubes and toss with melted butter.
+
+*A very tasty way to serve cauliflower — a much "asked for" recipe.*
+
+*(A handwritten "3" is pencilled beside the cauliflower.)*
 
 ---
 
@@ -700,3 +727,30 @@ Applesauce Chocolate Chip Cookies below it — different author, sugar instead o
 sugar, raisins and nutmeg, and a **350°** bake rather than **375°**.
 
 A photo showing the top of page 196 would settle the title.
+
+## Cauliflower Casserole
+
+**Printed page from a spiral-bound cookbook**, credited to Jennifer Merkley. Typeset, so
+the read is exact.
+
+**A handwritten "(3)" is pencilled beside "1 medium cauliflower"** — almost certainly
+someone scaling the recipe up to three cauliflowers, though nothing else on the page is
+scaled. Left the printed `1 medium cauliflower` as the ingredient and recorded the
+annotation as an italic note rather than silently tripling anything.
+
+**No tab exists for this recipe.** Sides is the right category, but the doc has no
+Cauliflower Casserole tab — one needs adding. Sides does have a *Thanksgiving
+Cauliflower* tab credited to Linda Clapier; that is a different recipe by a different
+person, so the two have not been merged. Worth a look before you create a new tab, in
+case they turn out to be the same dish.
+
+The page footnotes its "Buttered bread cubes*" ingredient. The asterisk is dropped and
+the footnote given a bold label instead, so the block pastes cleanly — Markdown would
+otherwise read a leading asterisk as a bullet.
+
+The subtitle is kept as an italic note, matching how *A family favorite!* was handled on
+the Applesauce Chocolate Chip Cookies page.
+
+**Also on this page but not transcribed:** a recipe beginning "Carrots with P…" starts at
+the bottom edge and is cut off. Show-through from the reverse side ("Black Beans and
+Rice") is visible at the top right and was ignored.
