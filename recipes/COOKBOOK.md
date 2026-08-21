@@ -27,6 +27,7 @@ clean to copy.
 | Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
 | Brownies | Desserts › Chocolate Brownies | ☐ |
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
+| Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
@@ -399,6 +400,27 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir in all dry ingredients. Fold in nuts and chocolate chips. Drop dough by tablespoons about 2 inches apart on ungreased cookie sheet. Bake at **375° for 8 minutes** or until almost no imprint remains when touched with finger.
 
 *A family favorite!*
+
+## **Gold Rush Brownies**
+
+### **Aunt Sue**
+
+**Ingredients**
+
+  - 1½ cup crushed gr. cr. crumbs
+  - ½ cube butter
+  - 1½ c. choc. chips
+  - 1½ c. coconut
+  - 1 c. nuts
+  - 1½ – 1¾ can condensed milk
+
+**Instructions**
+
+1.  Melt butter in **9x12 pyrex**.
+2.  Sprinkle crackers over butter.
+3.  Add choc. chips, coconut, and nuts.
+4.  Pour 1½ – 1¾ can condensed milk over top.
+5.  Bake **325° 25 min** (in glass pan) or golden brown.
 
 ---
 
@@ -855,3 +877,27 @@ separately in the source line.
 
 Fractions converted to the doc's house glyphs — `1/2` → `½`, `4 1/2` → `4½`, `1/3` → `⅓`,
 `1/4` → `¼`. Wording is otherwise verbatim.
+
+## Gold Rush Brownies
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Aunt Sue". Written in faded
+brown ink on a stained card. "Serves" was blank.
+
+**The butter quantity is the shaky one.** Read as `½ cube`, but the stroke before it could
+make it `1½ cube`. Half a cube (¼ cup) is thin for a 9x12 crumb base, which argues for
+more — but the card was not clear enough to overrule what is written. Check the photo.
+
+`gr. cr.` is the card's abbreviation for graham cracker, kept as written.
+
+"1½ – 1¾ can condensed milk" is the card's own phrasing; it presumably means one and a
+half to one and three-quarter cans, but it is left verbatim rather than rewritten.
+
+**Step 3's verb is inferred.** The card lists choc. chips, coconut, and nuts on their own
+lines after "sprinkle crackers over butter", with no verb of their own. "Add" was supplied
+to make the step readable; the layering order is the card's.
+
+**Cross-reference on "Sue".** This card says *Aunt Sue* in full. The Cottage Noodle Bake
+card earlier says only *Sue*, and was deliberately not promoted to "Aunt Sue". This card
+makes it more likely they are the same person, along with the doc's existing
+*Aunt Sue's Chocolate Chip Cookies* tab — but it is still your call, not an assumption
+made here.
