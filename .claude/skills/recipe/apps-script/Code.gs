@@ -173,34 +173,46 @@ function writeRecipe(body, recipe) {
 
     // Free-paragraph recipes (see Guacamole) carry `text` instead of numbered steps.
     if (section.text) {
-      applyBold(body.appendParagraph(strip(section.text)), section.text);
+      applyBold(para(body, section.text), section.text);
     }
 
     if (section.note) {
-      body.appendParagraph(strip(section.note)).editAsText().setItalic(true);
+      para(body, section.note).editAsText().setItalic(true);
     }
   });
+}
+
+/**
+ * A plain body paragraph. appendParagraph inherits the text attributes of the
+ * paragraph before it, so bold/italic are cleared explicitly — otherwise a
+ * paragraph following a heading silently arrives bold.
+ */
+function para(body, text) {
+  const p = body.appendParagraph(strip(text));
+  p.setHeading(DocumentApp.ParagraphHeading.NORMAL);
+  p.editAsText().setBold(false).setItalic(false);
+  return p;
 }
 
 function heading(body, text, level) {
   const p = body.appendParagraph(strip(text));
   p.setHeading(level);
   // House style bolds heading text on top of the heading style.
-  p.editAsText().setBold(true);
+  p.editAsText().setItalic(false).setBold(true);
   return p;
 }
 
 function label(body, text) {
   const p = body.appendParagraph(text);
   p.setHeading(DocumentApp.ParagraphHeading.NORMAL);
-  p.editAsText().setBold(true);
+  p.editAsText().setItalic(false).setBold(true);
   return p;
 }
 
 function listItem(body, text, glyph) {
   const item = body.appendListItem(strip(text));
   item.setGlyphType(glyph);
-  item.editAsText().setBold(false);
+  item.editAsText().setBold(false).setItalic(false);
   applyBold(item, text);
   return item;
 }
