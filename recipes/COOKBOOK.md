@@ -28,6 +28,7 @@ clean to copy.
 | Brownies | Desserts › Chocolate Brownies | ☐ |
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
+| Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
@@ -430,6 +431,29 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 
 # Soups
 
+## **Apple and Butternut Squash Soup**
+
+### **Alan & Stephanie**
+
+**Ingredients**
+
+  - 1 Tbsp unsalted butter
+  - 1 onion, diced
+  - 1 (2 lb) butternut squash, peel, seed & cube (1")
+  - 4 red or golden apples, peeled, cored & diced
+  - 2 tsp salt
+  - 1½ tsp ground cumin
+  - ½ tsp ground coriander
+  - ½ tsp ground ginger
+  - ¼ tsp cayenne pepper
+  - ¼ tsp black pepper
+  - 2 cups chicken stock
+  - Sour cream for garnish
+
+**Instructions**
+
+Melt butter in a large sauce pan over medium heat. Add onion and cook until it begins to soften, about 4 minutes. Add squash and cook, stirring occasionally until soft, about 10 minutes. Add apples, salt, cumin, coriander, ginger, cayenne, black pepper, and chicken stock, and 2½ cups of water. Bring to boil. Reduce heat to a simmer. Cook until squash is very soft, about 3 minutes. Puree in batches in a food processor until smooth. Reheat to serve. Garnish with a dollop or sour cream. Makes 6 servings.
+
 ## **Chicken Noodle Soup**
 
 ### **Jill Bunting**
@@ -754,3 +778,26 @@ the Applesauce Chocolate Chip Cookies page.
 **Also on this page but not transcribed:** a recipe beginning "Carrots with P…" starts at
 the bottom edge and is cut off. Show-through from the reverse side ("Black Beans and
 Rice") is visible at the top right and was ignored.
+
+## Apple and Butternut Squash Soup
+
+**Printed page**, credited to Alan & Stephanie. Typeset, so the read is exact. Only the
+top recipe on the page was transcribed, as requested.
+
+**"Cook until squash is very soft, about 3 minutes" is almost certainly a typo** in the
+printed page — squash does not go very soft in three minutes of simmering, and 30 minutes
+would fit the method. Left exactly as printed rather than corrected; worth fixing by hand
+if you know the intent.
+
+"Garnish with a dollop or sour cream" is also the page's own wording, where "of" was
+clearly meant. Kept as printed.
+
+**Attribution differs from the doc.** The page credits Alan & Stephanie; the doc's
+Butternut Squash Apple Soup tab credits Eliza Clapier. Used the page's, since that is
+what the source says. Same dish either way — it is the only butternut-and-apple soup tab.
+
+**Title vs. tab:** the page says *Apple and Butternut Squash Soup*, the tab is
+*Butternut Squash Apple Soup*. Kept the page's wording.
+
+**Also on this page but not transcribed, per instruction:** *Autumn Carrot Chowder*
+(Denice & Eddie), which is complete on the photo and can be added any time.
