@@ -25,8 +25,10 @@ clean to copy.
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
 | Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
 | Brownies | Desserts › Chocolate Brownies | ☐ |
+| Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
+| Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
 replaces filler, never a real recipe.
@@ -344,6 +346,31 @@ replaces filler, never a real recipe.
 3.  Stir in flour + nuts (if desired).
 4.  Bake **350° 25 mins.**
 
+## **Applesauce Chocolate Chip Cookies**
+
+### **Linda Clapier**
+
+**Ingredients**
+
+  - ½ cup shortening
+  - 1½ cups brown sugar, well packed
+  - 2 eggs
+  - 2¾ cups flour
+  - ½ t. baking soda
+  - 1 t. salt
+  - 1 t. cinnamon
+  - ¼ t. cloves
+  - 1 t. vanilla
+  - ¾ cup applesauce
+  - 1 cup chopped nuts
+  - 1 pkg. (12oz) chocolate chips
+
+**Instructions**
+
+Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir in all dry ingredients. Fold in nuts and chocolate chips. Drop dough by tablespoons about 2 inches apart on ungreased cookie sheet. Bake at **375° for 8 minutes** or until almost no imprint remains when touched with finger.
+
+*A family favorite!*
+
 ---
 
 # Breads
@@ -411,7 +438,31 @@ replaces filler, never a real recipe.
 
 Recipes with no obvious home in the doc's existing tabs.
 
-*(none yet)*
+## **Untitled — applesauce, chocolate chip & raisin cookies**
+
+### **Jill Balli**
+
+**Ingredients**
+
+  - ½ cup shortening
+  - 1 cup sugar
+  - 1 egg
+  - 1 cup applesauce
+  - 2 cups flour
+  - ½ t. salt
+  - 1 t. baking soda
+  - ½ t. cinnamon
+  - ½ t. cloves
+  - ½ t. nutmeg
+  - 1 (6 oz.) pkg. chocolate chips
+  - 1 cup raisins
+  - ½ cup nuts, if desired
+
+**Instructions**
+
+Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredients. Mix in chocolate chips, raisins, and nuts. Place on greased cookie sheet. Bake at **350° for 10 to 12 minutes**.
+
+*Filed to Overflow: this recipe's title sits above the top edge of the photo. The heading above is descriptive, not the real name.*
 
 ---
 
@@ -622,3 +673,30 @@ whole batter rather than those two alone, so both are kept as written.
 
 Quantities are split across two columns on the card; the left column's leading numerals
 are amounts, not step numbers.
+
+## Applesauce Chocolate Chip Cookies
+
+**Printed page 196 of a spiral-bound cookbook**, credited to Linda Clapier and subtitled
+*A family favorite!*, which is kept as the italic note. Typeset text, so the read is
+exact — no ambiguous quantities anywhere.
+
+The page runs its method as a paragraph, so it is kept as a paragraph rather than split
+into numbered steps.
+
+**Title vs. tab:** the page says *Applesauce Chocolate Chip Cookies*; the doc tab is
+*Applesauce Cookies*, also credited to Linda Clapier. Same recipe. Kept the page's fuller
+title.
+
+## Untitled — applesauce, chocolate chip & raisin cookies (Jill Balli)
+
+Same printed page 196, the recipe immediately above the Applesauce Chocolate Chip
+Cookies. **Its title falls above the top edge of the photo**, so the name is unknown —
+the heading used in the file is descriptive and must be replaced once the real title is
+known. Everything else is complete: full ingredient list, full method, and the
+attribution to Jill Balli.
+
+Filed to Overflow rather than guessed into a tab. It is a distinct recipe from the
+Applesauce Chocolate Chip Cookies below it — different author, sugar instead of brown
+sugar, raisins and nutmeg, and a **350°** bake rather than **375°**.
+
+A photo showing the top of page 196 would settle the title.
