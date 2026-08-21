@@ -18,6 +18,7 @@ clean to copy.
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
+| Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -135,6 +136,32 @@ replaces filler, never a real recipe.
 3.  Let stand in fridge overnight.
 4.  Mix ½ C. milk & 1 can crm. mush. soup together & pour over top.
 5.  Bake **1½ hrs. 300°**
+
+## **Swedish Pancakes**
+
+### **Linda Glauser**
+
+### **Single**
+
+**Ingredients**
+
+  - 6 eggs
+  - 2½ cups milk
+  - 2 cups flour
+  - 3 Tablespoon Oil
+  - 3 teaspoons sugar
+  - 1 teaspoon salt
+
+### **Double**
+
+**Ingredients**
+
+  - 12 eggs
+  - 5 cups milk
+  - 4 cups flour
+  - 6 T. oil
+  - 6 teaspoons sugar
+  - 2 t. salt
 
 ---
 
@@ -537,3 +564,21 @@ possibly this recipe, possibly the one below it.
   the top of the photo: *"Dip vegetables into it: celery sticks, carrots, radishes,
   cauliflower, parsnips, etc."* That tail belongs to a different recipe, not to Vegetable
   Dip, which has its own serving line.
+
+## Swedish Pancakes
+
+Handwritten Stylecraft card (69-930). "From the Kitchen of" and "Serves" are both blank —
+**the card is unsigned**, so the `### Linda Glauser` line comes from the doc's existing
+stub rather than the card.
+
+**The card has no method at all** — it is two columns of quantities, headed *Single* and
+*Double*, and nothing else. No mixing steps, no pan, no heat. Nothing has been invented to
+fill the gap, so the entry is ingredients only. If the method lives on another card or in
+someone's head, it needs adding by hand.
+
+**Every quantity checks out against its double** — 6→12 eggs, 2½→5 cups milk, 2→4 cups
+flour, 3→6 T. oil, 3→6 tsp sugar, 1→2 tsp salt. That internal consistency is good
+corroboration that the column was read correctly.
+
+**Title vs. card:** the card spells it *Sweedish Pancakes*. Used the doc's spelling so it
+matches the tab.
