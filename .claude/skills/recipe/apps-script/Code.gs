@@ -110,13 +110,20 @@ function writeJob(job) {
 
   writeRecipe(body, job.recipe);
 
-  // body.clear() leaves one empty paragraph behind; drop it so the recipe
-  // heading is the first thing in the tab.
+  // body.clear() leaves one empty paragraph behind; drop it so the recipe heading
+  // is the first thing in the tab. Purely cosmetic — Docs refuses to remove a
+  // paragraph that is the only one in its section ("Can't remove the last
+  // paragraph in a document section"), and a stray blank line is not worth
+  // failing an otherwise good write over.
   if (mode === 'replace' && body.getNumChildren() > 1) {
-    const first = body.getChild(0);
-    if (first.getType() === DocumentApp.ElementType.PARAGRAPH &&
-        first.asParagraph().getText() === '') {
-      first.removeFromParent();
+    try {
+      const first = body.getChild(0);
+      if (first.getType() === DocumentApp.ElementType.PARAGRAPH &&
+          first.asParagraph().getText() === '') {
+        first.removeFromParent();
+      }
+    } catch (ignored) {
+      // Leading blank line stays. The recipe is already written.
     }
   }
 
