@@ -5,9 +5,10 @@ description: Transcribe photos of recipe cards into the running cookbook file, r
 
 # Recipe photos → running cookbook file
 
-Read the attached photos and append each recipe to `recipes/COOKBOOK.md`, which mirrors
-the tab order of the Google Doc. No Drive, no Apps Script, no approval step — transcribe,
-file, commit, report.
+Read the attached photos, then produce **two outputs every time**: the copy-paste
+Markdown in chat, and an updated `recipes/COOKBOOK.md`, which mirrors the tab order of
+the Google Doc. No Drive, no Apps Script, no approval step — transcribe, file, commit,
+and hand back the blocks.
 
 The point of the file is queueing: the user can send far more recipes than they paste, so
 everything accumulates in one place with a checklist of what still needs pasting.
@@ -79,14 +80,22 @@ Then:
 Keep the recipe blocks free of commentary — every character between the headings is
 something the user will paste.
 
-## Step 3 — Report
+## Step 3 — Two outputs
 
-Briefly: what was added, which category each landed in, and a short **Check these** list
-of genuinely uncertain readings — what you read, what else it might be, where on the
-card. A clean card gets one line saying so, not a table.
+Every run produces both, always:
 
-Do not paste the full recipe bodies back into chat; they are in the file. Send the file
-with SendUserFile so the user can open it.
+**1. The copy-paste Markdown, in chat.** One fenced block per recipe, with a heading
+above it naming the destination tab. The block holds only what gets pasted — no
+commentary inside the fence. This is what the user actually copies from, so it goes in
+the reply even for a large batch; never point at the file instead. Blocks are identical
+to what step 2 wrote, so the two never drift.
+
+**2. The updated file.** Already written and committed in step 2. Send it with
+SendUserFile so it is one click away.
+
+Under the blocks, add a short **Check these** list of genuinely uncertain readings —
+what you read, what else it might be, where on the card. A clean card gets one line
+saying so, not a table. Keep this outside the fences.
 
 Mention once per conversation: Google Docs renders pasted Markdown as real headings and
 lists when **Tools → Preferences → Enable Markdown** is checked.
