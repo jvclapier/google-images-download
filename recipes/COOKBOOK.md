@@ -17,6 +17,7 @@ clean to copy.
 | Chicken Ranch Pasta | Main Dishes › Chicken Ranch Pasta | ✅ |
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
+| Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -109,7 +110,28 @@ replaces filler, never a real recipe.
 
 # Breakfasts
 
-*(none yet)*
+## **Sausage Souffle**
+
+### **Mom (Verna Metcalf)**
+
+**Ingredients**
+
+  - 2½ C. milk
+  - 2 C. grated cheddar cheese
+  - 8 slices bread, cubed (without crust)
+  - 1½ lbs. sausage, browned
+  - 4 eggs, beaten
+  - ¾ tsp. dry mustard
+  - ½ C. milk
+  - 1 can crm. mush. soup
+
+**Instructions**
+
+1.  Butter pan. Put into **9x13 pan** in this order: 1 – bread, 2 – cheese, 3 – sausage.
+2.  Mix milk, must. & eggs together — pour over cheese.
+3.  Let stand in fridge overnight.
+4.  Mix ½ C. milk & 1 can crm. mush. soup together & pour over top.
+5.  Bake **1½ hrs. 300°**
 
 ---
 
@@ -339,3 +361,26 @@ lists "Grasshopper pie" under **EMS** (Emily Romrell). Worth settling before pas
 recipe sits inside a tab titled **Emily Romrell**, which still holds the
 `1½ cups white sugar` stub. Paste there, or rename that tab to "Grasshopper Pie" first
 to match how every other recipe tab is named.
+
+## Sausage Souffle
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Mom (Verna Metcalf)". The card
+gives both, so both are kept. "Serves" was blank.
+
+**The card is torn across the middle and words are lost at the right edge**, mostly in
+the layering and mixing steps. The sequence reads cleanly enough to reconstruct, but the
+exact wording of steps 1–2 is partly inferred from what survives.
+
+**A superscript "3½ cups" is written above the milk** in the mixing step, which may be a
+later revision of the `2½ C. milk` at the top of the card. Kept `2½ C.` as the listed
+amount since that is the ingredient line; check the photo before baking.
+
+**Bake time is uncertain:** read as `1½ hrs. 300°`, with the leading digit near the tear.
+`1½ hrs` suits an overnight strata at 300°, which is what decided it.
+
+A short word that looks like "pork" trails the "let stand in fridge overnight" line —
+possibly a note on the sausage type, possibly not a word at all.
+
+**Cross-reference:** this card resolves "Mom" to Verna Metcalf. The Sugar Cookies card
+above is also signed "Mom" but gives no surname, and I have not assumed they are the same
+person.
