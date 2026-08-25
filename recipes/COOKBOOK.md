@@ -23,6 +23,7 @@ clean to copy.
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
 | Spinach Salad | Sides › Berry Spinach Salad | ☐ |
+| Our Famous Baked Beans | Sides › Baked Beans | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Mom's Bran Muffins | Breakfasts › Bran Muffins | ☐ |
@@ -266,6 +267,25 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 **Instructions**
 
 Mix together in a blender the raspberry wine vinegar, salt, sugar, dry mustard and oil. Stir in the poppy seeds and a drop of red food coloring (if desired).
+
+## **Our Famous Baked Beans**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 2 large cans pork and beans
+  - 1 onion, chopped
+  - ½ green pepper, chopped
+  - 2 T. Worcestershire sauce
+  - 2 c. brown sugar
+  - 1½ c. catsup
+  - ½ tsp. dry mustard (more if you like it hotter…)
+  - 1½ lb. bacon, cooked and cut into pieces
+
+**Instructions**
+
+Sauté the onions and gr. pepper in the bacon grease. Put all the rest of the ingredients into a large oven proof container. I use the inside part of my crock pot. Add the sautéed veggies, along with about 1 T. grease. Stir well. Cook uncovered for about **3 hours at 300**. Or about **2 hours at 325**…. Stir occasionally.
 
 ---
 
@@ -1830,3 +1850,27 @@ voice as the waffles page.
 
 The note records the recipe's provenance: got from the White family in Idaho, friends of
 Emily's, over a New Year's spent with them when Emily's friend Ashley married.
+
+
+## Our Famous Baked Beans
+
+**A decorative printed page** on orange stock, from the same family cookbook as Grandma
+Verna's Very Best Waffles and German Pancakes — same hand-drawn border and cupcake
+illustrations. Clean read throughout.
+
+**Two bake options are given, not one:** about 3 hours at 300, *or* about 2 hours at 325.
+Both are kept, as the page offers them as alternatives.
+
+**The page is unsigned.** The `### Verna Metcalf` line is carried from the doc's existing
+Baked Beans tab. The method is first person — "I use the inside part of my crock pot" — in
+the same voice as the other pages from this cookbook, which is a descendant rather than
+Verna.
+
+Kept as written: "catsup", "gr. pepper", and the aside "(more if you like it hotter…)".
+
+**Title vs. tab:** the page says *Our Famous Baked Beans*; the doc tab is *Baked Beans*.
+Kept the page's fuller title.
+
+A printed quotation sits at the foot of the page — *"Enjoy your life without comparing it to
+that of others." — Condorcet* — which is the cookbook's page furniture rather than anything
+to do with the beans, so it is not in the block above.
