@@ -41,7 +41,7 @@ clean to copy.
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
 | Creamy White Chicken Chili | Soups › **(new tab needed)** | ☐ |
-| Quick French Choc. | Drinks › French Hot Chocolate *(inline tab)* | ☐ |
+| Grandma M's Quick French Hot Chocolate | Drinks › French Hot Chocolate *(inline tab)* | ☐ |
 | Untitled applesauce cookies (Jill Balli) | **Overflow** — title cut off | ☐ |
 
 Every destination above is still a `1½ cups white sugar` stub in the doc, so pasting
@@ -795,22 +795,22 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 # Drinks
 
-## **Quick French Choc.**
+## **Grandma M's Quick French Hot Chocolate**
 
-### **Grandma M**
+### **Linda Glauser**
 
 **Ingredients**
 
-  - ¼ cup semi sweet choc. chips
+  - ¼ cups semi-sweet chocolate chips
   - ¼ cup light corn syrup
-  - 2 Tbl. water
-  - ½ tsp. vanilla
+  - 2 tbsp. water
+  - ¼ tsp. vanilla
   - 1 cup heavy cream
-  - 3 cup scalded milk
+  - 3 cups scalded milk
 
 **Instructions**
 
-Melt choc. pieces, syrup, water in a small saucepan, stir over low heat & beat until choc. is melted. Stir & cool.
+Mix chocolate pieces, syrup, and water in a small saucepan. Place over low heat and beat until chocolate is melted, stirring constantly. Cool and stir in vanilla. Chill until cold and thickened. Whip cream until slightly thickened. Gradually add chilled chocolate mixture and beat until it holds a shape and forms a soft peak. Spoon 5 tbsp. of chocolate cream mixture into a mug and fill with hot milk.
 
 *Serves 6-8.*
 
@@ -1240,28 +1240,32 @@ add them by hand if you know them.**
 The card's own spellings are kept: "carmels" and "carmel" throughout, "brn. sugar",
 "ingred.", "mix.".
 
-## Quick French Choc.
+## Grandma M's Quick French Hot Chocolate
 
-A vintage fruit-illustrated card headed "Here's what's cookin':", **"Recipe from: Grandma
-M"**, with Serves filled in as 6-8 — one of the few cards in the batch to give a yield, so
-it is kept as an italic note.
+**Filed twice, from two sources.** First from a vintage fruit-illustrated card headed
+"Here's what's cookin':", "Recipe from: Grandma M", Serves 6-8. Then from a typed page in
+a ring binder, headed *Grandma M's Quick French Hot Chocolate (Linda Glauser)*. The entry
+above now follows the typed page, which is complete.
 
-**The method looks incomplete.** It ends at "Stir & cool", having used only the chocolate
-chips, corn syrup and water. **The heavy cream and the scalded milk are never used** —
-presumably the cream gets whipped and the base stirred into the hot milk, but the card
-does not say so and nothing has been invented. Steps are missing from the end.
+**The typed page supplies the missing half of the method.** The handwritten card stopped
+at "Stir & cool", leaving the heavy cream and the scalded milk unused — a gap flagged when
+it was first filed. The typed version continues: chill the chocolate base, whip the cream
+to soft peaks with the base folded in, then spoon 5 tbsp into a mug and top with hot milk.
+That gap is now closed.
 
-**"Grandma M" is probably Grandma Metcalf.** The doc's French Hot Chocolate entry credits
-Verna Metcalf, and the Grandma Verna's Waffles tab uses the same first name. Left as
-"Grandma M" exactly as the card has it rather than resolved.
+**One quantity disagrees between the two sources.** The handwritten card says
+`½ tsp. vanilla`; the typed page says `¼ tsp.` The typed figure is used above. Worth
+deciding which you trust.
 
-**Title vs. tab:** the card says *Quick French Choc.*; the doc entry is *French Hot
-Chocolate*. Kept the card's abbreviation.
+**Attribution resolved differently than expected.** The handwritten card is "from Grandma
+M", which looked like Grandma Metcalf. The typed page keeps *Grandma M's* in the recipe's
+name but credits **Linda Glauser** as the contributor, which is what the `###` line now
+uses. The doc's Drinks entry credits Verna Metcalf — a third answer.
 
-"3 cup scalded milk" is the card's own wording, singular "cup" included.
+The yield of 6-8 comes from the handwritten card; the typed page gives none.
 
-**Destination is an inline tab.** Drinks stacks its recipes inside the one tab rather than
-in child tabs, so this replaces the French Hot Chocolate stub *within* Drinks.
+**Also on the typed page but not transcribed, per instruction:** *Raspberry Frappe*
+(Jodi Kirkham), complete on the photo and addable any time.
 
 ## Rolls
 
