@@ -32,6 +32,7 @@ clean to copy.
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
+| Watermelon Fruit Salad with Mint Lime Dressing | Sides › **(new tab needed)** | ☐ |
 | Spinach Salad | Sides › Berry Spinach Salad | ☐ |
 | Our Famous Baked Beans | Sides › Baked Beans | ☐ |
 | Grandma Verna's Baked Zucchini | Sides › **(new tab needed)** | ☐ |
@@ -488,6 +489,39 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 2.  Add the rest of ingredients to a bowl & toss with the cous cous.
 
 *If you can't find pomegranate arils, you can cut up green grapes as a substitute but it's so good plain as a salad and I have loved it in a pita with chicken and baba ghannouj. So fresh and yummy!*
+
+## **Watermelon Fruit Salad with Mint Lime Dressing**
+
+### **Crowded Kitchen**
+
+### **Salad**
+
+**Ingredients**
+
+  - 4 c watermelon, cubed into 1-inch pieces
+  - 1½ c strawberries, sliced into rounds
+  - 1½ c raspberries
+  - 1½ c cherries, pitted and halved
+  - Fresh mint, to garnish
+
+### **Dressing**
+
+**Ingredients**
+
+  - 2 tbsp freshly squeezed lime juice
+  - 1½ tsp lime zest
+  - 2 tbsp honey or agave syrup
+  - 1 tbsp fresh mint, finely chopped
+
+**Instructions**
+
+1.  Whisk together honey, lime juice, lime zest, and mint.
+2.  Prep watermelon and berries and place in large bowl. Drizzle dressing over top and lightly toss.
+3.  Garnish with some mint.
+
+*If you don't have a cherry pitter or a strawberry slicer, do yourself a favor and get one — the salad comes together so quickly when you do.*
+
+*I find the salad tastes better chilled, but I wouldn't put the dressing on until just before serving.*
 
 ## **Spinach Salad**
 
@@ -2609,3 +2643,21 @@ attribution line.
 
 Kept as written: "tomatoe", "spoonfull", "Abigails", and the brand aside about Millcreek
 olive oil.
+
+
+## Watermelon Fruit Salad with Mint Lime Dressing
+
+**A typed document**, credited on its own second line to **Crowded Kitchen** — a source
+rather than a person, handled the same way as Mel's Kitchen Cafe and Mountain Mama Cooks
+elsewhere in this file. Typeset, so the read is exact.
+
+**Garnish mint was added to the salad's list.** Step 3 says to garnish with mint, which is
+over and above the 1 tbsp chopped into the dressing. No quantity is given for the garnish.
+
+The document's two closing notes are kept as italic lines, lightly trimmed of exclamation
+marks. The second is a real technique point — dress it only just before serving — and worth
+keeping.
+
+**No tab exists for this recipe.** Sides is the right category, but the doc's *Fruit Salad*
+tab is a different dish entirely (Verna Metcalf's cooked-custard salad with marshmallows and
+cheese) and is already claimed. A new tab is needed.
