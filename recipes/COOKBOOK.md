@@ -26,6 +26,7 @@ clean to copy.
 | Granola | Breakfasts › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
 | Applesauce Bran Muffins | Breakfasts › **(new tab needed)** | ☐ |
+| Cinnamon Rolls | Breakfasts › Cinnamon Rolls | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -331,6 +332,42 @@ Mix all ingredients together in a large saucepan and bring to a boil over medium
 **Instructions**
 
 Mix all ingredients together until well blended. Pour into 12 muffin tins and top with cinnamon sugar. Bake at **400 degrees for 15 minutes**.
+
+## **Cinnamon Rolls**
+
+### **Karen Morgan**
+
+**Ingredients**
+
+  - 2 tbsp. dry yeast
+  - 2 cups warm milk
+  - ⅓ cup sugar
+  - ½ cup (1 cube) soft butter
+  - 2½ tsp. salt
+  - 5-6 cups flour
+  - 1 egg
+  - Butter, for spreading
+  - Cinnamon sugar mixture, for sprinkling
+  - Brown sugar, for sprinkling
+
+**Instructions**
+
+Combine yeast and warm milk. Let stand **5 minutes**. Add sugar, butter, salt, egg and 2 cups flour. Beat together until very smooth. Add two more cups flour, one at a time, beating in between until smooth. Add about one more cup flour, ½ cup at a time, until well mixed. Gather dough into a ball, adding a little flour, if necessary. Cover and let rise in a warm place until double in size.
+
+Roll out dough, on a floured surface, into a rectangle about **8 inches wide and 24 inches long**. Spread top with butter and then sprinkle with cinnamon sugar mixture and some brown sugar. Let rise again for about **2 hours**. Bake at **375 for about 8-10 minutes**, or until slightly brown.
+
+### **Glaze**
+
+**Ingredients**
+
+  - ¼ cup (½ cube) softened butter
+  - 4 oz. cream cheese
+  - 1 tsp. vanilla
+  - 3 cups powdered sugar
+
+**Instructions**
+
+Cream together butter and cream cheese. Add vanilla and powdered sugar and mix until smooth. Spread on rolls while still warm.
 
 ---
 
@@ -1330,3 +1367,24 @@ the list alone is not caught out. The method is otherwise verbatim, soda include
 **Also on this page but not transcribed, per instruction:** the tail of the recipe above
 it — bread or muffin loaves with an orange-juice and almond glaze — whose beginning falls
 above the top edge of the photo.
+
+## Cinnamon Rolls
+
+**A typed page in a ring binder**, credited to Karen Morgan — matching the doc's existing
+Cinnamon Rolls tab, attribution included. Typeset, so the read is exact.
+
+**The page never says to roll the dough up or cut it into rolls.** It goes straight from
+"spread top with butter and then sprinkle…" to "let rise again… bake". For a 8×24-inch
+rectangle that plainly wants rolling into a log and slicing, but the page does not say so
+and nothing has been invented. **A step is missing from the middle** — add it by hand.
+
+**Three filling ingredients were added to the list.** The method calls for butter, a
+cinnamon sugar mixture and some brown sugar, none of which appear in the page's ingredient
+column. They are listed as "for spreading" / "for sprinkling"; the page gives no
+quantities and none have been supplied.
+
+The glaze runs as one paragraph on the page, with its ingredients inline. It is split here
+into ingredients and method to match the rest of the collection.
+
+**Also on this page but not transcribed, per instruction:** *Liege Waffles* (Karen
+Morgan), whose method is cut off at the bottom edge in any case.
