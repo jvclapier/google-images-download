@@ -27,6 +27,7 @@ clean to copy.
 | Grandma Verna's Swiss Steak | Main Dishes › Swiss Steak | ☐ |
 | Great Grandma Metcalf's Beef Cubes in Gravy | Main Dishes › Beef Cubes & Gravy | ☐ |
 | Grandma Verna's Swedish Meatballs | Main Dishes › **(new tab needed)** — listed under POTENTIAL | ☐ |
+| Salmon Patties | Main Dishes › Salmon Patties | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -361,6 +362,29 @@ Place stew meat in a casserole dish that has a cover and add the cream mushroom 
 **Instructions**
 
 I use frozen meatballs purchased at the store. Or you can make your own meatballs and brown them. Put them in a pan and add the cream celery soup, hot water and minced dill pickles. Simmer for about **20 min.** until heated all the way through. Serve over hot noodles.
+
+## **Salmon Patties**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 1 can salmon
+  - 1 egg
+  - 4-6 crushed soda crackers
+  - 1 T. parsley flakes
+  - ¼ tsp. dill
+  - ⅛ tsp. or a pinch of garlic salt
+  - Dash or two of lemon pepper
+  - ½ T. minced onion flakes
+  - Margarine mixed with vegetable oil, for frying
+  - Lemon wedges, to serve
+
+**Instructions**
+
+Break up the salmon, drain, remove bones. Put into bowl. Add 1 egg, 4-6 crushed soda crackers, 1 T. parsley flakes, ¼ tsp. dill, ⅛ tsp. or a pinch of garlic salt, dash or two of lemon pepper, ½ T. minced onion flakes.
+
+Mix well. Form into patties. Fry in margarine mixed with vegetable oil in pan to brown, about **2-3 min. each side**. Serve with lemon wedges to squeeze on top.
 
 ---
 
@@ -2281,3 +2305,25 @@ ingredient line carries both, unquantified, as the page gives no count or weight
 
 The cupcake illustration at the foot of the page overlaps the last line, which makes
 "all the" and "Serve" look struck through. They are not; the text reads straight.
+
+
+## Salmon Patties
+
+**A decorative printed page** from the same family cookbook, on peach stock. Clean read.
+
+**The page has no ingredient list** — everything runs in prose, with the quantities embedded
+mid-sentence. They were pulled out into a list and the method left as written, so the
+seasonings appear twice.
+
+**Two frying ingredients were added to the list.** The margarine-and-oil mixture and the
+lemon wedges appear only in the method. No quantities are given for either.
+
+The page's own hedges are kept: "⅛ tsp. or a pinch of", "dash or two of", "4-6 crushed".
+
+**The page is unsigned.** The `### Linda Glauser` line is carried from the doc's existing
+Salmon Patties tab.
+
+**Also on this page but not transcribed, per instruction:** a halibut recipe above it, whose
+title falls above the top edge of the photo. Its method is complete and legible — mayonnaise
+and ritz crumbs, dill, veggie salt and lemon pepper, **400 for about 20 min.** — and it ends
+"Can use w/ any whitefish….", if you want it added.
