@@ -25,6 +25,8 @@ clean to copy.
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
 | Grandma Verna's Swiss Steak | Main Dishes › Swiss Steak | ☐ |
+| Great Grandma Metcalf's Beef Cubes in Gravy | Main Dishes › Beef Cubes & Gravy | ☐ |
+| Grandma Verna's Swedish Meatballs | Main Dishes › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -327,6 +329,38 @@ Simmer **15 min.** Serve on buns.
 **Instructions**
 
 Pound flour into meat until it's about ⅓" thick. Brown in skillet w/ 1½ T. oil. Shake seasoning salt and pepper on it as you brown it. Drain off oil and grease. Add about 2 c. hot water, about 1½ c. catsup, about ¾ c. sweet pickle juice, and sliced green pepper, and sliced onion. Simmer with lid on for about **1 hour**. Serve with mashed potatoes. YUMMY!!!
+
+## **Great Grandma Metcalf's Beef Cubes in Gravy**
+
+### **Great Grandma Metcalf**
+
+**Ingredients**
+
+  - 1½ lb. stew meat
+  - 2 cans cream mushroom soup
+  - 1½ can hot water
+  - 2 bay leaves
+  - 1 pkg. Liptons onion soup mix
+  - Chopped carrots
+
+**Instructions**
+
+Place stew meat in a casserole dish that has a cover and add the cream mushroom soup, hot water, bay leaves and Liptons onion soup mix. Cook with lid on for **2-3 hours at 350**. Then add chopped carrots and continue to cook another **30-40 min.** until carrots are done. Serve over noodles, rice or potatoes.
+
+## **Grandma Verna's Swedish Meatballs**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - Frozen meatballs, or your own, browned
+  - 2 cans cream celery soup
+  - 1 can hot water
+  - 4 T. minced dill pickles
+
+**Instructions**
+
+I use frozen meatballs purchased at the store. Or you can make your own meatballs and brown them. Put them in a pan and add the cream celery soup, hot water and minced dill pickles. Simmer for about **20 min.** until heated all the way through. Serve over hot noodles.
 
 ---
 
@@ -2212,3 +2246,38 @@ The repeated "about"s are the page's own hedging, kept in both list and method.
 
 "YUMMY!!!" closes the method on the page itself rather than sitting apart as a note, so it
 is kept inline.
+
+
+## Great Grandma Metcalf's Beef Cubes in Gravy
+
+**A decorative printed page** from the same family cookbook, carrying two recipes. Clean
+read.
+
+**Chopped carrots were added to the ingredient list.** They appear only in the method, where
+they go in for the last 30-40 minutes. No quantity is given on the page.
+
+**A generation further back than the other Metcalf recipes.** The page says *Great Grandma
+Metcalf's*, which is not Grandma Verna — the same cookbook credits her separately on the
+same page. The `###` line keeps the page's wording rather than resolving it to Verna
+Metcalf.
+
+The page has no ingredient list of its own; the four additions are listed mid-sentence after
+"add the following:". They were pulled into a list and the method rewritten to refer to them
+rather than repeat the quantities, which reads better here than the duplication used on the
+Swiss Steak.
+
+## Grandma Verna's Swedish Meatballs
+
+Same page as the Beef Cubes above. Clean read.
+
+**This one is on the doc's wishlist.** *Swedish Meatballs* is listed under **POTENTIAL** in
+the `List of Recipes` index — wanted but never collected. It needs a new tab under Main
+Dishes, and its index line should move out of POTENTIAL. That is the second POTENTIAL entry
+this batch has closed, after Granola.
+
+**The meatballs themselves are shop-bought by default.** The page opens "I use frozen
+meatballs purchased at the store", with making your own offered as the alternative — so the
+ingredient line carries both, unquantified, as the page gives no count or weight.
+
+The cupcake illustration at the foot of the page overlaps the last line, which makes
+"all the" and "Serve" look struck through. They are not; the text reads straight.
