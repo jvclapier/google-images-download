@@ -24,6 +24,7 @@ clean to copy.
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
 | Spinach Salad | Sides › Berry Spinach Salad | ☐ |
 | Our Famous Baked Beans | Sides › Baked Beans | ☐ |
+| Grandma Verna's Baked Zucchini | Sides › **(new tab needed)** | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Mom's Bran Muffins | Breakfasts › Bran Muffins | ☐ |
@@ -286,6 +287,22 @@ Mix together in a blender the raspberry wine vinegar, salt, sugar, dry mustard a
 **Instructions**
 
 Sauté the onions and gr. pepper in the bacon grease. Put all the rest of the ingredients into a large oven proof container. I use the inside part of my crock pot. Add the sautéed veggies, along with about 1 T. grease. Stir well. Cook uncovered for about **3 hours at 300**. Or about **2 hours at 325**…. Stir occasionally.
+
+## **Grandma Verna's Baked Zucchini**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - Zucchini
+  - Butter
+  - Seasoning salt
+  - Lemon pepper
+  - Parmesan or romano cheese, or both
+
+**Instructions**
+
+Scrub zucchini and cut into fourths. Spread with butter; sprinkle with seasoning salt and lemon pepper. Top with parmesan or romano cheese or both. Bake **350 for about 20 min.**
 
 ---
 
@@ -1874,3 +1891,23 @@ Kept the page's fuller title.
 A printed quotation sits at the foot of the page — *"Enjoy your life without comparing it to
 that of others." — Condorcet* — which is the cookbook's page furniture rather than anything
 to do with the beans, so it is not in the block above.
+
+
+## Grandma Verna's Baked Zucchini
+
+**A decorative printed page** on orange stock, from the same family cookbook as the Baked
+Beans, Waffles and German Pancakes. Clean read.
+
+**The recipe gives no quantities at all** — not for the zucchini, the butter, the seasoning
+salt, the lemon pepper or the cheese. It is four sentences of prose with no ingredient list
+of its own. The list above was pulled out so the entry matches the collection's shape;
+every line is deliberately unquantified because the page is.
+
+**No tab exists for this recipe.** Sides is the right category — the doc has no zucchini
+entry anywhere. A new tab is needed.
+
+**Attribution follows the title.** The page carries no signature, but is headed *Grandma
+Verna's Baked Zucchini*, and Verna Metcalf is how the doc names her elsewhere.
+
+**Also on this page but not transcribed, per instruction:** *Zucchini Casserole*, directly
+beneath it, whose method runs off the bottom edge of the photo in any case.
