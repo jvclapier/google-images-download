@@ -55,6 +55,7 @@ clean to copy.
 | Chocolate Butterscotch Bundt Cake | Desserts › **(new tab needed)** | ☐ |
 | Amy Brindley Brownies | Desserts › **(new tab needed)** | ☐ |
 | Hot Fudge | Desserts › Hot Fudge | ☐ |
+| Uncle Jim's Double Chocolate Mint Cookies | Desserts › **(new tab needed)** | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -977,6 +978,9 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 2.  Combine all ingred. except choc. chips, carmel mix. & nuts.
 3.  Press ½ crumb mixture into **9x13 pan**, bake **350° 10 mins.**
 4.  Sprinkle w/ choc. chips, nuts, spread carmel mixture on top.
+5.  Sprinkle the rest of the crumb mixture on top of that.
+6.  Bake at **350 for 15-20 min.**
+7.  Cool **1-2 hrs.** Cut into bars.
 
 ## **Chocolate Butterscotch Bundt Cake**
 
@@ -1054,6 +1058,25 @@ Add evaporated milk to desired consistency (regular milk works too).
 **Instructions**
 
 Mix together sugar and cocoa. Melt butter over low heat and add sugar/cocoa mixture. Stir in evaporated milk, stirring constantly. Bring to a boil. Lower heat and stir for **4 minutes**. Add vanilla.
+
+## **Uncle Jim's Double Chocolate Mint Cookies**
+
+### **Uncle Jim**
+
+**Ingredients**
+
+  - 1 devil's food cake mix
+  - 2 eggs
+  - ⅓ c. oil
+  - 1 (10 oz.) pkg. André's mints
+
+**Instructions**
+
+Beat together a devil's food cake mix with 2 eggs, ⅓ c. oil, and add ⅔ of a 10 oz. pkg. André's mints, broken up. Roll the dough into balls and bake at **350 for 8 min.**
+
+While baking break the rest of the mint in half.
+
+Immediately when the cookies come out of the oven, lay a mint on top of each cookie and let it sit, then swirl mint w/ finger.
 
 ---
 
@@ -1590,20 +1613,31 @@ broccoli — are the card's own and are kept on the ingredient lines where she w
 
 ## Oatmeal Carmelitas
 
-Handwritten Stylecraft card (69-930), "From the Kitchen of Gail Bown". "Serves" was blank.
+**Filed twice, from two sources.** First from a handwritten Stylecraft card (69-930), "From
+the Kitchen of Gail Bown", torn along its bottom edge. Then from a decorative printed page
+in the family cookbook, headed *Aunt Linda's Oatmeal Carmelitas*.
 
-**This card resolves an open question in the doc.** The Oatmeal Carmelitas tab currently
-credits *"Amie Glauser or Gail Bown"* — the card settles it as Gail Bown.
+**The typed page supplies the missing ending, and it is exactly what was predicted.** The
+handwritten card broke off after "spread carmel mixture on top", and the note here said a bar
+cookie built that way would normally finish by scattering the remaining crumb mixture over
+and baking again. The typed page: "Sprinkle the crumb mixture on top of that. Bake at 350 for
+15-20 min. Cool 1-2 hrs. Cut into bars." Steps 5-7 above are now complete.
 
-**The method looks unfinished, and the card is torn along its bottom edge.** The last
-legible instruction is "sprinkle w/ choc. chips, nuts, spread carmel mixture on top",
-with no closing step. A bar cookie built this way would normally finish by scattering the
-remaining crumb mixture over the top and baking again — but that step is not on the card
-or is lost to the tear, so nothing has been invented. **Steps are missing from the end;
-add them by hand if you know them.**
+**The caramel count disagrees badly: 32 versus 50.** The handwritten card says `32 light
+carmels`, the typed page says `50 caramels`, against an otherwise identical 5 T. cream. That
+is a 56% difference in the caramel layer and the one thing on this recipe worth settling
+before baking. The card's 32 is kept above, being the source that also gives the chocolate
+and nut quantities.
 
-The card's own spellings are kept: "carmels" and "carmel" throughout, "brn. sugar",
-"ingred.", "mix.".
+**The card's ingredient list is the fuller one.** The typed page omits the chocolate chips
+and the nuts from its list entirely while calling for both in the method; the handwritten
+card gives `1 C. milk choc. chips` and `½ C. chopped pecans`. The card's list is kept.
+
+**A third attribution.** The card says Gail Bown; the typed page says *Aunt Linda's*; the doc
+tab hedges with "Amie Glauser or Gail Bown". Gail Bown is kept, as the only source naming a
+kitchen.
+
+The card's own spellings — "carmels", "brn. sugar", "ingred." — are kept throughout.
 
 ## Grandma M's Quick French Hot Chocolate
 
@@ -2327,3 +2361,25 @@ Salmon Patties tab.
 title falls above the top edge of the photo. Its method is complete and legible — mayonnaise
 and ritz crumbs, dill, veggie salt and lemon pepper, **400 for about 20 min.** — and it ends
 "Can use w/ any whitefish….", if you want it added.
+
+
+## Uncle Jim's Double Chocolate Mint Cookies
+
+**A decorative printed page** from the same family cookbook, on white stock. Clean read.
+
+**The whole recipe is four sentences of prose** with no ingredient list. The four ingredients
+were pulled out; the method is left as written, so the quantities appear twice.
+
+**The mints are used in two portions from one package.** Two thirds go into the dough broken
+up; the remaining third is broken in half and laid on the hot cookies. The ingredient line
+gives the whole 10 oz. package, as the page does, rather than splitting it.
+
+**"Uncle Jim" is left as written.** The doc's roster has a Jim Metcalf, credited with Grandpa
+Metcalf Pancakes, who may well be the same man — but the page says Uncle Jim and that is
+what the `###` line says.
+
+**No tab exists for this recipe.** Desserts has a Mint Brownies tab, but that is now claimed
+by Clapier's Mint Brownies and is a different recipe anyway. A new tab is needed.
+
+A printed Mark Twain quotation at the foot of the page is cookbook furniture and is not in
+the block above.
