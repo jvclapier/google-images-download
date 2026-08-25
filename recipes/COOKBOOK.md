@@ -56,6 +56,7 @@ clean to copy.
 | Amy Brindley Brownies | Desserts › **(new tab needed)** | ☐ |
 | Hot Fudge | Desserts › Hot Fudge | ☐ |
 | Uncle Jim's Double Chocolate Mint Cookies | Desserts › **(new tab needed)** | ☐ |
+| Aunt Myrle's English Toffee | Desserts › **(new tab needed)** | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -1075,6 +1076,27 @@ Beat together a devil's food cake mix with 2 eggs, ⅓ c. oil, and add ⅔ of a 
 While baking break the rest of the mint in half.
 
 Immediately when the cookies come out of the oven, lay a mint on top of each cookie and let it sit, then swirl mint w/ finger.
+
+## **Aunt Myrle's English Toffee**
+
+### **Aunt Myrle**
+
+**Ingredients**
+
+  - 1 c. sugar
+  - ½ lb. butter
+  - ¼ c. water
+  - ¼ c. almonds, finely chopped
+  - 6 Hershey bars
+  - Chopped walnuts
+
+**Instructions**
+
+Mix in a large pan sugar, water, and butter that has been cut into small pieces. Put lid on and cook on Med. High heat. Boil **5 min.** w/lid on.
+
+Take like off and add almonds, stir constantly and fast till thickens, takes just a minute or two… Turn to medium heat and cook until brown. Pour into a greased pan about the side of a **jellyroll pan or a pizza pan**. Immediately lay 6 broken Hershey bars over it, then spread with a knife. Sprinkle with chopped walnuts and let cool. Break up with a knife into pieces and enjoy!
+
+*One of our Christmas Favorites!*
 
 ---
 
@@ -2391,3 +2413,24 @@ by Clapier's Mint Brownies and is a different recipe anyway. A new tab is needed
 
 A printed Mark Twain quotation at the foot of the page is cookbook furniture and is not in
 the block above.
+
+
+## Aunt Myrle's English Toffee
+
+**A decorative printed page** from the same family cookbook, on pink stock. Clean read.
+
+**Two ingredients were added to the list.** The 6 Hershey bars and the chopped walnuts appear
+only in the method; the page's four-line list covers just the toffee itself. No quantity is
+given for the walnuts.
+
+**Two typos are kept as the page has them.** "Take like off" plainly means take the *lid*
+off, and "a greased pan about the side of a jellyroll pan" means about the *size* of one.
+Both are left as written.
+
+**A new name for the roster.** *Aunt Myrle* does not appear anywhere else in the doc or in
+this batch. Kept exactly as the title gives it.
+
+**No tab exists for this recipe.** Desserts has no toffee entry. A new tab is needed.
+
+The page's own hedging is kept — "takes just a minute or two…", "cook until brown" with no
+temperature or target given for the caramel stage.
