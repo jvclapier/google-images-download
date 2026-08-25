@@ -28,6 +28,7 @@ clean to copy.
 | Great Grandma Metcalf's Beef Cubes in Gravy | Main Dishes › Beef Cubes & Gravy | ☐ |
 | Grandma Verna's Swedish Meatballs | Main Dishes › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Salmon Patties | Main Dishes › Salmon Patties | ☐ |
+| Wingers Sticky Fingers | Main Dishes › Wingers Sticky Chicken Salad | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -388,6 +389,28 @@ I use frozen meatballs purchased at the store. Or you can make your own meatball
 Break up the salmon, drain, remove bones. Put into bowl. Add 1 egg, 4-6 crushed soda crackers, 1 T. parsley flakes, ¼ tsp. dill, ⅛ tsp. or a pinch of garlic salt, dash or two of lemon pepper, ½ T. minced onion flakes.
 
 Mix well. Form into patties. Fry in margarine mixed with vegetable oil in pan to brown, about **2-3 min. each side**. Serve with lemon wedges to squeeze on top.
+
+## **Wingers Sticky Fingers**
+
+### **Linda Clapier**
+
+**Ingredients**
+
+  - 3 T Franks Red Buffalo Wing Hot Sauce
+  - ¾ c. Brown Sugar
+  - 2 T. Water
+  - Popcorn Chicken or Breaded Chicken Tenders
+  - Lettuce
+  - Craizins
+  - Carrots
+  - Grated cheddar cheese
+  - Ranch dressing
+
+**Instructions**
+
+Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minutes**. Pour over cooled chicken and cut into bit size pieces. Serve over lettuce with craizins, carrots, grated cheddar cheese, and ranch dressing.
+
+*Handwritten on the page, a quadruple batch of the sauce: hot sauce ×4 = 12 T = ¾ C., brown sugar = 3 C., water = 8 T. = ½ C.*
 
 ---
 
@@ -2496,3 +2519,26 @@ but it is worth reading the whole method before starting.
 "⅓ cups milk" and "¼ cups heavy cream" are the page's own plurals, kept.
 
 **No tab exists for this recipe.** Desserts has no tres leches entry. A new tab is needed.
+
+
+## Wingers Sticky Fingers
+
+**A printed page**, heavily stained and worn — clearly the one actually cooked from. Typeset,
+so the read is exact.
+
+**Three handwritten annotations in pink pencil scale the sauce ×4**, and they check out
+arithmetically: 3 T hot sauce ×4 = 12 T = ¾ C.; ¾ c. brown sugar ×4 = 3 C.; 2 T. water ×4 =
+8 T. = ½ C. All three are kept as the italic note. The printed single-batch quantities remain
+the ingredient lines.
+
+**Five serving ingredients were added to the list.** Lettuce, craizins, carrots, grated
+cheddar and ranch dressing appear only in the final sentence; the page's list covers just the
+sauce and the chicken. No quantities are given for any of them, nor for the chicken.
+
+"bit size pieces" is the page's typo for bite size, and "craizins" its spelling of Craisins.
+Both kept.
+
+**Title vs. tab:** the page says *Wingers Sticky Fingers*; the doc tab is *Wingers Sticky
+Chicken Salad*. Same dish — the page serves it over lettuce as a salad. Kept the page's title.
+
+**The page is unsigned.** The `### Linda Clapier` line is carried from the doc's existing tab.
