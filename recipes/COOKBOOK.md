@@ -22,6 +22,7 @@ clean to copy.
 | Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
+| Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -246,6 +247,45 @@ Precook about 6 c. rice. Put in bottom of **9 x 13 pyrex dish**. Next layer with
 **Instructions**
 
 Mix together and spread over the top.
+
+## **Fried Chicken with Milk Gravy**
+
+**Ingredients**
+
+  - Breasts, legs, thighs, and wings (if desired…)
+  - 2 cups flour
+  - 2 tsp. seasoning salt
+  - ¼ tsp. lemon pepper
+  - ¼ tsp. garlic salt
+  - ¼ tsp. onion salt
+  - ½ tsp. poultry seasoning, or sage and thyme, or whatever seasonings you like
+  - 3 eggs (or 2 c. buttermilk)
+  - Oil, for frying
+
+**Instructions**
+
+In a paper sack pour 2 cups flour, 2 tsp. seasoning salt, ¼ tsp. lemon pepper, ¼ tsp. garlic salt, ¼ tsp. onion salt, ½ tsp. poultry seasoning, or sage and thyme, or whatever seasonings you like… (Can use ranch dressing mix for the seasoning.)
+
+In a bowl beat with a fork 3 eggs. (Or you can use 2 c. buttermilk.)
+
+Dip the chicken into the flour mixture, then the eggs, then back into the flour mixture. Fry in hot oil, browning on all sides. Drain on paper towel, then put into large cookie sheet with edge or a baking pan. Bake at **350 for 45 min.** Remove the chicken from the pan to a serving dish, cover with foil.
+
+### **Milk Gravy**
+
+**Ingredients**
+
+  - Pan drippings
+  - 1 can evaporated milk
+  - Another c. milk
+  - 4 chicken bouillion cubes
+  - About ¾ c. flour
+  - Cold water
+
+**Instructions**
+
+If baking dish is stove top proof you can make the gravy right in the pan on the stove top, using 2 burners. This is best. But if you don't have one, transfer the dripping into a stove proof pan to make the gravy. Add to the drippings 1 can evaporated milk, another c. milk, 4 chicken bouillion cubes, bring to a boil. In another bowl or glass measuring cup put about ¾ c. flour, add cold water and blend well using a wire whip that will squish out lumps. Slowly add the flour/water mixture to the drippings on the stove and stir constantly, adding more thickening until it is the desired thickness.
+
+*Now when I make this I am reminded of so many wonderful family times. This was everyone's favorite!*
 
 ---
 
@@ -2074,3 +2114,31 @@ assumed — unlike the other pages from this cookbook, there is no safe attribut
 
 A printed Abraham Lincoln quotation at the foot of the page is cookbook furniture and is not
 in the block above.
+
+
+## Fried Chicken with Milk Gravy
+
+**Two facing pages of the same family cookbook**, on lavender stock — the second headed
+*Fried Chicken Cont'*, which is what confirms the pairing. Clean read across both.
+
+**Oil was added to the ingredient list.** The method says "fry in hot oil" but the page
+never lists it. No quantity given.
+
+**The page has no ingredient list of its own** — the quantities are embedded in the first
+paragraph. They were pulled out into a list, and the paragraph left intact rather than
+trimmed, so the seasoning line reads twice. That is deliberate: the page offers the
+seasonings as a choose-your-own set, and flattening it into a list alone would lose the
+"or whatever seasonings you like" sense.
+
+The gravy is given its own component, as the continuation page treats it separately.
+
+**No tab exists for this recipe.** Main Dishes has no fried chicken entry. Worth noting the
+index's **POTENTIAL** list includes *"Lapriel Fagg/Grandma Verna's Chicken"* — a wanted but
+uncollected chicken recipe that this could conceivably be. Nothing on the page says so, so
+it has not been assumed.
+
+**The page is unsigned**, and there is no doc tab to carry a name from, so there is no `###`
+line. The closing note is first person, in the same voice as the other pages from this
+cookbook.
+
+"bouillion" and "dripping" (singular) are the page's own spellings, kept.
