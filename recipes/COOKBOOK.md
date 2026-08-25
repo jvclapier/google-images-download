@@ -940,20 +940,18 @@ Cream together shortening, brown sugar, eggs and vanilla. Add applesauce. Stir i
 
 **Ingredients**
 
-  - 1½ cup crushed gr. cr. crumbs
-  - ½ cube butter
-  - 1½ c. choc. chips
-  - 1½ c. coconut
-  - 1 c. nuts
-  - 1½ – 1¾ can condensed milk
+  - 1½ cubes butter, or half butter and half margarine
+  - 1 pkg. plus 4-5 graham crackers, to make about 1½ c. graham cracker crumbs
+  - About 1¼ c. chocolate chips
+  - About 1¼ c. coconut
+  - About 1 c. chopped nuts
+  - 1½ cans Eagle Brand Sweetened Condensed milk
 
 **Instructions**
 
-1.  Melt butter in **9x12 pyrex**.
-2.  Sprinkle crackers over butter.
-3.  Add choc. chips, coconut, and nuts.
-4.  Pour 1½ – 1¾ can condensed milk over top.
-5.  Bake **325° 25 min** (in glass pan) or golden brown.
+Preheat oven to **350**. Melt 1½ cubes butter, or half butter and half margarine, in **9 x 13 pyrex dish**. (Watch to make sure butter doesn't burn.) Crush in plastic bag with rolling pin 1 pkg. plus 4-5 graham crackers to make about 1½ c. graham cracker crumbs. Sprinkle over the melted butter. Sprinkle over that about 1¼ c. chocolate chips, then about 1¼ c. coconut, then about 1 c. chopped nuts. Pour evenly over the top 1½ cans Eagle Brand Sweetened Condensed milk. Bake about **30 min.** Cool before cutting into bars. (If you can wait!)
+
+*A must at Christmas time, but a favorite anytime…………*
 
 ## **Oatmeal Carmelitas**
 
@@ -2042,27 +2040,37 @@ Fractions converted to the doc's house glyphs — `1/2` → `½`, `4 1/2` → `4
 
 ## Gold Rush Brownies
 
-Handwritten Stylecraft card (69-930), "From the Kitchen of Aunt Sue". Written in faded
-brown ink on a stained card. "Serves" was blank.
+**Filed twice, from two sources.** First from a handwritten Stylecraft card (69-930), "From
+the Kitchen of Aunt Sue", in faded brown ink on a stained card. Then from a decorative
+printed page in the family cookbook. The entry above now follows the typed page, which is
+both fuller and clearer.
 
-**The butter quantity is the shaky one.** Read as `½ cube`, but the stroke before it could
-make it `1½ cube`. Half a cube (¼ cup) is thin for a 9x12 crumb base, which argues for
-more — but the card was not clear enough to overrule what is written. Check the photo.
+**The butter was misread on the card, and the typed page corrects it.** The card's butter was
+flagged as uncertain — read as `½ cube` while noting the stroke before it could make it
+`1½ cube`, and reasoning that half a cube seemed thin for a 9x12 crumb base. **It is
+1½ cubes.** The reasoning was right and the reading was wrong; the flag is what caught it.
 
-`gr. cr.` is the card's abbreviation for graham cracker, kept as written.
+**Six other figures differ between the two sources.** These are not misreadings but genuine
+divergence between the card and the page:
 
-"1½ – 1¾ can condensed milk" is the card's own phrasing; it presumably means one and a
-half to one and three-quarter cans, but it is left verbatim rather than rewritten.
+| | Handwritten card | Typed page |
+|---|---|---|
+| Butter | ½ cube *(misread)* | **1½ cubes** |
+| Pan | 9x12 pyrex | **9 x 13 pyrex** |
+| Oven | 325° | **350** |
+| Time | 25 min | **about 30 min** |
+| Chocolate chips | 1½ c. | **about 1¼ c.** |
+| Coconut | 1½ c. | **about 1¼ c.** |
+| Condensed milk | 1½ – 1¾ can | **1½ cans** |
 
-**Step 3's verb is inferred.** The card lists choc. chips, coconut, and nuts on their own
-lines after "sprinkle crackers over butter", with no verb of their own. "Add" was supplied
-to make the step readable; the layering order is the card's.
+The typed figures are used above. The card's are recorded here so neither version is lost.
 
-**Cross-reference on "Sue".** This card says *Aunt Sue* in full. The Cottage Noodle Bake
-card earlier says only *Sue*, and was deliberately not promoted to "Aunt Sue". This card
-makes it more likely they are the same person, along with the doc's existing
-*Aunt Sue's Chocolate Chip Cookies* tab — but it is still your call, not an assumption
-made here.
+**The typed page adds method the card never had:** how to crush the crackers (plastic bag,
+rolling pin), a warning to watch the butter so it does not burn, and the closing note about
+Christmas.
+
+**Attribution stays with the card.** The typed page is unsigned; the card says Aunt Sue, and
+is the only source naming anyone.
 
 
 ## Hot Fudge
