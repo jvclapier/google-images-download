@@ -32,6 +32,7 @@ clean to copy.
 | Cinnamon Rolls | Breakfasts › Cinnamon Rolls | ☐ |
 | Waffles | Breakfasts › Grandma Verna's Waffles — *same recipe as below* | ☐ |
 | Grandma Verna's Very Best Waffles | Breakfasts › Grandma Verna's Waffles | ☐ |
+| German Pancakes | Breakfasts › German Pancakes | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -476,6 +477,24 @@ Pour ingredients from the measuring cup into the bowl with the dry ingredients. 
 Pour into waffle iron and cook according to directions on waffle iron.
 
 *When I was a kid we would have waffles almost every Sunday for either breakfast or after church, sometimes for dinner. It is a tradition to have waffles often when my brothers and sisters are all together. I made waffles for Richard for brunch right after we were engaged on Valentines Day. Alot of wonderful waffle memories full of family and love….*
+
+## **German Pancakes**
+
+### **Glauser**
+
+**Ingredients**
+
+  - 1 c. milk
+  - 1 c. flour
+  - 6 T. butter
+  - 6 eggs
+  - ¼ tsp. salt
+
+**Instructions**
+
+Melt butter in a **9x13 pyrex** dish till sizzles in the over at **350**. Then pour in batter and bake **20 min.** till puffy and golden brown. Spread with jam or syrup.
+
+*We got this recipe from Emily's friend's family in Idaho. The White's. We spent New Year's with them one year when Emily's friend Ashley got married.*
 
 ---
 
@@ -1792,3 +1811,22 @@ little hearts and a first-person reminiscence about Sunday waffles, siblings, an
 waffles for Richard the morning after getting engaged on Valentine's Day. The writer is not
 named and is plainly a descendant rather than Verna herself; the attribution above follows
 the title and the doc's tab. "Alot" is the page's own spelling, kept.
+
+
+## German Pancakes
+
+**A decorative printed page** on yellow stock, from the same family cookbook as Grandma
+Verna's Very Best Waffles — identical hand-drawn border and cupcake illustrations.
+
+**The batter is never mixed.** The method melts the butter, then says "pour in batter"
+without ever saying to combine the milk, flour, eggs and salt. Obvious in practice, but the
+step is genuinely absent from the page and nothing has been added.
+
+"till sizzles in the over at 350" is the page's own typo for "oven", kept as written.
+
+**The page is unsigned.** The `### Glauser` line is carried from the doc's existing German
+Pancakes tab, which uses that bare surname. The closing note is first-person, in the same
+voice as the waffles page.
+
+The note records the recipe's provenance: got from the White family in Idaho, friends of
+Emily's, over a New Year's spent with them when Emily's friend Ashley married.
