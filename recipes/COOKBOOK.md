@@ -17,6 +17,7 @@ clean to copy.
 | Chicken Ranch Pasta | Main Dishes › Chicken Ranch Pasta | ✅ |
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
+| Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -123,6 +124,21 @@ replaces filler, never a real recipe.
 2.  Add cut up chicken & spoon over broccoli (placed in casserole dish).
 3.  Top with grated cheese.
 4.  Bake **350° 30 mins.**
+
+## **Aunt Sue's Delicious Chicken**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 1 bottle Russian Salad Dressing
+  - 1 small bottle apricot jam
+  - 1 envelope dry onion soup mix
+  - Chicken pieces
+
+**Instructions**
+
+Combine 1 bottle Russian Salad Dressing, 1 small bottle apricot jam and 1 envelope dry onion soup mix. Pour over chicken pieces. Bake at **350 degrees for 1½ hours**. Serve with rice, rice pilaf or baked potatoes.
 
 ---
 
@@ -1431,3 +1447,28 @@ that tab before creating one.
 **Also on this page but not transcribed, per instruction:** *Nan's Raised Doughnuts*
 (Karen Morgan), whose ingredients are complete on the photo but whose method is cut off,
 and a glaze line beneath it.
+
+## Aunt Sue's Delicious Chicken
+
+**A typed page in a ring binder**, headed *Aunt Sue's Delicious Chicken (Linda Glauser)*.
+Typeset, so the read is exact.
+
+**The page has no ingredient list** — the whole recipe is a single paragraph. The four
+ingredients have been pulled out into a list so the entry matches the rest of the
+collection; the method is left as the page's own prose. This is how the doc already
+handles Guacamole and the Pineapple Cheese Ball.
+
+**No quantity is given for the chicken.** The page says only "pour over chicken pieces",
+so the ingredient line says the same. Nothing invented.
+
+**Title vs. tab:** the page calls it *Aunt Sue's Delicious Chicken*; the doc tab is
+*Russian Chicken*, also credited to Linda Glauser. Russian dressing with apricot jam and
+onion soup mix over chicken is exactly what that tab's name describes, so they are the same
+dish. Kept the page's fuller title.
+
+**Another Aunt Sue recipe.** Alongside the Gold Rush Brownies card ("Aunt Sue") and the
+doc's *Aunt Sue's Chocolate Chip Cookies* tab. As with those, the parenthetical here names
+the **contributor**, Linda Glauser, not the originator.
+
+**Also on this page but not transcribed, per instruction:** *Barbecued Shrimp*
+(Tricia Vorwaller), whose method continues past the edge of the photo.
