@@ -22,9 +22,10 @@ clean to copy.
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
-| Bran Muffins | Breakfasts › Bran Muffins | ☐ |
+| Mom's Bran Muffins | Breakfasts › Bran Muffins | ☐ |
 | Granola | Breakfasts › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
+| Applesauce Bran Muffins | Breakfasts › **(new tab needed)** | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -249,28 +250,26 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
   - 6 teaspoons sugar
   - 2 t. salt
 
-## **Bran Muffins**
+## **Mom's Bran Muffins**
 
-### **Mom**
+### **Linda Glauser**
 
 **Ingredients**
 
-  - 1 C. shortening
-  - 2 C. sugar
+  - 1 cup shortening
+  - 2 cups sugar
   - 4 beaten eggs
-  - 5 C. flour
-  - 2 C. Bran Flakes
-  - 4 C. All Bran
+  - 5 cups flour
+  - 2 cups Bran Flakes
   - 5 tsp. baking soda
-  - 2 C. boiling water
-  - 1 qt. buttermilk
-  - 1 Tbls. salt
+  - 2 cups boiling water
+  - 1 quart buttermilk
+  - 1 tbsp. salt
+  - 4 cups All Bran
 
 **Instructions**
 
-1.  Mix shortening & sugar together.
-2.  Mix together — place in fridge over night.
-3.  Bake **20 mins.**
+Mix together boiling water and baking soda. Combine all remaining ingredients in a bowl and then pour in water/soda mixture. Place batter (covered) in refrigerator overnight. Bake at **375 for 20 minutes**.
 
 ## **Granola**
 
@@ -311,6 +310,27 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 **Instructions**
 
 Mix all ingredients together in a large saucepan and bring to a boil over medium heat. Turn heat down to low and add 1 tsp. baking soda. Make sure you have a large enough pan because it will bubble high when you add the baking soda. Serve hot on Monster Pancake or anything needing syrup.
+
+## **Applesauce Bran Muffins**
+
+### **Liza Bridge**
+
+**Ingredients**
+
+  - 1¼ cup whole wheat flour
+  - ¾ cup crushed bran flakes
+  - ½ cup sugar
+  - 1 tsp. baking soda
+  - ½ tsp. nutmeg
+  - 1 cup applesauce
+  - ½ cup oil
+  - 1 tsp. vanilla
+  - 2 eggs
+  - Cinnamon sugar, for topping
+
+**Instructions**
+
+Mix all ingredients together until well blended. Pour into 12 muffin tins and top with cinnamon sugar. Bake at **400 degrees for 15 minutes**.
 
 ---
 
@@ -1059,139 +1079,37 @@ corroboration that the column was read correctly.
 **Title vs. card:** the card spells it *Sweedish Pancakes*. Used the doc's spelling so it
 matches the tab.
 
-## Bran Muffins
+## Mom's Bran Muffins
 
-Handwritten floral "RECIPE" card, signed "Mom" with a small drawn heart — **the fourth
-card in the batch signed only "Mom"**. Cook time is filled in as 20 mins; prep time and
-servings are blank.
+**Filed twice, from two sources.** First from a handwritten floral card signed "Mom" with
+a drawn heart. Then from a typed page in a ring binder, headed *Mom's Bran Muffins
+(Linda Glauser)*. The entry above now follows the typed page.
 
-**No oven temperature anywhere on the card.** It says only "Bake 20 mins." Nothing has
-been invented to fill that in — the temperature needs adding from whoever bakes these.
+**The typed page supplies the missing oven temperature.** The handwritten card said only
+"Bake 20 mins", a gap flagged when it was first filed. The typed version gives
+**375 for 20 minutes**, and adds the method the card left out: dissolve the soda in the
+boiling water first, combine everything else, then pour the water/soda mixture in.
 
-The card braces the shortening and sugar under *mix together*, kept as step 1. The
-lower line then repeats "Mix together — place in fridge over night", which reads as the
-whole batter rather than those two alone, so both are kept as written.
+The ingredient lists match exactly across both sources — a useful cross-check on the
+handwritten reading.
 
-Quantities are split across two columns on the card; the left column's leading numerals
-are amounts, not step numbers.
+**"Mom" resolves to Linda Glauser's mother, not to Linda.** The typed page's parenthetical
+names the *contributor*, as it does on the Grandma M's Hot Chocolate page. So the `###`
+line is Linda Glauser, matching the doc's existing Bran Muffins tab, while "Mom's" in the
+title refers to her mother.
 
-## Applesauce Chocolate Chip Cookies
+**This confirms "Mom" is not one person across the collection.** The Sausage Souffle card
+spells "Mom" out as Verna Metcalf; this page attaches Mom's Bran Muffins to Linda Glauser.
+The remaining unresolved "Mom" cards — Brownies, Sugar Cookies, Chicken Casserole — should
+not be merged with either.
 
-**Printed page 196 of a spiral-bound cookbook**, credited to Linda Clapier and subtitled
-*A family favorite!*, which is kept as the italic note. Typeset text, so the read is
-exact — no ambiguous quantities anywhere.
+## Applesauce Bran Muffins
 
-The page runs its method as a paragraph, so it is kept as a paragraph rather than split
-into numbered steps.
+**A typed page in a ring binder**, credited to Liza Bridge. Typeset, so the read is exact.
 
-**Title vs. tab:** the page says *Applesauce Chocolate Chip Cookies*; the doc tab is
-*Applesauce Cookies*, also credited to Linda Clapier. Same recipe. Kept the page's fuller
-title.
-
-## Untitled — applesauce, chocolate chip & raisin cookies (Jill Balli)
-
-Same printed page 196, the recipe immediately above the Applesauce Chocolate Chip
-Cookies. **Its title falls above the top edge of the photo**, so the name is unknown —
-the heading used in the file is descriptive and must be replaced once the real title is
-known. Everything else is complete: full ingredient list, full method, and the
-attribution to Jill Balli.
-
-Filed to Overflow rather than guessed into a tab. It is a distinct recipe from the
-Applesauce Chocolate Chip Cookies below it — different author, sugar instead of brown
-sugar, raisins and nutmeg, and a **350°** bake rather than **375°**.
-
-A photo showing the top of page 196 would settle the title.
-
-## Cauliflower Casserole
-
-**Printed page from a spiral-bound cookbook**, credited to Jennifer Merkley. Typeset, so
-the read is exact.
-
-**A handwritten "(3)" is pencilled beside "1 medium cauliflower"** — almost certainly
-someone scaling the recipe up to three cauliflowers, though nothing else on the page is
-scaled. Left the printed `1 medium cauliflower` as the ingredient and recorded the
-annotation as an italic note rather than silently tripling anything.
-
-**No tab exists for this recipe.** Sides is the right category, but the doc has no
-Cauliflower Casserole tab — one needs adding. Sides does have a *Thanksgiving
-Cauliflower* tab credited to Linda Clapier; that is a different recipe by a different
-person, so the two have not been merged. Worth a look before you create a new tab, in
-case they turn out to be the same dish.
-
-The page footnotes its "Buttered bread cubes*" ingredient. The asterisk is dropped and
-the footnote given a bold label instead, so the block pastes cleanly — Markdown would
-otherwise read a leading asterisk as a bullet.
-
-The subtitle is kept as an italic note, matching how *A family favorite!* was handled on
-the Applesauce Chocolate Chip Cookies page.
-
-**Also on this page but not transcribed:** a recipe beginning "Carrots with P…" starts at
-the bottom edge and is cut off. Show-through from the reverse side ("Black Beans and
-Rice") is visible at the top right and was ignored.
-
-## Apple and Butternut Squash Soup
-
-**Printed page**, credited to Alan & Stephanie. Typeset, so the read is exact. Only the
-top recipe on the page was transcribed, as requested.
-
-**"Cook until squash is very soft, about 3 minutes" is almost certainly a typo** in the
-printed page — squash does not go very soft in three minutes of simmering, and 30 minutes
-would fit the method. Left exactly as printed rather than corrected; worth fixing by hand
-if you know the intent.
-
-"Garnish with a dollop or sour cream" is also the page's own wording, where "of" was
-clearly meant. Kept as printed.
-
-**Attribution differs from the doc.** The page credits Alan & Stephanie; the doc's
-Butternut Squash Apple Soup tab credits Eliza Clapier. Used the page's, since that is
-what the source says. Same dish either way — it is the only butternut-and-apple soup tab.
-
-**Title vs. tab:** the page says *Apple and Butternut Squash Soup*, the tab is
-*Butternut Squash Apple Soup*. Kept the page's wording.
-
-**Also on this page but not transcribed, per instruction:** *Autumn Carrot Chowder*
-(Denice & Eddie), which is complete on the photo and can be added any time.
-
-## Smokey and Sweet Turkey Chili
-
-**A printed web page**, not a card — the first in the batch. Sourced from Mountain Mama
-Cooks (@mountainmamacooks), recorded as an italic source line under the recipe. Typeset,
-so the read is exact and there is nothing ambiguous.
-
-**The printed heading is "Smokey and Sweet Turkey Chili {Maple Cookbook Review &
-Giveaway}".** The braced half is the blog post's own title, not part of the recipe name,
-so it was dropped. The doc tab is *Smokey & Sweet Turkey Chili*.
-
-**The page carries no personal attribution**, being a blog printout. The
-`### Eliza Clapier` line is carried from the doc's existing stub; the blog is credited
-separately in the source line.
-
-Fractions converted to the doc's house glyphs — `1/2` → `½`, `4 1/2` → `4½`, `1/3` → `⅓`,
-`1/4` → `¼`. Wording is otherwise verbatim.
-
-## Gold Rush Brownies
-
-Handwritten Stylecraft card (69-930), "From the Kitchen of Aunt Sue". Written in faded
-brown ink on a stained card. "Serves" was blank.
-
-**The butter quantity is the shaky one.** Read as `½ cube`, but the stroke before it could
-make it `1½ cube`. Half a cube (¼ cup) is thin for a 9x12 crumb base, which argues for
-more — but the card was not clear enough to overrule what is written. Check the photo.
-
-`gr. cr.` is the card's abbreviation for graham cracker, kept as written.
-
-"1½ – 1¾ can condensed milk" is the card's own phrasing; it presumably means one and a
-half to one and three-quarter cans, but it is left verbatim rather than rewritten.
-
-**Step 3's verb is inferred.** The card lists choc. chips, coconut, and nuts on their own
-lines after "sprinkle crackers over butter", with no verb of their own. "Add" was supplied
-to make the step readable; the layering order is the card's.
-
-**Cross-reference on "Sue".** This card says *Aunt Sue* in full. The Cottage Noodle Bake
-card earlier says only *Sue*, and was deliberately not promoted to "Aunt Sue". This card
-makes it more likely they are the same person, along with the doc's existing
-*Aunt Sue's Chocolate Chip Cookies* tab — but it is still your call, not an assumption
-made here.
+**Cinnamon sugar was added to the ingredient list.** The page omits it there but the method
+says to top the muffins with it. Listed as "Cinnamon sugar, for topping" so it is not
+missed; no quantity is given on the page and none has been invented.
 
 ## Granola
 
