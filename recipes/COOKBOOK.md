@@ -19,6 +19,7 @@ clean to copy.
 | Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
+| Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -165,6 +166,36 @@ Combine 1 bottle Russian Salad Dressing, 1 small bottle apricot jam and 1 envelo
 **Instructions**
 
 Melt butter over medium heat. Add cream, stirring constantly. Let butter and cream mixture thicken. Stir in salt, pepper, garlic salt, parsley flakes and ¼ cup grated Parmesan cheese. Slowly add egg yolk, stirring constantly so the egg doesn't cook. Simmer over low heat for **3-5 minutes**. Garnish with additional Parmesan cheese and parsley if desired. Pour over noodles. Great too with chicken added.
+
+## **Chicken Enchiladas**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 10 chicken breast halves, cooked and cubed
+  - 1 large onion
+  - 2 cans green chilies
+  - 1 # longhorn cheese, grated
+  - 20 med. or 10 large flour tortillas
+
+**Instructions**
+
+Mix chicken, onion, green chilies, and ⅓ of the cheese. Fill tortilla, roll and put in large pan. Cover w/ sauce.
+
+### **Sauce**
+
+**Ingredients**
+
+  - 2 cans cream of chicken soup
+  - 1 can chicken broth
+  - 1 carton sour cream
+
+**Instructions**
+
+Mix together and spread over tortillas. (I use a little of the sauce mixed in with the chicken mixture.) Put the rest of the cheese on top and bake covered with foil for **45 min. – 1 hr. at 350**.
+
+*This makes alot! Leftovers freeze well.*
 
 ---
 
@@ -1911,3 +1942,30 @@ Verna's Baked Zucchini*, and Verna Metcalf is how the doc names her elsewhere.
 
 **Also on this page but not transcribed, per instruction:** *Zucchini Casserole*, directly
 beneath it, whose method runs off the bottom edge of the photo in any case.
+
+
+## Chicken Enchiladas
+
+**A decorative printed page** from the same family cookbook as the Baked Beans, Waffles and
+German Pancakes — same border and cupcake illustrations, on pale stock this time. Clean
+read.
+
+**`1 #` means one pound.** The page uses the old pound sign for weight; kept as written
+rather than expanded.
+
+**The sauce was split into its own section.** The page interleaves it — listing the three
+sauce ingredients mid-method, right after "Cover w/sauce:" — which does not survive as a
+single block. It is given here as a `Sauce` component, matching how the doc handles
+Robynne's Lasagne and the Cinnamon Rolls glaze. No wording changed.
+
+The onion carries no prep instruction — the page says only "1 large onion", not chopped or
+diced.
+
+**The page is unsigned.** The `### Linda Glauser` line is carried from the doc's existing
+Chicken Enchiladas tab. The parenthetical aside about mixing sauce into the chicken is
+first person, in the same voice as the other pages from this cookbook.
+
+"alot" is the page's own spelling, kept.
+
+**Also visible in the photo:** the facing page carries what looks like the Ritz Chicken
+recipe, but only fragments of its left edge are in frame.
