@@ -24,6 +24,7 @@ clean to copy.
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Bran Muffins | Breakfasts › Bran Muffins | ☐ |
 | Granola | Breakfasts › **(new tab needed)** — listed under POTENTIAL | ☐ |
+| Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -292,6 +293,24 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 2.  Mix oats, brown sugar, sunflower seeds, and nuts.
 3.  Pour honey and peanut butter mixture over oat mixture and mix to coat.
 4.  Spread on 2 cookie sheets and bake at **250 degrees for 2 hours** — stir every **30 minutes**.
+
+## **Buttermilk Syrup**
+
+### **Karen Morgan**
+
+**Ingredients**
+
+  - 1 cup sugar
+  - 1 tbsp. corn starch
+  - 1 cup buttermilk
+  - ½ cup butter
+  - 1 tbsp. light Karo syrup
+  - 1 tsp. vanilla
+  - 1 tsp. baking soda
+
+**Instructions**
+
+Mix all ingredients together in a large saucepan and bring to a boil over medium heat. Turn heat down to low and add 1 tsp. baking soda. Make sure you have a large enough pan because it will bubble high when you add the baking soda. Serve hot on Monster Pancake or anything needing syrup.
 
 ---
 
@@ -1376,3 +1395,20 @@ the end of the method; it is placed last here, where it belongs in sequence.
 **No tab exists for this recipe.** Desserts already has three brownie tabs, but this batch
 has now claimed all of them — Mint Brownies, Chocolate Brownies, and Gold Rush Brownies
 are each taken by a different card. A new tab is needed.
+
+## Buttermilk Syrup
+
+**A typed page in a ring binder**, credited to Karen Morgan — which matches the doc's
+existing Buttermilk Syrup tab exactly, attribution included. Typeset, so the read is
+exact.
+
+**One ingredient was added to the list.** The page's ingredient column omits the baking
+soda, but the method calls for "1 tsp. baking soda" and warns about the pan bubbling over
+when it goes in. `1 tsp. baking soda` has been added to the ingredients so a cook reading
+the list alone is not caught out. The method is otherwise verbatim, soda included.
+
+"Monster Pancake" is the page's own reference to another recipe, kept as written.
+
+**Also on this page but not transcribed, per instruction:** the tail of the recipe above
+it — bread or muffin loaves with an orange-juice and almond glaze — whose beginning falls
+above the top edge of the photo.
