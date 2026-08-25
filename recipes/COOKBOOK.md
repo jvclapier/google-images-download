@@ -20,6 +20,7 @@ clean to copy.
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
+| Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -196,6 +197,26 @@ Mix chicken, onion, green chilies, and ⅓ of the cheese. Fill tortilla, roll an
 Mix together and spread over tortillas. (I use a little of the sauce mixed in with the chicken mixture.) Put the rest of the cheese on top and bake covered with foil for **45 min. – 1 hr. at 350**.
 
 *This makes alot! Leftovers freeze well.*
+
+## **Ritz Cracker Baked Chicken**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - Skinless chicken — thighs, legs, breasts
+  - Ritz cracker crumbs
+  - Melted butter
+  - Salt and pepper
+  - Rosemary
+
+**Instructions**
+
+Dip chicken in melted butter. Cover with crumbs. Salt and pepper to suit you. Rosemary crushed in hand over the top. Bake at **350 for 1 hr.**
+
+(Another version is to dip in yogurt instead of butter, season with garlic, drizzle ¼ cube butter over top and top with parmesan cheese.)
+
+*Or Grass Chicken, as Linda calls it, because of the Rosemary.*
 
 ---
 
@@ -1969,3 +1990,31 @@ first person, in the same voice as the other pages from this cookbook.
 
 **Also visible in the photo:** the facing page carries what looks like the Ritz Chicken
 recipe, but only fragments of its left edge are in frame.
+
+
+## Ritz Cracker Baked Chicken
+
+**A decorative printed page** from the same family cookbook, on pale lavender stock — the
+facing page to the Chicken Enchiladas. Clean read.
+
+**The title runs to three centred lines:** *Ritz Cracker Baked Chicken (or Grass Chicken as
+Linda calls it because of the Rosemary)*. The parenthetical is carried as the italic note
+rather than crammed into the heading, so the heading stays usable while the nickname
+survives.
+
+**Salt, pepper and rosemary were added to the ingredient list.** All three appear in the
+method but not in the page's three-line ingredient list. No quantities are given for
+anything on this page — not even the chicken — so all five lines are unquantified, as the
+page is.
+
+**The alternative method is kept in place.** The page gives it as a parenthetical paragraph
+after the main method — yogurt instead of butter, garlic, ¼ cube butter drizzled, parmesan
+on top — and it is left exactly there rather than promoted to its own component.
+
+**The page is unsigned, and its writer is probably not Linda** — the title refers to her in
+the third person. The `### Linda Glauser` line is carried from the doc's existing Ritz
+Chicken tab.
+
+A printed quotation at the foot of the page — *"If you sow thorns, you will not reap
+roses."* — is the cookbook's page furniture, as on the Baked Beans page, and is not in the
+block above.
