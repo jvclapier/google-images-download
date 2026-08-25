@@ -20,6 +20,7 @@ clean to copy.
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
+| Spinach Salad | Sides › Berry Spinach Salad | ☐ |
 | Sausage Souffle | Breakfasts › Sausage Souffle | ☐ |
 | Swedish Pancakes | Breakfasts › Swedish Pancakes | ☐ |
 | Mom's Bran Muffins | Breakfasts › Bran Muffins | ☐ |
@@ -138,17 +139,17 @@ replaces filler, never a real recipe.
   - 2 Tbs. lemon juice
   - ½ pt. whip cream
   - 1 c. pineapple tidbits, drained
-  - 1 c. Mandarin oranges
+  - 1 c. Mandarin oranges, drained
   - 80 mini marshmallows (1 cup)
   - 1 c. grated cheese
   - 5 bananas
 
 **Instructions**
 
-1.  Stir eggs, sugar, and lemon juice in double boiler until thick. Cool in refrigerator.
-2.  Whip ½ pt. whip cream. Stir into above cooled mixture.
-3.  Add drained pineapple tidbits, Mandarin oranges, mini marshmallows, and grated cheese.
-4.  Add 5 bananas before serving.
+1.  In a double boiler, stir together the eggs, sugar and lemon juice. Cook over medium heat, stirring until thick. Cool in refrigerator.
+2.  Whip ½ pt. cream and stir into above mixture.
+3.  Add pineapple tidbits (drained), mandarin oranges (drained), mini marshmallows and grated cheese.
+4.  Right before serving, add 5 sliced bananas.
 5.  Set **12 hours.**
 
 ## **Cauliflower Casserole**
@@ -198,6 +199,33 @@ Cook cauliflower uncovered in boiling salted water 10 minutes or until tender. D
 2.  Add the rest of ingredients to a bowl & toss with the cous cous.
 
 *If you can't find pomegranate arils, you can cut up green grapes as a substitute but it's so good plain as a salad and I have loved it in a pita with chicken and baba ghannouj. So fresh and yummy!*
+
+## **Spinach Salad**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 2 bags baby spinach
+  - Chopped, toasted pecans
+  - Small package mozzarella cheese
+  - 1 pint strawberries, hulled and sliced
+
+### **Dressing**
+
+**Ingredients**
+
+  - ⅓ cup raspberry wine vinegar
+  - 1 tsp. salt (scant)
+  - ½ cup sugar
+  - 1 tsp. dry mustard (scant)
+  - ½ cup oil
+  - 1½ tsp. poppy seeds
+  - Drop of red food coloring (if desired)
+
+**Instructions**
+
+Mix together in a blender the raspberry wine vinegar, salt, sugar, dry mustard and oil. Stir in the poppy seeds and a drop of red food coloring (if desired).
 
 ---
 
@@ -976,61 +1004,39 @@ self-correction), "+ more" after the tomato sauce with no quantity. "Serves" was
 
 ## Fruit Salad
 
-Handwritten Stylecraft card (69-930), "From the Kitchen of Verna Metcalf".
+**Filed twice, from two sources.** First from a handwritten Stylecraft card (69-930),
+"From the Kitchen of Verna Metcalf". Then from a typed page in a ring binder, headed
+*Fruit Salad (Linda Glauser)*. The two describe the same salad.
 
-Clean read. The card braces eggs, sugar, and lemon juice under *stir in double boiler
-until thick / cool in refrigerator*, which is step 1. Its own "80 mini marshmallows
-(1 cup)" keeps both the count and the parenthetical.
+**Neither source is complete on its own, so the entry above merges them.** The typed page
+adds "cook over medium heat" and specifies the mandarin oranges are drained; the
+handwritten card supplies **"Set 12 hours"**, which the typed page omits entirely. Both are
+kept.
 
-## Sugar Cookies
+**Attribution conflicts three ways.** The handwritten card explicitly says
+*From the Kitchen of Verna Metcalf*. The typed page's parenthetical says *Linda Glauser* —
+but on that compilation the parenthetical marks the **contributor**, as it does for Mom's
+Bran Muffins and Grandma M's Hot Chocolate. The doc's Fruit Salad tab credits Linda
+Glauser. Verna Metcalf is kept above, on the grounds that hers is the only source naming a
+kitchen; change it if you know better.
 
-Handwritten Stylecraft card (69-930), "From the Kitchen of Mom". Attribution left as
-"Mom".
+The card's "80 mini marshmallows (1 cup)" and the typed page's "1 cup mini marshmallows"
+agree. The card's fuller wording is kept.
 
-**The most faded and torn card of the batch — check every quantity against the photo.**
-`1 lb. butter`, `2½ c. sugar`, and `6½ c. flour` are best readings, none crisp. A
-crossed-out word follows "eggs." that I could not make out. "Serves" was blank.
+## Spinach Salad
 
-## Chicken Noodle Soup
+**A typed page in a ring binder**, credited to Linda Glauser. Typeset, so the read is
+exact.
 
-Handwritten floral "RECIPE" card, signed "(Jill Bunting)" — a different person from the
-Jill Wankier already in the doc. Cook time, prep time, and servings all blank.
+**A clean tab match:** the doc's *Berry Spinach Salad* in Sides is also credited to Linda
+Glauser, and spinach with strawberries is plainly the same dish. Kept the page's shorter
+title.
 
-**The flour is uncertain:** read as `½ c.`, but it could be `1½ c.`, and a crossed-out
-word sits beside it. `½ c.` is the proportionate roux for one cube of butter, which
-decided it.
+The dressing runs as one inline paragraph on the page. It is split here into ingredients
+and method, as with the Cinnamon Rolls glaze.
 
-The card gives no unit for "3 celery" or "1 onion". It braces the vegetable column under
-*cook*, and butter + flour under *melt + mix together*.
-
-## Chocolate Marshmallow Cookies
-
-Handwritten floral "RECIPE" card, front and back. Cook time, prep time, and servings all
-blank. **The card carries no name** — the `### Linda Glauser` line is carried over from
-the doc's existing stub, not from the card.
-
-The card's own spellings are kept in the body: "shortning", "marshmellows". The title
-uses the doc's spelling so it matches the tab; the card writes "Chocolate Marshmellow
-Cookies".
-
-The frosting's melted butter has a struck-out quantity before the `8 Tbls.` — a
-correction, so `8 Tbls.` is the live figure. "melted" also looks written over itself.
-
-"Cook one minute or until melted" is squeezed into the back's top corner alongside the
-marshmallow line, so it belongs to that step rather than being a separate instruction.
-
-## Grasshopper Pie
-
-Handwritten lined index card, signed "Lauren Glauser". Clean read.
-
-**Three different names are attached to this recipe.** The card says *Lauren Glauser*,
-which is used above. The doc's existing entry credits *Linda Glauser*, and the index tab
-lists "Grasshopper pie" under **EMS** (Emily Romrell). Worth settling before pasting.
-
-**The destination tab is misnamed.** In Desserts there is no "Grasshopper Pie" tab — the
-recipe sits inside a tab titled **Emily Romrell**, which still holds the
-`1½ cups white sugar` stub. Paste there, or rename that tab to "Grasshopper Pie" first
-to match how every other recipe tab is named.
+The salad ingredients carry no quantities for the pecans or mozzarella beyond "chopped,
+toasted" and "small package" — the page's own wording, left as is.
 
 ## Sausage Souffle
 
