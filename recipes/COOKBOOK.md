@@ -27,6 +27,7 @@ clean to copy.
 | Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
 | Applesauce Bran Muffins | Breakfasts › **(new tab needed)** | ☐ |
 | Cinnamon Rolls | Breakfasts › Cinnamon Rolls | ☐ |
+| Waffles | Breakfasts › **(new tab needed)** | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -368,6 +369,23 @@ Roll out dough, on a floured surface, into a rectangle about **8 inches wide and
 **Instructions**
 
 Cream together butter and cream cheese. Add vanilla and powdered sugar and mix until smooth. Spread on rolls while still warm.
+
+## **Waffles**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 2 cups flour
+  - 3 tsp. baking powder
+  - ½ tsp. salt
+  - 1½ cups milk
+  - 3 eggs, separated
+  - 5 tbsp. oil
+
+**Instructions**
+
+Mix together flour, baking powder and salt. Then add egg yolks, milk and oil. Mix well. In separate bowl, whip egg whites until fluffy. Then fold into other mixture.
 
 ---
 
@@ -1388,3 +1406,22 @@ into ingredients and method to match the rest of the collection.
 
 **Also on this page but not transcribed, per instruction:** *Liege Waffles* (Karen
 Morgan), whose method is cut off at the bottom edge in any case.
+
+## Waffles
+
+**A typed page in a ring binder**, credited to Linda Glauser. Typeset, so the read is
+exact — six ingredients, nothing ambiguous.
+
+**The method stops at the batter.** It ends with "then fold into other mixture" and never
+says to cook the waffles — no iron, no time, no yield. Obvious enough in practice, but
+nothing has been added.
+
+**Placement is uncertain.** Breakfasts is clearly right, but the doc's only waffle tab is
+*Grandma Verna's Waffles*, credited to **Verna Metcalf**, while this page is titled plainly
+*Waffles* and credited to **Linda Glauser**. They may be the same recipe passed down, or
+two different ones. Marked as needing a new tab rather than overwriting Verna's — check
+that tab before creating one.
+
+**Also on this page but not transcribed, per instruction:** *Nan's Raised Doughnuts*
+(Karen Morgan), whose ingredients are complete on the photo but whose method is cut off,
+and a glaze line beneath it.
