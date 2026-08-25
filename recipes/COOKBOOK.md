@@ -30,7 +30,8 @@ clean to copy.
 | Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
 | Applesauce Bran Muffins | Breakfasts › **(new tab needed)** | ☐ |
 | Cinnamon Rolls | Breakfasts › Cinnamon Rolls | ☐ |
-| Waffles | Breakfasts › **(new tab needed)** | ☐ |
+| Waffles | Breakfasts › Grandma Verna's Waffles — *same recipe as below* | ☐ |
+| Grandma Verna's Very Best Waffles | Breakfasts › Grandma Verna's Waffles | ☐ |
 | Sugar Cookies | Desserts › Sugar Cookies | ☐ |
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
@@ -452,6 +453,29 @@ Cream together butter and cream cheese. Add vanilla and powdered sugar and mix u
 **Instructions**
 
 Mix together flour, baking powder and salt. Then add egg yolks, milk and oil. Mix well. In separate bowl, whip egg whites until fluffy. Then fold into other mixture.
+
+## **Grandma Verna's Very Best Waffles**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 2 c. flour
+  - 3 tsp. baking powder
+  - ½ tsp. salt
+  - 1⅔ c. milk
+  - 5 T. oil
+  - 3 eggs, separated
+
+**Instructions**
+
+Sift the dry ingredients together into a bowl. In a large measuring cup put the milk, oil and egg yolks. (Put the egg whites into a separate bowl.) Whip the egg whites until stiff peaks form. Set aside.
+
+Pour ingredients from the measuring cup into the bowl with the dry ingredients. Beat well. Fold in the stiff egg whites gently just until mixed. There will be a few lumps of egg whites not mixed in….
+
+Pour into waffle iron and cook according to directions on waffle iron.
+
+*When I was a kid we would have waffles almost every Sunday for either breakfast or after church, sometimes for dinner. It is a tradition to have waffles often when my brothers and sisters are all together. I made waffles for Richard for brunch right after we were engaged on Valentines Day. Alot of wonderful waffle memories full of family and love….*
 
 ---
 
@@ -1746,3 +1770,25 @@ No can size is given for the evaporated milk, and "2 squares butter" is the page
 **Also on this page but not transcribed, per instruction:** a chocolate fondue recipe above
 it, whose title falls above the top edge of the photo. Its ingredients and full method are
 otherwise legible, if you want it added.
+
+
+## Grandma Verna's Very Best Waffles
+
+**A decorative printed page** on yellow stock from a family cookbook, with a hand-drawn
+border and a handwritten **"3 eggs"** added above the egg yolks — the printed text says only
+"egg yolks" with no count, so that annotation is the source of the `3 eggs, separated` line.
+
+**This is the same recipe as the *Waffles* entry above.** Filed two messages ago from a
+typed compilation credited to Linda Glauser, and marked then as possibly-or-possibly-not
+the same as the doc's *Grandma Verna's Waffles* tab. It is the same: flour, baking powder,
+salt, oil and the separated-egg method all match exactly.
+
+**One quantity differs between the two: the milk.** This page says `1⅔ c.`; the Linda
+Glauser typing says `1½ cups`. Both entries are kept so neither reading is lost — decide
+which to paste, or paste this one, since it matches the tab name and is the fuller source.
+
+**The closing note is the reason to keep this version.** The recipe is followed by three
+little hearts and a first-person reminiscence about Sunday waffles, siblings, and making
+waffles for Richard the morning after getting engaged on Valentine's Day. The writer is not
+named and is plainly a descendant rather than Verna herself; the attribution above follows
+the title and the doc's tab. "Alot" is the page's own spelling, kept.
