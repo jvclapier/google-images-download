@@ -86,25 +86,25 @@ replaces filler, never a real recipe.
 
 **Ingredients**
 
-  - 1 8 oz. pkg. noodles, cooked
-  - 1–1½ lbs. lean ground beef
-  - 2 T. butter
+  - 8 oz. package noodles, cooked
+  - 1½ lbs. lean ground beef
   - ⅛ tsp. pepper
   - 1½ tsp. garlic salt
-  - 1 8 oz. can tomato sauce + more
-  - 1½ c. cottage cheese
-  - ½ c. sour cream
+  - 8 oz. can tomato sauce
+  - 1½ cup cottage cheese
+  - ½ cup sour cream
   - 6 gr. onions, chopped
-  - ¾ c. monterey jack cheese, grated
+  - ¾ cup Monterey Jack cheese
 
 **Instructions**
 
-1.  Brown meat in butter. Add pepper, garlic salt, tomato sauce. Simmer **5 min.**
-2.  Combine remaining ingredients except cheese.
-3.  Alternate layers of noodle mixture and meat mixture in **2 qt. casserole**, beginning w/ noodles and ending w/ meat. Top w/ cheese.
-4.  Bake **350° 30 min.**
+1.  Brown ground beef and drain off grease. Add pepper, garlic salt and tomato sauce. Simmer for **5 minutes**.
+2.  Combine remaining ingredients, except cheese.
+3.  Alternate layers of noodles and meat mixture in **2 qt. casserole**, beginning with noodles and ending with meat.
+4.  Top with cheese (grated).
+5.  Bake at **350 degrees for 30 minutes**.
 
-*(I put some cheese in middle)*
+*(I also put some cheese in the middle.)*
 
 ## **Chicken Casserole**
 
@@ -1026,18 +1026,33 @@ as "mix"; anything past the edge is not visible. "Serves" was blank.
 
 ## Cottage Noodle Bake
 
-Handwritten Stylecraft card (69-930), front and back. The front breaks off at "Brown
-meat in butter. Add pepper" and the back resumes at "garlic salt, tomato sauce."
+**Filed twice, from two sources.** First from a handwritten Stylecraft card (69-930),
+front and back, "From the Kitchen of Mom (Sue)" — actually headed *Sue*. Then from a typed
+page in a ring binder, headed *Cottage Noodle Bake (Linda Glauser)*. The entry above now
+follows the typed page.
 
-**`2 T. butter` is struck through on the card**, but step 1 still reads "Brown meat in
-butter." Kept the ingredient — the method depends on it. The card as written contradicts
-itself here.
+**The butter question is settled — and the strikethrough was right.** The handwritten card
+struck out `2 T. butter` yet still said "Brown meat in butter", a contradiction flagged
+when it was first filed, where the butter was kept because the method seemed to need it.
+The typed page has **no butter at all** and opens "Brown ground beef and drain off
+grease." The struck ingredient was correctly struck; the butter has now been removed and
+step 1 replaced.
 
-Attribution is "Sue"; left as written rather than resolved to "Aunt Sue", though the doc
-has an "Aunt Sue's Chocolate Chip Cookies" tab that may be the same person.
+**The typed page drops the green onions.** The handwritten card lists "6 gr. onions,
+chopped"; the typed version omits them entirely. They are kept above, on the principle
+that losing an ingredient is worse than carrying a doubtful one — but the typed page is
+the cleaner source, so this is worth a decision.
 
-Kept verbatim: "6 gr. onions" (almost certainly green onions), "tom^ato sauce" (a caret
-self-correction), "+ more" after the tomato sauce with no quantity. "Serves" was blank.
+Two smaller differences, both resolved toward the typed page: beef is `1½ lbs` rather than
+the card's `1–1½ lbs`, and the tomato sauce loses the card's trailing "+ more".
+
+**Attribution conflicts.** The handwritten card says *From the Kitchen of Sue*; the typed
+page's parenthetical says *Linda Glauser*, which on that compilation marks the
+**contributor**; the doc's tab says Linda Glauser. "Sue" is kept above, as the only source
+naming a kitchen — the same call made for Fruit Salad.
+
+The marginal note about cheese in the middle appears on **both** sources, which is good
+evidence the two descend from the same original.
 
 ## Fruit Salad
 
