@@ -18,6 +18,7 @@ clean to copy.
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
 | Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
+| Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -139,6 +140,26 @@ replaces filler, never a real recipe.
 **Instructions**
 
 Combine 1 bottle Russian Salad Dressing, 1 small bottle apricot jam and 1 envelope dry onion soup mix. Pour over chicken pieces. Bake at **350 degrees for 1½ hours**. Serve with rice, rice pilaf or baked potatoes.
+
+## **Alfredo Sauce and Pasta**
+
+### **Karen Morgan**
+
+**Ingredients**
+
+  - 3 tbsp. butter
+  - 8 oz. whipping cream
+  - Salt and pepper to taste
+  - ¼ tsp. garlic salt
+  - Pinch dried parsley
+  - ¼ cup Parmesan cheese
+  - 1 egg yolk
+  - Grated Parmesan (topping)
+  - Noodles, for serving
+
+**Instructions**
+
+Melt butter over medium heat. Add cream, stirring constantly. Let butter and cream mixture thicken. Stir in salt, pepper, garlic salt, parsley flakes and ¼ cup grated Parmesan cheese. Slowly add egg yolk, stirring constantly so the egg doesn't cook. Simmer over low heat for **3-5 minutes**. Garnish with additional Parmesan cheese and parsley if desired. Pour over noodles. Great too with chicken added.
 
 ---
 
@@ -1472,3 +1493,23 @@ the **contributor**, Linda Glauser, not the originator.
 
 **Also on this page but not transcribed, per instruction:** *Barbecued Shrimp*
 (Tricia Vorwaller), whose method continues past the edge of the photo.
+
+## Alfredo Sauce and Pasta
+
+**A typed page in a ring binder**, credited to Karen Morgan. Typeset, so the read is exact.
+
+**The recipe is really just the sauce.** Despite "and Pasta" in the title, no pasta appears
+in the ingredient column — the method only says "pour over noodles". A `Noodles, for
+serving` line has been added so the list is not misleading; the page gives no quantity or
+type, and none has been invented.
+
+The page's own aside, "Great too with chicken added", is kept at the end of the method
+where it was written rather than pulled out as a note.
+
+**No tab exists for this recipe.** Main Dishes is the right category but has no Alfredo
+entry. A new tab is needed.
+
+**Also on this page but not transcribed, per instruction:** the tail of a macaroni cheese
+recipe above it, cut off at the top edge — worth photographing, as it carries a nice aside
+about how Grandma baked hers in a casserole with breadcrumbs — and *Chicken Lasagna*
+(Susan Giddings) below, which runs past the bottom edge.
