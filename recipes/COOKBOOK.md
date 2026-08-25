@@ -62,6 +62,7 @@ clean to copy.
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
+| Bruschetta Bites | Dips & Dressings › **(new tab needed)** | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
@@ -1228,6 +1229,42 @@ Whip together until thick and spreadable.
 
 1.  Mix and chill.
 2.  Serve with cucumber, cauliflower, chips, etc.
+
+## **Bruschetta Bites**
+
+### **Chopped Tomatoe Mixture**
+
+**Ingredients**
+
+  - Tomatoes
+  - Onion (I use a sweet onion)
+  - Green pepper + yellow pepper
+  - ½ jalapeno pepper
+  - Salt + pepper
+
+**Instructions**
+
+You could also just do chopped tomatoes w/ salt + pepper without the other stuff.
+
+### **Toasted Bread Bites**
+
+**Ingredients**
+
+  - Abigails rosemary garlic sourdough, cut into 2-bite sizes
+  - Olive oil
+  - Butter — ½ sq.
+  - Garlic salt — a couple shakes
+  - Balsamic vinegar
+
+**Instructions**
+
+1.  Place on parchment paper on cookie sheet.
+2.  Brush each side with olive oil.
+3.  Broil for **2 min.**, turn over and broil **2 min.** on other side. (Approx, ovens vary.)
+4.  While still hot spread lightly mixture of butter + garlic salt — ½ sq. to a couple shakes of garlic salt.
+5.  When cool, top each piece with spoonfull or so of tomatoe mixture + drizzle with balsamic vinegar. My favorite local is Millcreek olive oil.
+
+*To keep from going soggy too fast — top with tomatoe mixture + balsamic right before serving.*
 
 ---
 
@@ -2542,3 +2579,33 @@ Both kept.
 Chicken Salad*. Same dish — the page serves it over lettuce as a salad. Kept the page's title.
 
 **The page is unsigned.** The `### Linda Clapier` line is carried from the doc's existing tab.
+
+
+## Bruschetta Bites
+
+**A handwritten page from a spiral notebook**, unsigned. Legible but written fast, with
+several words struck out and rewritten.
+
+**The tomato mixture has no quantities at all** — five ingredients, none measured. That is
+how the page has it, and nothing has been supplied. The only figures anywhere in the recipe
+are the ½ jalapeno, the two 2-minute broils, and the "½ sq." of butter.
+
+**The whole tomato section's "method" is a single aside.** The page gives no mixing step,
+only the note that you could skip the peppers and onion and just do chopped tomatoes with
+salt and pepper. Kept as written rather than padded out.
+
+**The soggy note is written vertically up the left margin**, rotated ninety degrees, which is
+why it reads as marginalia rather than a step. It is genuinely useful — top right before
+serving — so it is kept as the italic note.
+
+Olive oil, butter, garlic salt and balsamic were added to the bread section's list; the page
+names them only in the steps.
+
+**No tab exists for this recipe.** Dips & Dressings is where the doc keeps its appetisers —
+cowboy caviar, the cheese ball, guacamole — so that is the category, but a new tab is needed.
+
+**The page is unsigned** and there is no doc tab to carry a name from, so there is no `###`
+attribution line.
+
+Kept as written: "tomatoe", "spoonfull", "Abigails", and the brand aside about Millcreek
+olive oil.
