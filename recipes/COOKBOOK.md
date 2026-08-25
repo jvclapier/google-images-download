@@ -57,6 +57,7 @@ clean to copy.
 | Hot Fudge | Desserts › Hot Fudge | ☐ |
 | Uncle Jim's Double Chocolate Mint Cookies | Desserts › **(new tab needed)** | ☐ |
 | Aunt Myrle's English Toffee | Desserts › **(new tab needed)** | ☐ |
+| Tres Leches Cake | Desserts › **(new tab needed)** | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -1097,6 +1098,44 @@ Mix in a large pan sugar, water, and butter that has been cut into small pieces.
 Take like off and add almonds, stir constantly and fast till thickens, takes just a minute or two… Turn to medium heat and cook until brown. Pour into a greased pan about the side of a **jellyroll pan or a pizza pan**. Immediately lay 6 broken Hershey bars over it, then spread with a knife. Sprinkle with chopped walnuts and let cool. Break up with a knife into pieces and enjoy!
 
 *One of our Christmas Favorites!*
+
+## **Tres Leches Cake**
+
+### **Karen Morgan**
+
+**Ingredients**
+
+  - 1 cup flour
+  - 1½ tsp. baking powder
+  - ¼ tsp. salt
+  - 5 eggs
+  - 1 cup sugar, divided
+  - 1 tsp. vanilla
+  - ⅓ cups milk
+  - 1 can evaporated milk
+  - 1 can sweetened condensed milk
+  - ¼ cups heavy cream
+  - Strawberries — 4 lbs., cleaned, hulled and quartered
+  - ½ cup sugar, for the strawberries
+
+**Instructions**
+
+Combine flour, baking powder and salt in a large bowl. Separate eggs. Beat egg yolks with ¾ cup sugar on high until yolks are yellow. Stir in milk and vanilla. Pour egg yolk mixture over the flour mixture and stir very gently until combined.
+
+Beat egg whites on high speed until soft peaks form. With the mixer on, pour in remaining ¼ cup sugar and beat until egg whites are stiff, but not dry. Fold egg whites mixture into the batter very gently until just combined. Pour into a greased and floured **9x13 pan** and spread to even out the surface. Bake at **350 degrees for 35-45 minutes** or until toothpick comes out clean. Combine condensed milk, evaporated milk and heavy cream in a small pitcher. When cake is cool, pierce the surface with a fork several times. Slowly drizzle the mixture over the cake, trying to get as much around the edges of the cake as you can. Allow the cake to absorb the milk mixture for **30 minutes**.
+
+To ice the cake, whip 1 pint heavy cream with 3 tbsp. sugar until thick and spreadable. Spread over the surface of the cake and decorate with sliced strawberries. While the cake is baking, mix the prepared strawberries (4 lbs. cleaned, hulled and quartered) with ½ cup sugar and refrigerate for at least **3-4 hours**. To serve, top pieces of cake with strawberries and whipped cream or ice cream.
+
+### **Icing**
+
+**Ingredients**
+
+  - 1 pint heavy cream
+  - 3 tbsp. sugar
+
+**Instructions**
+
+Whip together until thick and spreadable.
 
 ---
 
@@ -2434,3 +2473,26 @@ this batch. Kept exactly as the title gives it.
 
 The page's own hedging is kept — "takes just a minute or two…", "cook until brown" with no
 temperature or target given for the caramel stage.
+
+
+## Tres Leches Cake
+
+**A typed page in a ring binder**, credited to Karen Morgan. Typeset, so the read is exact.
+
+**The strawberry quantities were moved up into the list.** The page's ingredient column says
+only "Strawberries"; the real figures — 4 lbs., cleaned, hulled and quartered, macerated with
+½ cup sugar — are buried in the last paragraph. Both are now on the ingredient lines so the
+shopping list is honest. Note that the ½ cup for the strawberries is **on top of** the
+"1 cup sugar, divided" used in the cake itself.
+
+**The icing is given twice**, as the page gives it — once as its own labelled line at the top,
+once inside the final paragraph. Kept as a component and left in the method too.
+
+**The method's order is muddled and left that way.** "While the cake is baking, mix the
+prepared strawberries" appears in the *last* paragraph, well after the baking step; it should
+be done much earlier, especially with a 3-4 hour refrigeration. Nothing has been reordered,
+but it is worth reading the whole method before starting.
+
+"⅓ cups milk" and "¼ cups heavy cream" are the page's own plurals, kept.
+
+**No tab exists for this recipe.** Desserts has no tres leches entry. A new tab is needed.
