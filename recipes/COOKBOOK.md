@@ -23,6 +23,8 @@ clean to copy.
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
+| Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
+| Grandma Verna's Swiss Steak | Main Dishes › Swiss Steak | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -286,6 +288,45 @@ Dip the chicken into the flour mixture, then the eggs, then back into the flour 
 If baking dish is stove top proof you can make the gravy right in the pan on the stove top, using 2 burners. This is best. But if you don't have one, transfer the dripping into a stove proof pan to make the gravy. Add to the drippings 1 can evaporated milk, another c. milk, 4 chicken bouillion cubes, bring to a boil. In another bowl or glass measuring cup put about ¾ c. flour, add cold water and blend well using a wire whip that will squish out lumps. Slowly add the flour/water mixture to the drippings on the stove and stir constantly, adding more thickening until it is the desired thickness.
 
 *Now when I make this I am reminded of so many wonderful family times. This was everyone's favorite!*
+
+## **Grandma Verna's Sloppy Joes**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 1 lb. hamburger
+  - 1 T. lemon juice
+  - 1¼ c. catsup
+  - 1 chopped onion
+  - 2 T. vinegar
+  - 2 T. brown sugar
+  - 1 c. diced celery
+  - 1 tsp. dry mustard
+
+**Instructions**
+
+Simmer **15 min.** Serve on buns.
+
+## **Grandma Verna's Swiss Steak**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 1 round steak, cut into serving size pieces
+  - Flour
+  - 1½ T. oil
+  - Seasoning salt and pepper
+  - About 2 c. hot water
+  - About 1½ c. catsup
+  - About ¾ c. sweet pickle juice
+  - Sliced green pepper
+  - Sliced onion
+
+**Instructions**
+
+Pound flour into meat until it's about ⅓" thick. Brown in skillet w/ 1½ T. oil. Shake seasoning salt and pepper on it as you brown it. Drain off oil and grease. Add about 2 c. hot water, about 1½ c. catsup, about ¾ c. sweet pickle juice, and sliced green pepper, and sliced onion. Simmer with lid on for about **1 hour**. Serve with mashed potatoes. YUMMY!!!
 
 ---
 
@@ -2142,3 +2183,32 @@ line. The closing note is first person, in the same voice as the other pages fro
 cookbook.
 
 "bouillion" and "dripping" (singular) are the page's own spellings, kept.
+
+
+## Grandma Verna's Sloppy Joes
+
+**A decorative printed page** from the same family cookbook, on pale blue stock, carrying
+two recipes. Clean read.
+
+**The method is one line: "Simmer 15 min. Serve on buns."** The hamburger is never browned,
+nothing is ever combined — the page simply lists eight ingredients and says to simmer.
+Obvious enough in practice, but the steps genuinely are not there and nothing has been
+added.
+
+The two-column layout wraps mid-item twice — "2 T. brown / sugar" and "1 tsp. Dry /
+mustard" — which is why those read as single ingredients above rather than four.
+
+## Grandma Verna's Swiss Steak
+
+Same page as the Sloppy Joes above. Clean read.
+
+**The page has no ingredient list** — everything is prose. The nine ingredients were pulled
+out into a list and the method left as written, so quantities appear twice. The flour,
+seasoning salt and pepper carry no amounts because the page gives none.
+
+The repeated "about"s are the page's own hedging, kept in both list and method.
+
+`⅓" thick` is the page's own measure for how far to pound the steak.
+
+"YUMMY!!!" closes the method on the page itself rather than sitting apart as a note, so it
+is kept inline.
