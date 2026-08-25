@@ -43,6 +43,11 @@ there.
 Pick the category from the recipe itself. When no category fits, or two fit equally, put
 it under **Overflow** rather than guessing — that is what it is for.
 
+**When correcting an existing entry, edit only that entry.** Replace the recipe block and
+its notes section by exact match on their own text. Never delete a span bounded by "the
+next heading" — the notes for other recipes sit in between, and a range replace silently
+destroys them.
+
 **Check for a duplicate first.** Users re-send photos. If a recipe of that name is
 already in the file, do not append a second copy: re-read the card, correct the existing
 entry if the new photo shows something the old one missed, and say in the report that it

@@ -41,6 +41,7 @@ clean to copy.
 | Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
 | Chocolate Butterscotch Bundt Cake | Desserts › **(new tab needed)** | ☐ |
 | Amy Brindley Brownies | Desserts › **(new tab needed)** | ☐ |
+| Hot Fudge | Desserts › Hot Fudge | ☐ |
 | Banana Bread | Breads › Banana Bread *(inline tab)* | ☐ |
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
@@ -463,18 +464,16 @@ Mix together flour, baking powder and salt. Then add egg yolks, milk and oil. Mi
 **Ingredients**
 
   - 1 lb. butter
-  - 2½ c. sugar
+  - 2½ cups sugar
   - 3 eggs
-  - 6½ c. flour
-  - 1 tsp. bk. soda
+  - 6½ cups flour
+  - 1 tsp. baking soda
   - 1 tsp. salt
   - 3 tsp. vanilla
 
 **Instructions**
 
-1.  Cream butter, sugar + eggs.
-2.  Sift dry ingredients, soda, salt — add to creamed mixture.
-3.  Chill, roll out and bake **350° 6-8 mins.**
+Cream butter, sugar, eggs and vanilla. Sift flour, soda and salt. Add to creamed mixture. Chill. Roll out, cut into desired shapes and bake at **350 degrees for 6-8 minutes**.
 
 ## **Chocolate Marshmallow Cookies**
 
@@ -739,6 +738,22 @@ Cream butter & sugar. Add eggs 2 at a time beating well after each pair. Add coc
 **Instructions**
 
 Add evaporated milk to desired consistency (regular milk works too).
+
+## **Hot Fudge**
+
+### **Linda Glauser**
+
+**Ingredients**
+
+  - 2 cups sugar
+  - ½ cup cocoa
+  - 2 squares butter
+  - 1 can evaporated milk
+  - 1 tsp. vanilla
+
+**Instructions**
+
+Mix together sugar and cocoa. Melt butter over low heat and add sugar/cocoa mixture. Stir in evaporated milk, stirring constantly. Bring to a boil. Lower heat and stir for **4 minutes**. Add vanilla.
 
 ---
 
@@ -1528,3 +1543,206 @@ entry. A new tab is needed.
 recipe above it, cut off at the top edge — worth photographing, as it carries a nice aside
 about how Grandma baked hers in a casserole with breadcrumbs — and *Chicken Lasagna*
 (Susan Giddings) below, which runs past the bottom edge.
+
+## Sugar Cookies
+
+**Filed twice, from two sources.** First from a handwritten Stylecraft card (69-930),
+"From the Kitchen of Mom" — **the most faded and torn card in the batch**, whose
+quantities were flagged as best-guesses. Then from a typed page in a ring binder, headed
+*Sugar Cookies (Linda Glauser)*.
+
+**Every uncertain reading is confirmed.** The typed page gives `1 lb. butter`,
+`2½ cups sugar` and `6½ cups flour` — exactly what was read off the faded card. Those
+three no longer need checking.
+
+**The unreadable struck word is explained.** A crossed-out word followed "eggs." on the
+card and could not be made out. The typed method creams "butter, sugar, eggs **and
+vanilla**" together, so the vanilla was being moved into or out of that step.
+
+The typed page also adds "cut into desired shapes", which the card omitted. The entry above
+now follows its wording throughout.
+
+**Attribution:** the card says *From the Kitchen of Mom*; the typed page's parenthetical
+says *Linda Glauser*, marking the contributor. "Mom" is kept, consistent with Mom's Bran
+Muffins, where the same pairing showed "Mom" means Linda Glauser's mother rather than Linda
+herself.
+
+**Also on this page but not transcribed, per instruction:** a second and quite different
+*Sugar Cookies* (Liza Bridge) — a drop-and-press cookie with cream of tartar and its own
+frosting, complete on the photo.
+
+## Chicken Noodle Soup
+
+Handwritten floral "RECIPE" card, signed "(Jill Bunting)" — a different person from the
+Jill Wankier already in the doc. Cook time, prep time, and servings all blank.
+
+**The flour is uncertain:** read as `½ c.`, but it could be `1½ c.`, and a crossed-out
+word sits beside it. `½ c.` is the proportionate roux for one cube of butter, which
+decided it.
+
+The card gives no unit for "3 celery" or "1 onion". It braces the vegetable column under
+*cook*, and butter + flour under *melt + mix together*.
+
+## Chocolate Marshmallow Cookies
+
+Handwritten floral "RECIPE" card, front and back. Cook time, prep time, and servings all
+blank. **The card carries no name** — the `### Linda Glauser` line is carried over from
+the doc's existing stub, not from the card.
+
+The card's own spellings are kept in the body: "shortning", "marshmellows". The title
+uses the doc's spelling so it matches the tab; the card writes "Chocolate Marshmellow
+Cookies".
+
+The frosting's melted butter has a struck-out quantity before the `8 Tbls.` — a
+correction, so `8 Tbls.` is the live figure. "melted" also looks written over itself.
+
+"Cook one minute or until melted" is squeezed into the back's top corner alongside the
+marshmallow line, so it belongs to that step rather than being a separate instruction.
+
+## Grasshopper Pie
+
+Handwritten lined index card, signed "Lauren Glauser". Clean read.
+
+**Three different names are attached to this recipe.** The card says *Lauren Glauser*,
+which is used above. The doc's existing entry credits *Linda Glauser*, and the index tab
+lists "Grasshopper pie" under **EMS** (Emily Romrell). Worth settling before pasting.
+
+**The destination tab is misnamed.** In Desserts there is no "Grasshopper Pie" tab — the
+recipe sits inside a tab titled **Emily Romrell**, which still holds the
+`1½ cups white sugar` stub. Paste there, or rename that tab to "Grasshopper Pie" first
+to match how every other recipe tab is named.
+
+## Applesauce Chocolate Chip Cookies
+
+**Printed page 196 of a spiral-bound cookbook**, credited to Linda Clapier and subtitled
+*A family favorite!*, which is kept as the italic note. Typeset text, so the read is
+exact — no ambiguous quantities anywhere.
+
+The page runs its method as a paragraph, so it is kept as a paragraph rather than split
+into numbered steps.
+
+**Title vs. tab:** the page says *Applesauce Chocolate Chip Cookies*; the doc tab is
+*Applesauce Cookies*, also credited to Linda Clapier. Same recipe. Kept the page's fuller
+title.
+
+## Untitled — applesauce, chocolate chip & raisin cookies (Jill Balli)
+
+Same printed page 196, the recipe immediately above the Applesauce Chocolate Chip
+Cookies. **Its title falls above the top edge of the photo**, so the name is unknown —
+the heading used in the file is descriptive and must be replaced once the real title is
+known. Everything else is complete: full ingredient list, full method, and the
+attribution to Jill Balli.
+
+Filed to Overflow rather than guessed into a tab. It is a distinct recipe from the
+Applesauce Chocolate Chip Cookies below it — different author, sugar instead of brown
+sugar, raisins and nutmeg, and a **350°** bake rather than **375°**.
+
+A photo showing the top of page 196 would settle the title.
+
+## Cauliflower Casserole
+
+**Printed page from a spiral-bound cookbook**, credited to Jennifer Merkley. Typeset, so
+the read is exact.
+
+**A handwritten "(3)" is pencilled beside "1 medium cauliflower"** — almost certainly
+someone scaling the recipe up to three cauliflowers, though nothing else on the page is
+scaled. Left the printed `1 medium cauliflower` as the ingredient and recorded the
+annotation as an italic note rather than silently tripling anything.
+
+**No tab exists for this recipe.** Sides is the right category, but the doc has no
+Cauliflower Casserole tab — one needs adding. Sides does have a *Thanksgiving
+Cauliflower* tab credited to Linda Clapier; that is a different recipe by a different
+person, so the two have not been merged. Worth a look before you create a new tab, in
+case they turn out to be the same dish.
+
+The page footnotes its "Buttered bread cubes*" ingredient. The asterisk is dropped and
+the footnote given a bold label instead, so the block pastes cleanly — Markdown would
+otherwise read a leading asterisk as a bullet.
+
+The subtitle is kept as an italic note, matching how *A family favorite!* was handled on
+the Applesauce Chocolate Chip Cookies page.
+
+**Also on this page but not transcribed:** a recipe beginning "Carrots with P…" starts at
+the bottom edge and is cut off. Show-through from the reverse side ("Black Beans and
+Rice") is visible at the top right and was ignored.
+
+## Apple and Butternut Squash Soup
+
+**Printed page**, credited to Alan & Stephanie. Typeset, so the read is exact. Only the
+top recipe on the page was transcribed, as requested.
+
+**"Cook until squash is very soft, about 3 minutes" is almost certainly a typo** in the
+printed page — squash does not go very soft in three minutes of simmering, and 30 minutes
+would fit the method. Left exactly as printed rather than corrected; worth fixing by hand
+if you know the intent.
+
+"Garnish with a dollop or sour cream" is also the page's own wording, where "of" was
+clearly meant. Kept as printed.
+
+**Attribution differs from the doc.** The page credits Alan & Stephanie; the doc's
+Butternut Squash Apple Soup tab credits Eliza Clapier. Used the page's, since that is
+what the source says. Same dish either way — it is the only butternut-and-apple soup tab.
+
+**Title vs. tab:** the page says *Apple and Butternut Squash Soup*, the tab is
+*Butternut Squash Apple Soup*. Kept the page's wording.
+
+**Also on this page but not transcribed, per instruction:** *Autumn Carrot Chowder*
+(Denice & Eddie), which is complete on the photo and can be added any time.
+
+## Smokey and Sweet Turkey Chili
+
+**A printed web page**, not a card — the first in the batch. Sourced from Mountain Mama
+Cooks (@mountainmamacooks), recorded as an italic source line under the recipe. Typeset,
+so the read is exact and there is nothing ambiguous.
+
+**The printed heading is "Smokey and Sweet Turkey Chili {Maple Cookbook Review &
+Giveaway}".** The braced half is the blog post's own title, not part of the recipe name,
+so it was dropped. The doc tab is *Smokey & Sweet Turkey Chili*.
+
+**The page carries no personal attribution**, being a blog printout. The
+`### Eliza Clapier` line is carried from the doc's existing stub; the blog is credited
+separately in the source line.
+
+Fractions converted to the doc's house glyphs — `1/2` → `½`, `4 1/2` → `4½`, `1/3` → `⅓`,
+`1/4` → `¼`. Wording is otherwise verbatim.
+
+## Gold Rush Brownies
+
+Handwritten Stylecraft card (69-930), "From the Kitchen of Aunt Sue". Written in faded
+brown ink on a stained card. "Serves" was blank.
+
+**The butter quantity is the shaky one.** Read as `½ cube`, but the stroke before it could
+make it `1½ cube`. Half a cube (¼ cup) is thin for a 9x12 crumb base, which argues for
+more — but the card was not clear enough to overrule what is written. Check the photo.
+
+`gr. cr.` is the card's abbreviation for graham cracker, kept as written.
+
+"1½ – 1¾ can condensed milk" is the card's own phrasing; it presumably means one and a
+half to one and three-quarter cans, but it is left verbatim rather than rewritten.
+
+**Step 3's verb is inferred.** The card lists choc. chips, coconut, and nuts on their own
+lines after "sprinkle crackers over butter", with no verb of their own. "Add" was supplied
+to make the step readable; the layering order is the card's.
+
+**Cross-reference on "Sue".** This card says *Aunt Sue* in full. The Cottage Noodle Bake
+card earlier says only *Sue*, and was deliberately not promoted to "Aunt Sue". This card
+makes it more likely they are the same person, along with the doc's existing
+*Aunt Sue's Chocolate Chip Cookies* tab — but it is still your call, not an assumption
+made here.
+
+
+## Hot Fudge
+
+**A typed page in a ring binder**, headed *Hot Fudge (Linda Glauser)*. Typeset, so the read
+is exact — five ingredients, nothing ambiguous.
+
+**Attribution differs from the doc.** The page credits **Linda Glauser**; the doc's Hot
+Fudge tab credits **Linda Clapier**. Two different people with the same first name, so this
+is easy to get wrong in either direction. The page's version is used above.
+
+No can size is given for the evaporated milk, and "2 squares butter" is the page's own unit
+— both left as written.
+
+**Also on this page but not transcribed, per instruction:** a chocolate fondue recipe above
+it, whose title falls above the top edge of the photo. Its ingredients and full method are
+otherwise legible, if you want it added.
