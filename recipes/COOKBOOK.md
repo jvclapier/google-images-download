@@ -16,11 +16,12 @@ clean to copy.
 |---|---|---|
 | Chicken Ranch Pasta | Main Dishes › Chicken Ranch Pasta | ✅ |
 | Cottage Noodle Bake | Main Dishes › Cottage Noodle Bake | ☐ |
-| Chicken Casserole | Main Dishes › Broccoli Chicken Casserole | ☐ |
+| Chicken Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken | ☐ |
+| Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -217,6 +218,34 @@ Dip chicken in melted butter. Cover with crumbs. Salt and pepper to suit you. Ro
 (Another version is to dip in yogurt instead of butter, season with garlic, drizzle ¼ cube butter over top and top with parmesan cheese.)
 
 *Or Grass Chicken, as Linda calls it, because of the Rosemary.*
+
+## **Chicken and Broccoli Casserole**
+
+**Ingredients**
+
+  - About 6 c. rice, precooked
+  - About 6-8 chicken breasts or thighs, or both, precooked and cut up
+  - About 5-6 stalks broccoli, precooked (not cooked too soft)
+  - Extra grated cheese, for the last 15 minutes
+
+**Instructions**
+
+Precook about 6 c. rice. Put in bottom of **9 x 13 pyrex dish**. Next layer with cut up precooked chicken. Next, layer with precooked broccoli. Mix together the topping and spread over the top. Bake at **350 for 30 min.** Put more grated cheese over the top for the last **15 min.**
+
+### **Topping**
+
+**Ingredients**
+
+  - 1 can cream mushroom soup or creamy chicken mushroom soup
+  - ¾ c. mayonnaise
+  - ⅓ c. milk
+  - 1 T. lemon juice
+  - ½ – 1 c. cheddar cheese, grated
+  - ½ tsp curry powder
+
+**Instructions**
+
+Mix together and spread over the top.
 
 ---
 
@@ -2018,3 +2047,30 @@ Chicken tab.
 A printed quotation at the foot of the page — *"If you sow thorns, you will not reap
 roses."* — is the cookbook's page furniture, as on the Baked Beans page, and is not in the
 block above.
+
+
+## Chicken and Broccoli Casserole
+
+**A decorative printed page** from the same family cookbook, on lavender stock. Clean read.
+
+**Two recipes now want the `Broccoli Chicken Casserole` tab.** The *Chicken Casserole* card
+signed "Mom", filed earlier, and this one. **They are not the same recipe** — this has rice
+as a base layer, curry powder, milk and mushroom soup; the other has cream of chicken soup,
+no rice and no curry. Both are chicken-broccoli-mayonnaise casseroles baked at 350 for 30
+minutes, but they are distinct dishes. One will need a tab of its own; the queue marks both
+as contested rather than picking for you.
+
+**The page has no ingredient list of its own.** Everything is prose, with the topping's six
+ingredients listed inline mid-paragraph. The base layers were pulled out into a list and
+the topping given its own component, matching how the doc handles Robynne's Lasagne. The
+"about"s are the page's own hedging and are kept.
+
+**Extra grated cheese was added to the list.** The method calls for more cheese over the top
+for the last 15 minutes, beyond the ½–1 cup in the topping; the page never lists it. No
+quantity given.
+
+**The page is unsigned** and the tab it would claim is contested, so no `###` line has been
+assumed — unlike the other pages from this cookbook, there is no safe attribution to carry.
+
+A printed Abraham Lincoln quotation at the foot of the page is cookbook furniture and is not
+in the block above.
