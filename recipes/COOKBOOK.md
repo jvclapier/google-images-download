@@ -35,6 +35,8 @@ clean to copy.
 | Blueberry Baked Oatmeal | Breakfasts › **(new tab needed)** | ☐ |
 | Mango Chicken Pasta Salad with Tarragon Lime Dressing | Sides › **(new tab needed)** | ☐ |
 | Sweet Potato Roasted Corn Chowder | Soups › Corn Chowder — *verify tab is empty* | ☐ |
+| Honey Mustard Sheet Pan Chicken with Brussels Sprouts | Main Dishes › Honey Mustard Chicken with Brussel Sprouts | ☐ |
+| Asian Glazed Turkey Meatballs | Main Dishes › Turkey Teriyaki Meatballs — *verify same dish* | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -492,6 +494,87 @@ Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minu
 6.  Remove from oven and drizzle with ranch, hot sauce or additional buffalo sauce, sliced green onion, and and a dash black pepper. Serve hot.
 
 *Prep 20 min. Cook 25 min. Total 45 min. Serves 8. Source: therealfooddietitians.com.*
+
+---
+
+## **Honey Mustard Sheet Pan Chicken with Brussels Sprouts**
+
+### **Two Peas and Their Pod**
+
+**Ingredients**
+
+  - Nonstick cooking spray
+  - ¼ cup plus 2 tablespoons olive oil
+  - 2 tablespoons fresh lemon juice
+  - 1 tablespoon Dijon mustard
+  - 1 tablespoon whole-grain mustard
+  - 1 tablespoon honey
+  - 3 garlic cloves, minced
+  - Kosher salt and freshly ground black pepper
+  - 2 pounds bone-in skin-on chicken thighs (4 medium thighs)
+  - 1½ pounds Brussels sprouts, halved
+  - ¼ large red onion, sliced
+
+**Instructions**
+
+1.  Preheat the oven to **425°F**. Grease a large baking sheet with nonstick cooking spray and set aside. For easy clean up, you can line the pan with foil.
+2.  In a medium bowl, whisk together the ¼ cup olive oil, 1 tablespoon of the lemon juice, the Dijon mustard, whole-grain mustard, honey, and garlic. Season with salt and pepper to taste.
+3.  Use tongs to dip the chicken thighs in the sauce, coating both sides. Place the thighs on the prepared baking sheet. Discard any remaining sauce.
+4.  In a medium bowl, combine the Brussels sprouts and red onion. Drizzle with the remaining 2 tablespoons olive oil and 1 tablespoon lemon juice and toss until well coated. Arrange the sprouts and onion around the chicken on the baking sheet, making sure they aren't overlapping. Season with salt and pepper.
+5.  Roast for **30 to 35 minutes**, until the chicken is golden brown and has an internal temperature of **165°F** and the Brussels sprouts are crispy. Serve hot.
+
+*Prep 15 mins. Cook 35 mins. Total 50 mins. Serves 4. Source: twopeasandtheirpod.com.*
+
+---
+
+## **Asian Glazed Turkey Meatballs**
+
+### **Eat Yourself Skinny**
+
+**Ingredients**
+
+*For the meatballs:*
+
+  - 1 lb ground turkey (you could also use ground chicken, pork or beef)
+  - ⅓ cup whole wheat panko breadcrumbs
+  - 1 egg
+  - 1 Tbsp low-sodium soy sauce
+  - 1 tsp fresh grated ginger (or ¼ tsp ground ginger)
+  - 1 clove garlic, minced
+  - 2 green onions, sliced
+  - Garnish: extra green onions and sesame seeds
+
+*For the sauce:*
+
+  - ½ cup low-sodium soy sauce
+  - ⅓ cup beef broth (or water)
+  - ¼ cup honey
+  - 1 tsp sesame oil
+  - 4 cloves garlic, minced
+  - 2 tsp fresh grated ginger (or ½ tsp ground ginger)
+  - ¼ tsp black pepper
+  - ¼-½ tsp crushed red chili flakes (optional depending if you like a little heat)
+
+*To thicken sauce even more (optional):*
+
+  - ½ Tbsp cornstarch
+  - ½ Tbsp water
+
+*To serve:*
+
+  - Fluffy brown rice
+
+**Instructions**
+
+1.  Preheat oven to **400 degrees F**.
+2.  In a large bowl, mix together ground turkey, breadcrumbs, egg, soy sauce, ginger, garlic and green onions until all combined. Using a cookie scoop, make **1-inch** sized balls and place on a prepared baking sheet (you should get about 25-26 meatballs).
+3.  Pop the meatballs in the oven and bake for about **13 to 15 minutes**, until lightly browned and cooked through.
+4.  While the meatballs are baking in the oven, combine soy sauce, honey, beef broth, sesame oil, garlic, ginger, and pepper in a small saucepan on the stove and bring to a boil. Reduce the heat and let the sauce simmer for about **5 minutes** to thicken up.
+5.  If you feel like your sauce is too thin, mix ½ tablespoon of cornstarch with ½ tablespoon of water in a small bowl to make a slurry and pour that into the sauce to thicken it up even more. Mix in ¼ tsp to ½ tsp crushed red chili flakes (depending on how much heat you like) and turn off the heat.
+6.  Once the meatballs are done baking, transfer them to a large bowl (or you could keep them on the same pan) and coat them entirely with the sticky sauce.
+7.  Spoon meatballs over fluffy brown rice, drizzling with extra sauce, and top with green onions and sesame seeds. Enjoy!
+
+*Prep 10 min. Cook 15 min. Total 25 min. Serves 6. Source: www.eatyourselfskinny.com.*
 
 ---
 
@@ -1749,6 +1832,49 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Honey Mustard Sheet Pan Chicken with Brussels Sprouts
+
+First PDF rather than a photo — a browser print of the recipe card from
+twopeasandtheirpod.com, one page, printed 8/26/26. Text was extracted from the PDF
+directly rather than read off an image, so there is no handwriting or OCR uncertainty in
+this one at all.
+
+The print includes fields the screenshots do not: Course Main Course, Cuisine American,
+Keyword easy / gluten free / sheet pan, and a 4.64-from-99-votes rating. All page furniture,
+kept out along with the blurb and the nutrition line.
+
+"¼ cup plus 2 tablespoons olive oil" is a single ingredient line on the source, and the two
+halves get used separately — the ¼ cup in the mustard sauce, the 2 tablespoons on the
+sprouts. Left as one line, the way the source has it.
+
+Destination is an exact tab match: the doc already has **Honey Mustard Chicken with Brussel
+Sprouts** under Main Dishes (the doc's own spelling of Brussel), and this is that dish.
+
+## Asian Glazed Turkey Meatballs
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — the Directions break
+mid-sentence at "mix together ground turkey, breadcrumbs, egg, soy sauce, ginger, garlic and
+green onions until" and resume with "all combined." under "Directions (cont.)". Source
+credited on the printout as www.eatyourselfskinny.com.
+
+**The ingredient list is grouped, but the method is not.** The source splits ingredients
+three ways — FOR THE MEATBALLS, FOR THE SAUCE, TO THICKEN SAUCE EVEN MORE (OPTIONAL) — while
+running a single continuous list of directions. The usual house split into `###` components,
+each with its own method, would have broken the recipe here: the sauce is made *while* the
+meatballs bake, and step 4 says so outright. So the groups are kept as italic labels inside
+one ingredient list, with the method left whole.
+
+"Fluffy brown rice" is added under a *To serve* label. It appears only in the last direction
+on the source, the same treatment given to the Lemon Chicken Soup lemon wedges and the Mango
+Salad's untouched list.
+
+The blurb and the nutrition panel are page furniture and stayed out.
+
+**The tab needs a look before pasting.** Main Dishes has a **Turkey Teriyaki Meatballs** tab,
+and this is turkey meatballs in a sweet soy glaze, so it is queued there — but teriyaki and
+this soy-honey-ginger glaze are not the same sauce, and the family tab may well hold a
+different recipe. If it does, this wants its own tab.
 
 ## Sweet Potato Roasted Corn Chowder
 
