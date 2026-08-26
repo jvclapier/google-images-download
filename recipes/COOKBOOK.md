@@ -25,6 +25,7 @@ clean to copy.
 | Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
 | French Potato Salad | Sides › **(new tab needed)** | ☐ |
 | Onion-Roasted Potatoes | Sides › Lipton Potatoes | ☐ |
+| Hearty Beef Stew | Soups › Beef Stew | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1880,6 +1881,42 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 ---
 
+## **Hearty Beef Stew**
+
+**Ingredients**
+
+  - 1.5 to 2 pounds chuck roast, cut into cubes
+  - ⅓ cup flour
+  - 1 tsp salt
+  - ½ tsp pepper
+  - 4 T butter
+  - 2 T avocado oil
+  - 1 medium onion, diced
+  - 3 cloves garlic, minced
+  - 3-4 carrots, peeled and sliced
+  - 3 medium potatoes
+  - 3-4 ribs of celery, chopped
+  - 1 tsp Italian seasoning
+  - 3 bay leaves
+  - 3-4 cups beef broth
+  - 1 14 oz can crushed tomatoes
+  - 1 cup frozen peas
+  - 2 tsp Worcestershire sauce
+
+**Instructions**
+
+1.  Toss beef cubes with flour, salt, and pepper.
+2.  In a stockpot over high heat, melt butter then quickly sear the beef. Don't cook all the way through, just sear the outside, **about 1 minute**.
+3.  Remove beef from heat and set aside.
+4.  Add the oil and onions. Reduce heat to medium and stir often until softened. Add garlic, and let it cook for **about 30 minutes**, stirring.
+5.  If you are going to use a crockpot, this is the point where you would transfer all ingredients, (including seared beef) other than the frozen peas, to the crockpot and cook on low, **3-4 hours** until tender. Add peas at the end. Or if continuing on the stove, add the carrots, celery, potatoes, seared beef, crushed tomatoes, beef broth, bay leaves, and Italian seasoning. Mix to combine. Cover and cook on low **2-3 hours** until vegetables and beef are tender. Don't crank up the heat or the meat will be tough! If the meat isn't fall-apart tender, it needs more time.
+6.  Add the frozen peas and Worcestershire sauce, stir to combine, and let cook a few more minutes. Taste and season with more salt and pepper if needed.
+7.  Serve hot and refrigerate any leftovers.
+
+*Course: Soups. Prep Time 15 minutes. Servings 8.*
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -1936,6 +1973,32 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Hearty Beef Stew
+
+One screenshot of a food blog's recipe card, the whole recipe visible in a single capture —
+no page break to reconcile. The site is not named anywhere on the shot, so the entry carries
+no byline and no source line, the same as the Ritz Chicken. Worth adding if you know it.
+
+**Step 4 says to cook the garlic for about 30 minutes, and that is what the page says.**
+Thirty minutes is far past where minced garlic burns — the number is almost certainly meant
+to be 30 *seconds*, or perhaps 3 minutes for the onions. It is transcribed as printed rather
+than corrected, per the usual rule, but this is the one line in the entry not to follow
+literally. Add the garlic near the end of softening the onions and give it under a minute.
+
+The card lists a Prep Time and Servings but no Cook Time; the actual cooking time lives
+inside step 5 — **2-3 hours** on the stove, **3-4 hours** in a crockpot — so nothing is
+missing, it is just not in the header.
+
+"3 medium potatoes" carries no prep instruction on the page, unlike the carrots and celery.
+Left as written.
+
+The blurb and the Cook Mode toggle are page furniture and stayed out.
+
+Destination is an exact tab match: the doc already has **Beef Stew** under Soups, and the
+card files itself under Course: Soups too.
+
+Clean read otherwise — printed text throughout.
 
 ## Onion-Roasted Potatoes
 
