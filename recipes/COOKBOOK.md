@@ -31,6 +31,7 @@ clean to copy.
 | Wingers Sticky Fingers | Main Dishes › Wingers Sticky Chicken Salad | ☐ |
 | Black Bean Quinoa Enchilada Bake | Main Dishes › Quinoa Enchilada Bake | ☐ |
 | Creamy Buffalo Chicken Casserole | Main Dishes › **(new tab needed)** — *not the same dish as the Buffalo Chicken Bake tab* | ☐ |
+| Mediterranean Lemon Chicken Soup | Soups › Lemon Chicken Soup | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -1537,6 +1538,40 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 ---
 
+## **Mediterranean Lemon Chicken Soup**
+
+### **Mark Hyman, MD**
+
+**Ingredients**
+
+  - 1 tablespoon olive oil
+  - 1 large shallot, finely diced
+  - 3 garlic cloves, minced
+  - 1 teaspoon sea salt
+  - 2 small zucchini, grated
+  - 1 teaspoon fresh thyme, plus extra for garnish
+  - 4 cups pulled leftover cooked chicken, skinless (pasture-raised if possible)
+  - 5 cups chicken broth
+  - 2 pasture-raised egg yolks
+  - 3 large lemons, juiced (about ⅓ cup)
+  - 3 cups cauliflower rice
+  - ¼ teaspoon fresh ground black pepper
+  - Extra lemon wedges, to serve
+
+**Instructions**
+
+1.  Melt the olive oil in a large pot over medium heat. Once the oil is hot, add the shallots, garlic, and salt. Cook until translucent, about **1 minute**, stirring constantly to avoid burning.
+2.  Add the grated zucchini and cook for another minute until softened.
+3.  Add the thyme, chicken, and broth. Bring to a boil then reduce to a simmer. Cover and simmer for **10 minutes**.
+4.  While the soup is simmering, prepare the egg yolk in a bowl and the lemon juice in a separate bowl. Make sure that one of the bowls is large enough to add some liquid from the hot broth to temper the eggs later. (Tip: You can save the egg whites in the refrigerator to use for an omelet the next day!)
+5.  Once the broth has simmered for **10 minutes**, remove the lid and reduce the heat to low. Whisk the egg yolks and lemon juice together in the larger bowl. Then slowly pour in one ladle of the hot broth while whisking to avoid clumping.
+6.  Pour the egg and lemon mixture into the pot of soup while stirring, then add the cauliflower rice.
+7.  Remove from heat and add the black pepper. Serve immediately with extra lemon wedges and garnish with thyme leaves, enjoy!
+
+*Prep 15 min. Cook 15 min. Total 30 min. Serves 6. Source: Mark Hyman, MD.*
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -1593,6 +1628,32 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Mediterranean Lemon Chicken Soup
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — the last direction
+breaks mid-sentence at "Whisk the" on page 1 and resumes with "egg yolks and lemon juice
+together" under "Directions (cont.)". Source credited on the printout as Mark Hyman, MD.
+
+**"3 large lemons, juiced (about ⅓ cup)" is worth a check.** The fraction is printed small
+and reads as ⅓, but three large lemons normally give closer to ½ cup, so either the number
+of lemons or the yield may be off on the source page. Transcribed as printed rather than
+adjusted. If it matters, go by the ⅓ cup — the tempering step is what the acid amount
+actually affects.
+
+The printout marks the egg yolks with an asterisk — "2 pasture-raised egg yolks*" — but the
+footnote it points to is not on either page. The asterisk is dropped from the block since
+it leads nowhere; nothing else about the line changed.
+
+"Extra lemon wedges, to serve" is added to the ingredient list. It appears only in the
+final direction on the source, the same treatment given to the Salmon Patties lemon wedges.
+
+The blurb and the nutrition panel are page furniture and stayed out.
+
+Destination is an exact tab match: the doc already has **Lemon Chicken Soup** under Soups,
+and this is that dish.
+
+Clean read otherwise — printed text throughout.
 
 ## Creamy Buffalo Chicken Casserole
 
