@@ -64,6 +64,7 @@ clean to copy.
 | Rolls | Breads › Rolls *(inline tab)* — page is untitled | ☐ |
 | Vegetable Dip | Dips & Dressings › Veggie Dip | ☐ |
 | Bruschetta Bites | Dips & Dressings › **(new tab needed)** | ☐ |
+| Toffee Apple Dip | Dips & Dressings › Toffee Fruit Dip | ☐ |
 | Apple and Butternut Squash Soup | Soups › Butternut Squash Apple Soup | ☐ |
 | Chicken Noodle Soup | Soups › Chicken Noodle Soup | ☐ |
 | Smokey and Sweet Turkey Chili | Soups › Smokey & Sweet Turkey Chili | ☐ |
@@ -1299,6 +1300,25 @@ You could also just do chopped tomatoes w/ salt + pepper without the other stuff
 5.  When cool, top each piece with spoonfull or so of tomatoe mixture + drizzle with balsamic vinegar. My favorite local is Millcreek olive oil.
 
 *To keep from going soggy too fast — top with tomatoe mixture + balsamic right before serving.*
+
+## **Toffee Apple Dip**
+
+### **Jill Wankier**
+
+**Ingredients**
+
+  - 1 brick cream cheese, softened, 8 oz
+  - ½ cup brown sugar
+  - 1 tsp. vanilla extract
+  - ½ bag heath bar candy bits, about ¾ cup
+  - Extra toffee bits, to sprinkle
+  - Sliced apples, to serve
+
+**Instructions**
+
+In a medium-sized mixing bowl, add softened cream cheese, brown sugar, and vanilla extract. Mix with an electric hand mixer until ingredients are smooth and incorporated. Fold in the heath bar candy bits. Enjoy right away or cover and refrigerate until ready to eat. Sprinkle on some more toffee bits, serve with sliced apples and enjoy!
+
+*Prep 5 min. Serves 6. Source: The Recipe Critic.*
 
 ---
 
@@ -2661,3 +2681,20 @@ keeping.
 **No tab exists for this recipe.** Sides is the right category, but the doc's *Fruit Salad*
 tab is a different dish entirely (Verna Metcalf's cooked-custard salad with marshmallows and
 cheese) and is already claimed. A new tab is needed.
+
+
+## Toffee Apple Dip
+
+**A printed recipe-site page**, credited on the page itself to **Jill Wankier**, with a link
+to therecipecritic.com/toffee-apple-dip/. Typeset, so the read is exact.
+
+**A clean match on both counts.** The doc's *Toffee Fruit Dip* tab in Dips & Dressings is also
+credited to Jill Wankier, and the index files "Toffee dip" under her name. No new tab, no
+attribution change. Kept the page's title, which names apples specifically.
+
+**Two serving items were added to the list.** The extra toffee bits for sprinkling and the
+sliced apples appear only in the last line of the method. Neither is quantified on the page.
+
+The page's nutritional panel — calories, fat, sodium and the rest — is left out, being data
+about the recipe rather than part of it. The prep time and yield are kept as the italic note,
+along with the source.
