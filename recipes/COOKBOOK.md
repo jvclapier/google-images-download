@@ -32,6 +32,7 @@ clean to copy.
 | Black Bean Quinoa Enchilada Bake | Main Dishes › Quinoa Enchilada Bake | ☐ |
 | Creamy Buffalo Chicken Casserole | Main Dishes › **(new tab needed)** — *not the same dish as the Buffalo Chicken Bake tab* | ☐ |
 | Mediterranean Lemon Chicken Soup | Soups › Lemon Chicken Soup | ☐ |
+| Blueberry Baked Oatmeal | Breakfasts › **(new tab needed)** | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -892,6 +893,45 @@ Melt butter in a **9x13 pyrex** dish till sizzles in the over at **350**. Then p
 
 ---
 
+## **Blueberry Baked Oatmeal**
+
+### **Joy Food Sunshine**
+
+**Ingredients**
+
+  - 2 cups old-fashioned oatmeal
+  - ¼ cup almond meal (or almond flour)
+  - 1 teaspoon baking powder
+  - ¼ teaspoon baking soda
+  - ½ teaspoon fine sea salt
+  - 2 teaspoons ground cinnamon
+  - ¼ cup granulated sugar
+  - 2 Tablespoons salted butter (melted)
+  - 2 cups milk
+  - ¼ cup Vanilla Greek yogurt
+  - 2 eggs
+  - 2 teaspoons pure vanilla extract
+  - 2 cups blueberries (fresh or frozen)
+  - 1 Tablespoons cinnamon sugar for topping
+
+**Instructions**
+
+1.  Preheat oven to **350 degrees F**. Grease a **9×13" glass baking dish** and set aside.
+2.  In a small bowl, combine oats, almond meal, baking powder, baking soda, salt sugar and cinnamon. Set aside.
+3.  In a separate, small microwave safe bowl, melt butter (or coconut oil).
+4.  In a large bowl, whisk together Greek yogurt, eggs, and vanilla and whisk until combined.
+5.  Add melted butter and milk and whisk until combined.
+6.  Add dry ingredients to wet ingredients and mix well.
+7.  Gently fold the blueberries into the mixture.
+8.  Spread evenly in a **9×13" pan**.
+9.  Sprinkle cinnamon sugar over the top of your oatmeal.
+10. Bake at **350 degrees F for 30-40 minutes** (shorter if using fresh berries, longer if using frozen). The oatmeal should be browned on the top and the top should spring back when you gently touch it with your finger.
+11. Let cool for **15 mintues** and serve warm. You can also refrigerate after baking and serve cold!
+
+*Prep 10 min. Cook 35 min. Serves 8. Source: joyfoodsunshine.com.*
+
+---
+
 # Desserts
 
 ## **Sugar Cookies**
@@ -1628,6 +1668,35 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Blueberry Baked Oatmeal
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — the Directions run
+off the bottom of page 1 after "Gently fold the blueberries into the mixture." and resume
+under "Directions (cont.)". Source credited on the printout as joyfoodsunshine.com; no
+family attribution, so the site stands as the byline.
+
+Three of the source's own slips are kept verbatim rather than tidied: "salt sugar and
+cinnamon" with no comma in step 2, "1 Tablespoons cinnamon sugar for topping" in the
+ingredients, and "Let cool for 15 mintues" in the last step.
+
+**The header and the method disagree on bake time.** The printout's summary line says Cook
+35 min, while step 10 says **30-40 minutes**, shorter for fresh berries and longer for
+frozen. Both are on the page, so both are in the entry — the range in the step is the one
+to cook by.
+
+Step 3's "(or coconut oil)" is an alternative to the butter already listed, not a separate
+ingredient, so the ingredient list was left alone. Contrast the Lemon Chicken Soup lemon
+wedges, which were added because nothing in the list covered them.
+
+The blurb and the nutrition panel are page furniture and stayed out.
+
+**No tab matches.** Breakfasts currently holds Bran Muffins, Grandma Verna's Waffles,
+Grandpa Metcalf Pancakes, Swedish Pancakes, Sausage Souffle, Cinnamon Rolls, German
+Pancakes, and Buttermilk Syrup — nothing oatmeal or baked-oatmeal shaped. Queued as a new
+tab.
+
+Clean read otherwise — printed text throughout.
 
 ## Mediterranean Lemon Chicken Soup
 
