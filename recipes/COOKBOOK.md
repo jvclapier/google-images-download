@@ -30,6 +30,7 @@ clean to copy.
 | Salmon Patties | Main Dishes › Salmon Patties | ☐ |
 | Wingers Sticky Fingers | Main Dishes › Wingers Sticky Chicken Salad | ☐ |
 | Black Bean Quinoa Enchilada Bake | Main Dishes › Quinoa Enchilada Bake | ☐ |
+| Creamy Buffalo Chicken Casserole | Main Dishes › **(new tab needed)** — *not the same dish as the Buffalo Chicken Bake tab* | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -454,6 +455,39 @@ Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minu
 *Note-this recipe freezes well! If you need the recipe to be gluten-free make sure you use a gluten-free enchilada sauce. We like to serve it with tortilla chips.*
 
 *Prep 25 min. Cook 35 min. Total 1 hr. Serves 10. Source: www.twopeasandtheirpod.com.*
+
+---
+
+## **Creamy Buffalo Chicken Casserole**
+
+### **The Real Food Dietitians**
+
+**Ingredients**
+
+  - 1 tablespoon avocado oil or olive oil
+  - 3 cups fresh cauliflower rice (such as Taylor Farms, Eat Smart, Cece's Veggie Co., or Earthbound)
+  - 2 medium carrots, diced
+  - 1 small red bell pepper, diced
+  - 1 medium yellow onion, diced
+  - 1½ teaspoon garlic powder (or 3-4 garlic cloves, minced)
+  - 1 teaspoon dried parsley
+  - Dash salt and black pepper
+  - ¾ cup purchased buffalo sauce (or homemade buffalo sauce)
+  - ⅓ cup mayo
+  - 2 whole eggs
+  - 1¼-1½ lbs. chicken breast, cooked and shredded (~3 heaping cups cooked shredded)
+  - Optional garnishes: ranch dressing, hot sauce or additional buffalo sauce, sliced green onion
+
+**Instructions**
+
+1.  Preheat the oven to **375ºF**. Grease a **3-4 qt. casserole dish** (**9 x 13** also works) and set aside.
+2.  In a large pan over medium-high heat, add oil. Once oil is hot, add the cauliflower rice, carrots, red pepper, yellow onion, garlic powder, dried parsley, and a dash of salt and black pepper. Sauté, stirring occasionally, until the onions are translucent and the veggies are partially cooked through, **10-12 minutes**. Adjust heat as necessary. Transfer the veggies to the casserole dish.
+3.  While the veggies are sautéing, in a bowl, combine the buffalo sauce, mayo, and eggs.
+4.  In the casserole dish, mix together the veggies, chicken, and the sauce mixture. Spread out the mixture in an even layer.
+5.  Bake, uncovered, for **20-25 minutes** or until center is set.
+6.  Remove from oven and drizzle with ranch, hot sauce or additional buffalo sauce, sliced green onion, and and a dash black pepper. Serve hot.
+
+*Prep 20 min. Cook 25 min. Total 45 min. Serves 8. Source: therealfooddietitians.com.*
 
 ---
 
@@ -1559,6 +1593,43 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Creamy Buffalo Chicken Casserole
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — the Directions run
+off the bottom of page 1 and resume under "Directions (cont.)". Source credited on the
+printout as therealfooddietitians.com; no family attribution, so the site stands as the
+byline, as with Two Peas and Their Pod and The Recipe Critic.
+
+This is the recipe from the link sent earlier in the session. That URL could not be
+fetched — this container's network policy blocks the domain outright — so the recipe waited
+until the printout arrived. Web search had recovered the ingredient list correctly but
+never the bake time, which the screenshot supplies: **375ºF, uncovered, 20-25 minutes**.
+
+**The garnish ingredient line is scrambled on the printout** and had to be reconstructed.
+It literally reads:
+
+> HOMEMADE RANCH, HOT SAUCE, OPTIONAL GARNISHES: RANCH DRESSING OF - OR ADDITIONAL
+> BUFFALO SAUCE, AND
+
+— Plan to Eat's field order collapsing, and truncated after "AND". The recipe block instead
+carries "Optional garnishes: ranch dressing, hot sauce or additional buffalo sauce, sliced
+green onion", which is the same set of garnishes the final direction names, in the order it
+names them. This is the one line in the entry not taken verbatim from the page; worth a
+check against the live site if it ever becomes reachable.
+
+Step 6 keeps the printout's own doubled "and and a dash black pepper" verbatim.
+
+The blurb and the nutrition panel are page furniture and stayed out.
+
+**Tab is unresolved.** Main Dishes already has a **Buffalo Chicken Bake** tab (Eliza
+Clapier). That name matches a *different* Real Food Dietitians recipe — Buffalo Chicken
+Bake with Spaghetti Squash — and this casserole is cauliflower-rice based, so they are
+almost certainly two dishes. Queued as a new tab rather than merged into that one; if the
+Buffalo Chicken Bake tab turns out to be empty or to hold this same recipe, it should go
+there instead.
+
+Clean read otherwise — printed text throughout.
 
 ## Black Bean Quinoa Enchilada Bake
 
