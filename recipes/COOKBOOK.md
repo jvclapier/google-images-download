@@ -29,6 +29,7 @@ clean to copy.
 | Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
 | Mexican Platter Dip | Dips & Dressings › 7 Layer Dip — *verify same dish* | ☐ |
 | Hurry Up Chocolate Cake | Desserts › Hurry Up Chocolate Cake — *incomplete, see notes* | ☐ |
+| Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -607,6 +608,39 @@ Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minu
 7.  Spoon meatballs over fluffy brown rice, drizzling with extra sauce, and top with green onions and sesame seeds. Enjoy!
 
 *Prep 10 min. Cook 15 min. Total 25 min. Serves 6. Source: www.eatyourselfskinny.com.*
+
+---
+
+## **Shepherd's Pie**
+
+### **Kim N**
+
+**Ingredients**
+
+  - 2 Sweet Potatoes, Large diced
+  - 4 Cups Cold Water
+  - 4 Tbs Ghee
+  - ½ Cup Coconut Milk
+  - 1 Onion, Finely Chopped
+  - 2 Stalks Celery, Finely Chopped
+  - 1 Carrot, Pealed and finely chopped
+  - 1 Pound Ground Meat
+  - 2 Cloves Garlic, Minced
+  - 1 tsp Salt
+  - ½ tsp Black Pepper
+  - ¼ tsp Dried Thyme
+  - ½ tsp Dried Oregano
+
+**Instructions**
+
+1.  Preheat oven to **375**.
+2.  In a large pot boil sweet potatoes about **10 min** until fork tender. Drain water, add 2 Tablespoons of ghee and coconut milk. Mash potatoes. Transfer to a bowl and set aside.
+3.  In the same pot, melt remaining 2 Tablespoons of ghee over medium heat. Add onions, celery and carrots. Cook for **5 min**. Add ground meat and garlic. Cook until meat is browned. Add seasoning, salt and pepper.
+4.  Spoon the meat mixture into a casserole dish. Spread mashed potatoes over top. Roast in oven for **30 min**.
+
+*Amazing!*
+
+*Serving: 1. Shared by EmRomrell. Source: Kim N.*
 
 ---
 
@@ -2058,6 +2092,39 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Shepherd's Pie
+
+One screenshot of a shared recipe card, whole recipe in a single capture. The card carries
+two names on separate labelled lines: **Shared by: EmRomrell** and **Source: Kim N**. That is
+the contributor-versus-originator split the typed compilation pages showed, except stated
+outright here — so Kim N is the byline and EmRomrell is recorded in the source line.
+EmRomrell is presumably the Emily Romrell whose name titles a Desserts tab in the doc, but
+the card does not say so and the two are not merged on a guess.
+
+**The card is titled plainly "Shepherd's Pie" and the title is kept as written**, though it
+was filed to the **Sweet Potato Shepherd's Pie** tab per instruction. The doc has both that
+tab and a plain *Shepherd's Pie* tab, so the heading inside the block will not match the tab
+it sits in. Rename the entry to match the tab if that reads better — the recipe is
+unambiguously the sweet potato one.
+
+**"Serving: 1" is what the card says, and it is not credible.** A pound of meat, two sweet
+potatoes and a casserole dish do not serve one; this is a form field left at its default.
+Reproduced as printed rather than replaced with a guess, but do not plan a dinner around it.
+
+**Four cups of cold water are listed and never mentioned again.** They are the water the
+sweet potatoes boil in — step 2 says "boil sweet potatoes" and then "Drain water" without
+ever saying to add any. Nothing is missing from the transcription; the card simply leaves the
+connection implicit.
+
+The ghee does reconcile: 4 Tbs listed, 2 Tablespoons into the mash and the remaining 2 into
+the pot.
+
+Two of the card's own slips are kept verbatim: "Pealed" for peeled, and "Add seasoning" in
+the singular where the list gives thyme and oregano. The sharer's one-word note, "Amazing!",
+is carried as an italic line.
+
+Clean read throughout — printed text.
 
 ## Hurry Up Chocolate Cake
 
