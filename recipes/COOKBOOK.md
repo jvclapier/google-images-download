@@ -33,6 +33,7 @@ clean to copy.
 | Creamy Buffalo Chicken Casserole | Main Dishes › **(new tab needed)** — *not the same dish as the Buffalo Chicken Bake tab* | ☐ |
 | Mediterranean Lemon Chicken Soup | Soups › Lemon Chicken Soup | ☐ |
 | Blueberry Baked Oatmeal | Breakfasts › **(new tab needed)** | ☐ |
+| Mango Chicken Pasta Salad with Tarragon Lime Dressing | Sides › **(new tab needed)** | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -661,6 +662,49 @@ Sauté the onions and gr. pepper in the bacon grease. Put all the rest of the in
 **Instructions**
 
 Scrub zucchini and cut into fourths. Spread with butter; sprinkle with seasoning salt and lemon pepper. Top with parmesan or romano cheese or both. Bake **350 for about 20 min.**
+
+---
+
+## **Mango Chicken Pasta Salad with Tarragon Lime Dressing**
+
+### **A Bountiful Kitchen**
+
+### **Salad**
+
+**Ingredients**
+
+  - ¾ pound bow tie pasta
+  - 2 cups boneless, skinless chicken breasts, cooked and cubed
+  - 3 cups red seedless grapes
+  - 1 ripe mango, cubed
+  - 1½ cups celery, chopped
+  - 1 bunch green onion, chopped (green part of the onion only)
+  - 1-2 avocados, ripe but still firm, cut into chunks
+  - Slivered almonds, toasted (optional)
+
+**Instructions**
+
+1.  Cook pasta as directed on the package. Drain and rinse with cold water.
+2.  In a large bowl, combine pasta and chicken; mix with half of the dressing. Cover and refrigerate for **an hour**. Most of the dressing will be absorbed into the cooked pasta.
+3.  In a medium bowl, combine grapes, mango, celery, and green onions.
+4.  To assemble: Mix three-quarters of the grapes, mango, celery, and green onions with the pasta and chicken. Toss with additional dressing. Just before serving, top with avocados, almonds, and the remaining grapes, mango, celery, and green onions.
+
+### **Dressing**
+
+**Ingredients**
+
+  - 1¼ cups regular mayonnaise, not low fat
+  - ¼ cup cider vinegar
+  - ¼ cup fresh lime juice
+  - 2-3 tablespoons honey
+  - 2 tablespoons dried tarragon (or ¼ cup fresh tarragon, chopped)
+  - Salt and pepper to taste
+
+**Instructions**
+
+In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients in a blender and blend until tarragon is finely chopped.
+
+*Prep 45 min. Total 45 min. Serves 12. Source: abountifulkitchen.com.*
 
 ---
 
@@ -1668,6 +1712,40 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Mango Chicken Pasta Salad with Tarragon Lime Dressing
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — page 1 ends on the
+bare word "Salad" acting as a sub-header, and the salad method itself begins under
+"Directions (cont.)". Source credited on the printout as abountifulkitchen.com.
+
+**The printout's Directions are interleaved, and were regrouped.** They run: cook the
+pasta, then a "dressing" sub-header with the dressing method, then a "Salad" sub-header
+with the rest. The entry splits them the house way instead — `Salad` and `Dressing`, each
+with its own ingredients and method — so the pasta-cooking step, which sits above the
+"dressing" header on the page, is grouped with the salad where it belongs. No wording
+changed; only the order of the two blocks.
+
+The ingredient list was already split SALAD: / DRESSING: on the printout, so those
+groupings are the source's own.
+
+"Slivered almonds, toasted (optional)" carries no quantity on the page and gets none here.
+
+The blurb stayed out as page furniture, but it holds one bit of provenance worth keeping
+somewhere: the author says the salad "was inspired by one of our favorite local Bountiful
+restaurants."
+
+**Category is arguable.** It is a pasta salad, which puts it with the salads — and every
+salad in this doc lives under Sides, with no salad section under Main Dishes at all. But
+it has two cups of chicken and serves twelve, which is a luncheon main, not a side. Filed
+under Sides on the strength of where the doc already keeps salads; easy to move if it
+reads as a main.
+
+**No tab matches.** Sides holds Fruit Salad, Berry Spinach Salad, Lipton Potatoes, Orzo
+Pasta, Thanksgiving Cauliflower, Green Bean Salad, Pomegranate Salad, and Baked Beans.
+Orzo Pasta is the nearest thing and is a different dish. Queued as a new tab.
+
+Clean read otherwise — printed text throughout.
 
 ## Blueberry Baked Oatmeal
 
