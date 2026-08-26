@@ -26,6 +26,7 @@ clean to copy.
 | French Potato Salad | Sides › **(new tab needed)** | ☐ |
 | Onion-Roasted Potatoes | Sides › Lipton Potatoes | ☐ |
 | Hearty Beef Stew | Soups › Beef Stew | ☐ |
+| Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1670,6 +1671,35 @@ In a medium-sized mixing bowl, add softened cream cheese, brown sugar, and vanil
 
 ---
 
+## **Cranberry Jalapeno Cream Cheese Dip**
+
+### **Modern Honey**
+
+**Ingredients**
+
+  - 12 ounce bag Fresh Cranberries
+  - 1 Jalapeno
+  - 2 to 3 Tablespoons Cilantro
+  - 3 Green Onions
+  - 1 cup Sugar
+  - ¼ teaspoon Salt
+  - 1 Tablespoon Lemon Juice (optional)
+  - (2) 8-ounce pkgs. Cream Cheese (softened and whipped)
+
+**Instructions**
+
+1.  Use a hand chopper or food processor to chop the fresh cranberries, jalapeno, cilantro, and green onions. If using a food processor, I suggest only using the pulse option to ensure the cranberries don't become pureed. You can also hand chop the ingredients into small pieces.
+2.  Add mixture to a bowl. Pour in sugar, salt, and optional lemon juice. Cover with plastic wrap and refrigerate for **at least 4 hours** or overnight.
+3.  When ready to use, STRAIN the cranberry mixture in a colander with small openings. This is an important step to remove most of the juices before topping the cream cheese.
+4.  Place the cream cheese in a mixing bowl and whip for **2-3 minutes** or until light and fluffy. Spread cream cheese on the bottom of a pie plate, a serving platter, or a plate.
+5.  Pour cranberry salsa atop the cream cheese. Serve with crackers, pita chips, or tortilla chips.
+
+*From the recipe's notes: "No, this recipe calls for fresh cranberries only. Fresh cranberries are firm and perfect for this cranberry salsa dip."*
+
+*Prep Time 15 mins · 4 hrs. Course: Appetizer, Side Dish. Cuisine: American. Servings 12. Source: Modern Honey, www.modernhoney.com.*
+
+---
+
 # Soups
 
 ## **Apple and Butternut Squash Soup**
@@ -1973,6 +2003,37 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Cranberry Jalapeno Cream Cheese Dip
+
+One screenshot of a recipe card from modernhoney.com, the whole recipe visible in a single
+capture. Author line on the card reads "Modern Honey® - www.modernhoney.com", so Modern
+Honey is the byline. Rated 5 from 21 votes; a Monos luggage ad sits over the middle of the
+page without covering any recipe text.
+
+**Destination is an exact tab match, name for name.** The doc already has **Cranberry
+Jalapeno Cream Cheese Dip** under Dips & Dressings — the only entry in this batch where the
+tab and the recipe title are the same string.
+
+**The second timing column has no label on the card.** The header shows "Prep Time / 15
+mins" beside a bare "4 hrs" with nothing above it — almost certainly the chill from step 2,
+carried as either Chill Time or Total Time. It is reproduced as an unlabelled "4 hrs" rather
+than guessing which.
+
+**The card's Notes are a four-question FAQ**, too long for the block, so only the one answer
+that changes what you buy is carried up as an italic line — fresh cranberries only, no
+frozen. The other three, in brief: straining matters because the sugar draws out juices that
+would otherwise run across the platter; a hand chopper leaves more texture while a food
+processor risks puree; and the suggested dippers are butter crackers, wheat entertainment
+crackers, nut and seed crackers, pita chips or tortilla chips, with cinnamon sugar pita chips
+singled out, looking for something sturdy enough to dip.
+
+The Equipment list (food processor, mixing bowl set) is the card's own widget rather than
+recipe content and stayed out, along with the blurb.
+
+"STRAIN" is capitalised on the card and stays capitalised here.
+
+Clean read throughout — printed text.
 
 ## Hearty Beef Stew
 
