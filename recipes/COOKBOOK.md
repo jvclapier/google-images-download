@@ -31,6 +31,7 @@ clean to copy.
 | Hurry Up Chocolate Cake | Desserts › Hurry Up Chocolate Cake — *incomplete, see notes* | ☐ |
 | Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
 | Turkey Sweet Potato Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
+| Chocolate Chip Toffee Cookies | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1659,6 +1660,33 @@ Sift into bowl. Blend in 1 C. salad oil, 2 eggs, 1 C. buttermilk, 1 t. vanilla, 
 
 ---
 
+## **Chocolate Chip Toffee Cookies**
+
+**Ingredients**
+
+  - 1½ C. butter, softened
+  - 1¼ C. sugar
+  - 1¼ C. brown sugar
+  - 1 Tablespoon vanilla
+  - 2 eggs
+  - 2 t. baking soda
+  - ½ t. salt
+  - 4 C. of flour
+  - 1 bag semi-sweet Chocolate Chips (or your favorite)
+  - 1 bag Heath English Toffee Pieces
+
+**Instructions**
+
+Oven: **350°**
+
+  - Cream butter, sugars, eggs & vanilla
+  - Add baking soda, salt, & flour.
+  - Mix
+  - Add Choc. Chips & toffee pieces
+  - Bake **8-10 min.** My oven I usually do **9 min.**
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2143,6 +2171,39 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Chocolate Chip Toffee Cookies
+
+One photo of a handwritten page from a spiral memo pad, shot flat and evenly lit. Modern,
+looping handwriting; the read is clean throughout, which is not something most handwritten
+cards in this file can claim.
+
+**The page is unsigned**, so the entry has no `###` attribution line — the third such entry,
+alongside the Ritz Chicken and the Hearty Beef Stew.
+
+**The method is written as dashes, not numbers, and stays dashes here.** The oven temperature
+sits on its own line above them, exactly as on the page, rather than being folded into a
+step — the writer treated it as a heading for the method, not as an instruction.
+
+**"My oven I usually do 9 min." is kept on the bake line where it was written.** It is
+personal marginalia, but it is written inline as part of that dash rather than off to one
+side, so it stays there instead of becoming a separate italic note. A struck-out "do" sits
+between "I" and "usually"; the strike is left out, and the line reads correctly without it.
+
+The pad's printed furniture — the Mo/Tu/We/Th/Fr/Sa/Su checkbox strip, "Memo No." and "Date",
+all blank — is not part of the recipe.
+
+Both sugars read 1¼ C. They are written one under the other in the same hand and the fraction
+glyphs match each other, which is the strongest evidence available that neither is 1½.
+
+Neither bag is given a weight — "1 bag semi-sweet Chocolate Chips" and "1 bag Heath English
+Toffee Pieces", as written.
+
+**No tab exists for this recipe.** Desserts holds several cookie tabs — Aunt Sue's Chocolate
+Chip, Mom's Oatmeal Chocolate Chip, Sea Salt Chocolate Chip, Grandpa Glauser, Peanut Butter,
+Applesauce, Chocolate Marshmallow, Homemade Oreos — and none of them is this. Note that
+*Aunt Myrle's English Toffee* is already in this file and also wants a new Desserts tab, but
+it is toffee candy, not a cookie, and the two should not be merged.
 
 ## Turkey Sweet Potato Shepherd's Pie
 
