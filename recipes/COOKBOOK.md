@@ -20,7 +20,8 @@ clean to copy.
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
-| Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken | ☐ |
+| Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
+| Ritz Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -239,6 +240,30 @@ Dip chicken in melted butter. Cover with crumbs. Salt and pepper to suit you. Ro
 (Another version is to dip in yogurt instead of butter, season with garlic, drizzle ¼ cube butter over top and top with parmesan cheese.)
 
 *Or Grass Chicken, as Linda calls it, because of the Rosemary.*
+
+## **Ritz Chicken**
+
+**Ingredients**
+
+  - 4 boneless, skinless chicken breasts
+  - 1 cup ritz crackers, crushed
+  - ½ teaspoon garlic salt
+  - black pepper, to taste
+  - 2 eggs, beaten
+  - ½ cup butter
+
+**Instructions**
+
+1.  Preheat oven to **375 degrees**.
+2.  In a small bowl, mix together crackers, garlic salt, and black pepper.
+3.  Dip each chicken breast in the beaten eggs, and then dredge in the cracker mixture, coating it completely.
+4.  Place each coated chicken breast in a **9x13 pan**.
+5.  Cut the butter up into small pieces, and put them over the top of the chicken breasts.
+6.  Bake for **30-35 minutes**, until chicken is cooked through.
+
+*Prep 10 minutes. Cook 30 minutes. Total 40 minutes. Serves 4.*
+
+---
 
 ## **Chicken and Broccoli Casserole**
 
@@ -1832,6 +1857,34 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Ritz Chicken
+
+One screenshot of a food blog's recipe card. The site is not named anywhere on the capture
+— only a Progressive ad and the card itself — so the entry carries no byline and no source
+line. If you know where it came from, it is worth adding.
+
+**This is not the Ritz Cracker Baked Chicken already in the file, despite both wanting the
+same tab.** The two differ at almost every step: Linda's dips the chicken in melted butter
+and bakes it whole-cut at **350 for 1 hr** with rosemary and no egg; this one dredges
+breasts through beaten egg, uses garlic salt instead of rosemary, dots butter over the top,
+and bakes at **375 for 30-35 minutes**. Same idea, different recipe. Both queue rows are
+marked *contested*, the same way Chicken Casserole and Chicken and Broccoli Casserole both
+point at Broccoli Chicken Casserole.
+
+**The screenshot ends at step 6.** Step 6 is a natural close — "until chicken is cooked
+through" — but it sits right on the bottom edge of the capture, so a step 7 could exist
+below the fold. Worth a look at the original.
+
+The page heading reads *Ritz Chicken Recipe*; the trailing "Recipe" is blog-title convention
+and was dropped, which also makes the title match the doc's tab exactly.
+
+The card's Equipment section renders as a single bullet reading "4" — a broken widget, not
+information — and stayed out. The blurb above the card ("There are just a few ingredients
+needed for this delicious, moist chicken! We grew up eating it all the time…") is page
+furniture and also stayed out.
+
+Clean read otherwise — printed text throughout.
 
 ## Honey Mustard Sheet Pan Chicken with Brussels Sprouts
 
