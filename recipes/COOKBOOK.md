@@ -29,6 +29,7 @@ clean to copy.
 | Grandma Verna's Swedish Meatballs | Main Dishes › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Salmon Patties | Main Dishes › Salmon Patties | ☐ |
 | Wingers Sticky Fingers | Main Dishes › Wingers Sticky Chicken Salad | ☐ |
+| Black Bean Quinoa Enchilada Bake | Main Dishes › Quinoa Enchilada Bake | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -414,6 +415,45 @@ Mix well. Form into patties. Fry in margarine mixed with vegetable oil in pan to
 Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minutes**. Pour over cooled chicken and cut into bit size pieces. Serve over lettuce with craizins, carrots, grated cheddar cheese, and ranch dressing.
 
 *Handwritten on the page, a quadruple batch of the sauce: hot sauce ×4 = 12 T = ¾ C., brown sugar = 3 C., water = 8 T. = ½ C.*
+
+---
+
+## **Black Bean Quinoa Enchilada Bake**
+
+### **Two Peas and Their Pod**
+
+**Ingredients**
+
+  - 1 cup uncooked quinoa, rinsed
+  - 2 cups water
+  - 1 tablespoon olive oil
+  - 1 small onion, diced
+  - 3 cloves garlic, minced
+  - 1 jalapeño, seeds and ribs removed, diced
+  - 1 red bell pepper, seeds removed, diced
+  - 1 orange or yellow bell pepper, seeds removed, diced
+  - 1 cup corn frozen kernels
+  - 1 small lime, Juice of
+  - 1 teaspoon ground cumin
+  - 1 tablespoon chili powder
+  - ⅓ cup chopped cilantro
+  - Salt and pepper, to taste
+  - 30 oz canned black beans, rinsed and drained
+  - 2 cups enchilada sauce
+  - 2 cups shredded Mexican cheese
+  - Toppings: Sliced green onions, avocado, sour cream, cilantro
+
+**Instructions**
+
+1.  Preheat the oven to **350 degrees F**. Grease a **9×13 baking dish** with cooking spray and set aside.
+2.  Add quinoa and water to a medium saucepan and bring to a boil over medium heat. Boil for **5 minutes**. Turn the heat to low and simmer for about **15 minutes**, or until water is absorbed. Remove from heat and fluff with a fork. Cover quinoa and set aside.
+3.  In a large skillet, heat the tablespoon of olive oil over medium-high heat. Add the onion, garlic, and jalapeño. Sauté until softened, about **5 minutes**. Add in the peppers and corn. Cook for about **3-4 minutes**. Add the lime juice, cumin, chili powder, and cilantro. Stir to combine. Season with salt and pepper, to taste.
+4.  In a large bowl, add the cooked quinoa and black beans. Add the sautéed vegetable mixture and stir to combine. Pour in the enchilada sauce and stir. Add ½ cup shredded cheese.
+5.  Pour the black bean and quinoa mixture into the prepared baking dish. Top with remaining shredded cheese. Cover the pan with foil. Bake for **20 minutes**, then remove foil. Bake an additional **10 minutes**, or until the cheese is melted and edges are bubbling. Remove from the oven, and let cool for **10 minutes**. Garnish with toppings, if desired. Serve warm.
+
+*Note-this recipe freezes well! If you need the recipe to be gluten-free make sure you use a gluten-free enchilada sauce. We like to serve it with tortilla chips.*
+
+*Prep 25 min. Cook 35 min. Total 1 hr. Serves 10. Source: www.twopeasandtheirpod.com.*
 
 ---
 
@@ -1519,6 +1559,26 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Black Bean Quinoa Enchilada Bake
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — the Directions
+break mid-list at the page edge and resume under "Directions (cont.)". Source credited on
+the printout as www.twopeasandtheirpod.com; no family attribution, so the site stands as
+the byline the way The Recipe Critic did for Toffee Apple Dip.
+
+Two ingredient lines are kept in Plan to Eat's own odd phrasing rather than tidied:
+"1 cup corn frozen kernels" and "1 small lime, Juice of" — both are database field order
+showing through, not the way anyone writes it, but they are what the page says.
+
+The blurb ("This Black Bean and Quinoa Enchilada Bake is a family favorite!…") and the
+nutrition panel are page furniture and stayed out. The author's freezes-well / gluten-free
+/ tortilla-chips note is part of the recipe and stayed in, as an italic line.
+
+Destination is an exact tab match: the doc already has **Quinoa Enchilada Bake** under
+Main Dishes, and this is that dish.
+
+Clean read throughout — printed text, nothing ambiguous.
 
 Kept out of the recipe blocks above so those stay clean to copy.
 
