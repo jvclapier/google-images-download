@@ -24,6 +24,7 @@ clean to copy.
 | Ritz Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
 | French Potato Salad | Sides › **(new tab needed)** | ☐ |
+| Onion-Roasted Potatoes | Sides › Lipton Potatoes | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -873,6 +874,25 @@ In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients
 2.  Combine the vinegar, mustard, ½ teaspoon salt, and ¼ teaspoon pepper and slowly whisk in the olive oil to make an emulsion. Add the vinaigrette to the potatoes. Add the scallions, dill, parsley, basil, 1½ teaspoons salt, and ½ teaspoon pepper and toss. Serve warm or at room temperature.
 
 *Prep 20 min. Cook 30 min. Total 50 min. Yield 4 to 6 servings. Level: Easy. Source: Food Network, from The Barefoot Contessa Cookbook.*
+
+---
+
+## **Onion-Roasted Potatoes**
+
+### **Lipton**
+
+**Ingredients**
+
+  - 1 envelope Lipton Recipe Secrets Onion Soup Mix
+  - 4 medium all-purpose potatoes cut into large chunks (about 2 lbs.)
+  - ⅓ cup olive oil
+
+**Instructions**
+
+1.  Preheat oven to **425°F**. Combine all ingredients in **13 x 9-inch baking or roasting pan**.
+2.  Bake, stirring occasionally, until potatoes are tender and golden brown, **about 35 minutes**.
+
+*Prep Time 10 minutes. Cook Time 35 minutes. 4 Servings. Source: back of the Lipton Recipe Secrets Onion Soup Mix box.*
 
 ---
 
@@ -1916,6 +1936,33 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Onion-Roasted Potatoes
+
+One photo of the back of a Lipton Recipe Secrets Onion Soup Mix box, shot at an angle with
+some glare off the carton. Saved on instruction: **onion roasted potatoes only** — the top
+recipe on the panel.
+
+**This is almost certainly what the doc's Lipton Potatoes tab is for.** A three-ingredient
+potato recipe off the back of a Lipton soup mix box, and a tab named Lipton Potatoes — the
+match is as direct as it gets. Queued there rather than as a new tab, and the only one of
+this batch that needed no deliberation.
+
+The registered-trademark marks on "Lipton® Recipe Secrets®" are dropped from the ingredient
+line; nothing else about it changed.
+
+The box gives its two steps as numbered circles rather than a list, which is why they are
+numbered here.
+
+**Two more recipes sit below on the same panel** and were not transcribed: *Classic Onion
+Dip* and *Best Ever Juicy Burgers*. Both run off the bottom edge of the photo mid-ingredient,
+so neither could have been finished from this shot anyway. Worth knowing that the doc has a
+*Hamburgers with Gravy* tab under Main Dishes and a Dips & Dressings section, so both would
+have somewhere to land if you want them.
+
+Read is clean apart from one small thing: the oil measure is printed small and photographed
+at an angle. It reads ⅓ cup, which is also the standard measure in this recipe, but it is the
+one character on the panel that glare could hide.
 
 ## French Potato Salad
 
