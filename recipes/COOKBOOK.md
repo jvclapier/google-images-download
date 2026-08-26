@@ -28,6 +28,7 @@ clean to copy.
 | Hearty Beef Stew | Soups › Beef Stew | ☐ |
 | Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
 | Mexican Platter Dip | Dips & Dressings › 7 Layer Dip — *verify same dish* | ☐ |
+| Hurry Up Chocolate Cake | Desserts › Hurry Up Chocolate Cake — *incomplete, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1548,6 +1549,31 @@ Whip together until thick and spreadable.
 
 ---
 
+## **Hurry Up Chocolate Cake**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 2 C. regular unsifted flour
+  - 2 t. soda
+  - ½ t. salt
+  - ½ C. cocoa
+  - 1½ C. sugar
+  - 1 C. salad oil
+  - 2 eggs
+  - 1 C. buttermilk
+  - 1 t. vanilla
+  - 1 C. boiling water
+
+**Instructions**
+
+Sift into bowl. Blend in 1 C. salad oil, 2 eggs, 1 C. buttermilk, 1 t. vanilla, 1 C. boiling water. Batter will be runny.
+
+*Handwritten on the card: **35 minutes**.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2032,6 +2058,41 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Hurry Up Chocolate Cake
+
+One photo of a typewritten card on aged orange stock, creased and shot sideways. Titled
+HURRY UP CHOCOLATE CAKE and bylined Verna Metcalf, which confirms what the file already
+assumed: an earlier note recorded that the doc's *Hurry Up Chocolate Cake* tab is Verna's
+recipe and that the family index's generic "Chocolate cake" line points at it. This is that
+recipe, and it lands on that tab exactly.
+
+**The card is typed in two columns and merges its method into the list.** Left column runs
+flour, soda, salt, "Sift into bowl", "Blend in 1 C. salad oil", buttermilk, vanilla, "Batter
+will be runny."; the right column carries cocoa, sugar, eggs, and boiling water alongside.
+The entry pulls all ten ingredients into one list and keeps the card's own method words —
+"Sift into bowl", "Blend in", "Batter will be runny" — as the instructions.
+
+**Two things about this card are unresolved, and both matter.**
+
+*The sugar has been altered by hand.* The typed figure carries a handwritten mark over or
+before it, and the result reads 1½ C. It could be a correction from 2 C. down to 1½, or a
+correction up to it, or the pen could be clarifying a smudged typed character. Recorded as
+1½ C. sugar. Most cakes of this type — two cups flour, half a cup cocoa, a cup each of oil,
+buttermilk and boiling water — take 2 C. sugar, so the alternative is the more conventional
+one. That is a reason to check the card, not a reason to overrule it.
+
+*There is no baking temperature anywhere on the visible card.* Handwriting at the bottom
+edge reads **35 minutes**, carried as an italic note, but no degrees. The card is also cut
+off at the bottom of the frame with more text below the crop, and there is faint writing at
+the left edge that the shot does not reach. The temperature and the pan size are almost
+certainly down there. Nothing was invented to fill the gap — as filed, this recipe cannot be
+baked without them.
+
+**Re-shoot the whole card, flat and upright, and this entry can be completed.** The queue row
+is marked *incomplete* until then.
+
+The typed abbreviations stay as typed: "C.", "t.", "regular unsifted flour", "salad oil".
 
 ## Mexican Platter Dip
 
