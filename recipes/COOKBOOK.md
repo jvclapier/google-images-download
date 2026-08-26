@@ -29,7 +29,8 @@ clean to copy.
 | Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
 | Mexican Platter Dip | Dips & Dressings › 7 Layer Dip — *verify same dish* | ☐ |
 | Hurry Up Chocolate Cake | Desserts › Hurry Up Chocolate Cake — *incomplete, see notes* | ☐ |
-| Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie | ☐ |
+| Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
+| Turkey Sweet Potato Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -641,6 +642,56 @@ Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minu
 *Amazing!*
 
 *Serving: 1. Shared by EmRomrell. Source: Kim N.*
+
+---
+
+## **Turkey Sweet Potato Shepherd's Pie**
+
+### **Taesha Butler**
+
+### **Sweet Potato Topping**
+
+**Ingredients**
+
+  - 2 pounds sweet potatoes, washed, peeled, and cut into cubes
+  - 2 tablespoons olive oil
+  - ⅓ cup milk of choice (use unsweetened almond or oat milk for dairy free)
+  - 1½ teaspoon kosher salt, or to taste
+
+**Instructions**
+
+1.  Place potatoes into a large pot and cover with water so they are just covered. Cover the pot with a lid and bring to a boil on high heat. Cook for **10-13 minutes** or until they are fork tender.
+2.  Once the potatoes are cooked to fork tender, drain the potatoes and add back to your hot pot. Add oil, oat milk and salt to the pot and mash until tender and fluffy. If your potatoes seem too dry for your taste, add a little more milk, oil or some veggie broth. Set aside.
+
+### **Turkey & Veggie Filling**
+
+**Ingredients**
+
+  - 1 tablespoon olive oil
+  - 1 medium yellow onion, chopped
+  - 1 pound ground turkey, or ground chicken
+  - ½ teaspoon garlic powder
+  - 1 teaspoon kosher salt
+  - 1 tablespoon Worcestershire sauce
+  - 1 teaspoons poultry seasoning
+  - 1 tablespoon soy sauce, or coconut aminos for gluten free
+  - 12 ounce bag frozen mixed veggie
+  - 1 cup milk of choice (use unsweetened almond or oat milk for dairy free)
+  - 2 tablespoons corn starch, or arrowroot starch
+  - ½ cup broth
+
+**Instructions**
+
+1.  While potatoes are cooking, preheat the oven to **425°F** and heat oil in a cast iron skillet or large pot over medium heat.
+2.  Once hot, add onions and sauté for **about 2 minutes** or until onions start to turn translucent.
+3.  Crumble the ground turkey into the cast iron skillet and cook, breaking it up into pieces with your spoon. Cook until the turkey is cooked through and crumbly, **about 5-7 minutes**.
+4.  Add garlic powder, salt, Worcestershire sauce, poultry seasoning, and soy sauce to the skillet. Sauté for **2 minutes**, stirring often.
+5.  Add broth and frozen vegetables to the skillet. Stir to combine.
+6.  In a small bowl or large measuring cup, thoroughly mix cornstarch and milk together. Make sure there are no clumps at the bottom. Add the cornstarch mixture to the skillet and bring it to a simmer. Simmer for **5 minutes** or until sauce is thicker and the vegetables are warmed through.
+7.  Either use the cast iron skillet as your baking dish or transfer the filling into a **9" x 13"** greased baking dish. Spread the filling evenly in the baking dish and then top with the mashed sweet potatoes. Spread the potatoes in an even layer, mashing them down gently with a fork to cover the filling. Bake **15 to 20 minutes** until the potatoes are lightly browned on top. For a crisper potato topping, broil for **1 to 2 minutes**. Garnish fresh herbs and enjoy warm.
+8.  Let leftovers cool completely before storing in the fridge for **3-4 days**.
+
+*Prep Time 15 mins. Cook Time 40 mins. Course: Main Course. Cuisine: American. Diet: Gluten Free. Servings: 8 servings. Calories: 260kcal. Author: Taesha Butler.*
 
 ---
 
@@ -2092,6 +2143,35 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Turkey Sweet Potato Shepherd's Pie
+
+One screenshot of a recipe card from a food blog, whole recipe in a single capture. Author
+line reads Taesha Butler; rated 5 from 13 votes. Three display ads sit down the right side of
+the page and none of them cover recipe text.
+
+**This is a second sweet potato shepherd's pie, and it is not the one filed just before it.**
+Kim N's version is ghee, coconut milk, ground meat, celery and carrot, thyme and oregano, at
+**375** for **30 min**. This one is olive oil, milk of choice, ground turkey, a bag of frozen
+mixed veg, a cornstarch-and-milk gravy, Worcestershire and soy sauce, at **425°F** for
+**15 to 20 minutes**. Same dish in concept, nothing in common in execution. Both queue rows
+are marked *contested* for the Sweet Potato Shepherd's Pie tab, as with the two Ritz chickens.
+
+**The page spells its own title two ways.** The heading reads "Turkey Sweet Potato
+Shepherds's Pie"; the blurb directly beneath it reads "Turkey Sweet Potato Shepherd's Pie".
+The second spelling is used here — not a correction, just the page's own other version.
+
+**Both the ingredients and the method are split by component on the page**, so this one takes
+the house `###` split cleanly — unlike the Asian Glazed Turkey Meatballs, where the method ran
+as one flow and the split would have broken it.
+
+Three of the page's own slips are kept verbatim: "1 teaspoons poultry seasoning", "12 ounce
+bag frozen mixed veggie", and "Garnish fresh herbs" with no "with".
+
+Step 2 of the topping says to add "oat milk" although the ingredient line says "milk of
+choice" — the page's own inconsistency, left as written.
+
+Clean read throughout — printed text.
 
 ## Shepherd's Pie
 
