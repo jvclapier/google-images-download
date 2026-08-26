@@ -22,6 +22,7 @@ clean to copy.
 | Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Ritz Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
+| Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -814,6 +815,34 @@ Scrub zucchini and cut into fourths. Spread with butter; sprinkle with seasoning
 In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients in a blender and blend until tarragon is finely chopped.
 
 *Prep 45 min. Total 45 min. Serves 12. Source: abountifulkitchen.com.*
+
+---
+
+## **Cranberry Salad**
+
+### **Kelsey Nixon**
+
+**Ingredients**
+
+  - One 10-ounce bag fresh whole cranberries (about 3 cups)
+  - ¾ cup sugar
+  - 2 cups miniature marshmallows
+  - One 20-ounce can crushed pineapple, drained
+  - 1 cup heavy whipping cream
+  - ½ cup powdered sugar
+  - 1 teaspoon vanilla extract
+  - 1 cup pomegranate seeds
+
+**Instructions**
+
+1.  Pulse the cranberries in a food processor until fine and no large pieces remain. Transfer to a large mixing bowl and stir in the sugar. Cover and refrigerate for **at least 2 hours** or up to overnight.
+2.  Drain any accumulated juices from the cranberries and reserve for another use, and then stir in the marshmallows and drained pineapple and set aside.
+3.  Whip the heavy cream in a large mixing bowl until it begins to thicken, **about 1 minute**, and then beat in the powdered sugar and vanilla until soft peaks form, **3 to 5 minutes**. Fold the whipped cream into the cranberry mixture, one third at a time, until fully incorporated. Transfer to an **8-by-8-inch baking dish**.
+4.  Refrigerate or freeze for **about 2 hours**. Right before serving, garnish with the pomegranate seeds.
+
+*Cook's Note: Use any leftover fresh cranberry juice for other recipes, such as Cranberry Apple Roasted Turkey Breast.*
+
+*Prep 10 min. Inactive 4 hr. Total 4 hr 10 min. Yield 4 to 6 servings. Level: Easy. Source: Food Network.*
 
 ---
 
@@ -1857,6 +1886,32 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Cranberry Salad
+
+One screenshot of a Food Network recipe page, credited "Recipe courtesy of Kelsey Nixon" —
+so Kelsey Nixon is the byline and Food Network the source, the same split used for Jill
+Wankier / The Recipe Critic.
+
+The Cook's Note is the site's own labelled note, not marginalia, so it keeps its label. It
+points at another Food Network recipe (Cranberry Apple Roasted Turkey Breast) that is not in
+this file.
+
+**The timings are consistent, which is worth saying because they look odd.** The header
+claims 4 hr inactive against a 4 hr 10 min total — that is step 1's two-hour chill plus step
+4's two-hour set, not an error.
+
+An **8-by-8-inch baking dish** for a salad is unusual but is what the page specifies; this is
+a set, sliceable holiday salad rather than a tossed one.
+
+**No tab matches, and the near-miss is a third one.** Sides has a *Pomegranate Salad* (Amie
+Glauser). This recipe finishes with a cup of pomegranate seeds, so it is a candidate for that
+tab — but pomegranate is only the garnish here, the dish is cranberry, and the tab already
+carries a family attribution that points to Amie's own recipe. That makes three things
+circling one tab, counting the Jerusalem Cous Cous Salad noted earlier. Queued as a new tab;
+check what is actually in Pomegranate Salad before creating it.
+
+Clean read throughout — printed text.
 
 ## Ritz Chicken
 
