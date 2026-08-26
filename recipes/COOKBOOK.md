@@ -34,6 +34,7 @@ clean to copy.
 | Mediterranean Lemon Chicken Soup | Soups › Lemon Chicken Soup | ☐ |
 | Blueberry Baked Oatmeal | Breakfasts › **(new tab needed)** | ☐ |
 | Mango Chicken Pasta Salad with Tarragon Lime Dressing | Sides › **(new tab needed)** | ☐ |
+| Sweet Potato Roasted Corn Chowder | Soups › Corn Chowder — *verify tab is empty* | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
 | Cauliflower Casserole | Sides › **(new tab needed)** | ☐ |
 | Jerusalem Cous Cous Salad | Sides › **(new tab needed)** | ☐ |
@@ -1656,6 +1657,42 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 ---
 
+## **Sweet Potato Roasted Corn Chowder**
+
+### **Two Peas and Their Pod**
+
+**Ingredients**
+
+  - 4 ears corn, shucked
+  - 2 small poblano peppers
+  - 1 tablespoon olive oil
+  - 1 onion, chopped
+  - 2 celery ribs, diced
+  - 3 cloves garlic, minced
+  - 1 large sweet potato, peeled and diced (2 cups)
+  - 1 teaspoon oregano
+  - 1 teaspoon cumin
+  - ½ teaspoon smoked paprika
+  - 1 teaspoon kosher salt
+  - 5 cups vegetable broth
+  - ⅓ cup chopped cilantro
+  - ½ cup coconut milk
+  - 1 tablespoon fresh lime juice
+  - Salt and pepper, to taste
+  - Cilantro, lime wedges, avocado, & pepitas, for garnish, optional
+
+**Instructions**
+
+1.  First, char the corn and poblano peppers. You can do this over a hot grill or gas flame. If using the grill, put the corn and pepper on the hot grill and char each side, **2 to 3 minutes per side**, or until blistered and blackened. If using a gas flame, char the corn all over until at least half the kernels are blistered, and poblano until skin is blackened. You can also use the oven to broil the poblano peppers, cook them on baking sheet under the broiler for **about 10 minutes** while using tongs to rotate them every couple of minutes.
+2.  Place the poblano peppers in a paper bag and close it tight. Let sit for **5 to 10 minutes** to steam, this will make it easier to peel. Meanwhile, stand each ear of corn up, stalk end down and use a sharp knife to slice the corn kernels off the cob. Remove the skin and seeds from the poblano pepper and dice. Set the corn and peppers aside. Note-if your poblano peppers are larger in size you might not need to add them all.
+3.  In a large pot, heat the olive oil over medium-high heat. Add the onion and celery and cook for **5 minutes**, or until softened. Add the garlic and cook for a minute more. Add the sweet potatoes, oregano, cumin, smoked paprika, and salt. Add the vegetable broth and Increase heat and bring to a simmer. Lower heat to maintain a simmer and cook for **10 to 12 minutes** or until the potatoes are soft. Stir in the roasted corn and cook for **2 minutes**.
+4.  Transfer about a third of the chowder to a blender and blend until smooth. Stir the mixture back into the pot. If you have an immersion blender you can blend the chowder in the pot, but don't over do it. You want there to be chunks
+5.  Add the poblano peppers, coconut milk, cilantro, and lime juice and stir. Season with salt and pepper, to taste. Ladle the chowder into the bowls and garnish with desired toppings. Serve warm.
+
+*Prep 15 min. Cook 35 min. Total 50 min. Serves 6. Source: www.twopeasandtheirpod.com.*
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -1712,6 +1749,30 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Sweet Potato Roasted Corn Chowder
+
+Two screenshots of one Plan to Eat printout, page 1 of 2 and 2 of 2 — step 2 breaks
+mid-sentence at "use a sharp knife to slice the corn" and resumes with "kernels off the
+cob." under "Directions (cont.)". Source credited on the printout as
+www.twopeasandtheirpod.com, the same site as the Black Bean Quinoa Enchilada Bake, so the
+byline is kept in the same form.
+
+Four of the source's own slips are kept verbatim: "and Increase heat" mid-sentence in step
+3, "don't over do it" in step 4, that step ending on "chunks" with no full stop, and the
+run-on "Let sit for 5 to 10 minutes to steam, this will make it easier to peel" in step 2.
+
+The blurb and the nutrition panel are page furniture and stayed out. Worth knowing anyway:
+the author notes the chowder is vegan.
+
+**The tab needs a look before pasting.** Soups already has a **Corn Chowder** tab, and this
+is a corn chowder, so it is queued there — but unlike the Quinoa Enchilada Bake match,
+there is nothing confirming the tab is empty rather than already holding a different,
+probably more traditional corn chowder. If it has one, this wants its own tab under the
+fuller name; the two are not interchangeable, since this one is vegan and built on sweet
+potato and coconut milk.
+
+Clean read otherwise — printed text throughout.
 
 ## Mango Chicken Pasta Salad with Tarragon Lime Dressing
 
