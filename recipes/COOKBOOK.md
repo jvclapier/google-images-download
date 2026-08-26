@@ -27,6 +27,7 @@ clean to copy.
 | Onion-Roasted Potatoes | Sides › Lipton Potatoes | ☐ |
 | Hearty Beef Stew | Soups › Beef Stew | ☐ |
 | Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
+| Mexican Platter Dip | Dips & Dressings › 7 Layer Dip — *verify same dish* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1700,6 +1701,34 @@ In a medium-sized mixing bowl, add softened cream cheese, brown sugar, and vanil
 
 ---
 
+## **Mexican Platter Dip**
+
+**Ingredients**
+
+  - 3 ripe avocados
+  - 2 tablespoons lemon juice
+  - 1 teaspoon garlic salt
+  - 3 drops Tabasco
+  - 1 cup sour cream
+  - ½ cup mayonnaise
+  - 1 package (1¼ ounces) taco seasoning mix
+  - 1 can (30 ounces) refried beans
+  - 1 bunch green onion, chopped (use part of tops)
+  - 2 medium tomatoes, skinned, seeded, and chopped
+  - 1 can (2½ ounces) sliced ripe olives
+  - 4 ounces sharp Cheddar cheese, shredded (about 1 cup)
+  - Corn or tortilla chips
+
+**Instructions**
+
+Peel, pit, and mash avocados; add lemon juice, garlic salt, and Tabasco. Cover and chill.
+
+Combine sour cream, mayonnaise, and taco seasoning mix. Cover and chill.
+
+To assemble dip: on a large round platter or serving dish, spread beans in an even layer, leaving 1-inch space all around the edge. Top with avocado mixture, leaving bean layer exposed all around. Top with sour cream mixture, leaving avocado mixture exposed all around. Sprinkle with green onion, tomatoes, ripe olives, and Cheddar cheese. Serve as a dip with corn chips or tortilla chips, or serve onto plates in pie-shaped wedges.
+
+---
+
 # Soups
 
 ## **Apple and Butternut Squash Soup**
@@ -2003,6 +2032,31 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Mexican Platter Dip
+
+One photo of a printed cookbook page, shot at an angle so the lower half curves away — the
+assembly paragraph is the hardest part of the page to read and was worked through line by
+line. The page is unsigned and the book is not identifiable from the crop, so the entry
+carries no byline.
+
+**The method is three paragraphs on the page and stays three paragraphs here**, rather than
+being renumbered into steps. Two chilled components, then the assembly.
+
+**It is a seven-layer dip, counted.** Beans, avocado, sour cream mixture, green onion,
+tomatoes, olives, Cheddar — seven, which is why it is queued at the doc's **7 Layer Dip** tab
+even though the names differ. Worth confirming the tab is empty or holds this same recipe;
+if it holds a different family version, this wants its own tab under its own name.
+
+Nothing in this recipe is bolded because nothing in it is a temperature, a time, or a pan
+size — there is no cooking at all, only chilling and layering.
+
+**A second recipe begins at the bottom of the page** — *Tasty Egg Dip*, "About 2 cups" — and
+was not transcribed: only its title and yield are above the crop. Send a shot of that
+section if you want it.
+
+The read is clean on the ingredient list, which is set larger and flatter than the prose
+below it.
 
 ## Cranberry Jalapeno Cream Cheese Dip
 
