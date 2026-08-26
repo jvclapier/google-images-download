@@ -23,6 +23,7 @@ clean to copy.
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Ritz Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
+| French Potato Salad | Sides › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -843,6 +844,35 @@ In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients
 *Cook's Note: Use any leftover fresh cranberry juice for other recipes, such as Cranberry Apple Roasted Turkey Breast.*
 
 *Prep 10 min. Inactive 4 hr. Total 4 hr 10 min. Yield 4 to 6 servings. Level: Easy. Source: Food Network.*
+
+---
+
+## **French Potato Salad**
+
+### **Ina Garten**
+
+**Ingredients**
+
+  - 1 pound small white boiling potatoes
+  - 1 pound small red boiling potatoes
+  - 2 tablespoons good dry white wine
+  - 2 tablespoons chicken stock
+  - 3 tablespoons Champagne vinegar
+  - ½ teaspoon Dijon mustard
+  - 2 teaspoons kosher salt
+  - ¾ teaspoon freshly ground black pepper
+  - 10 tablespoons good olive oil
+  - ¼ cup minced scallions (white and green parts)
+  - 2 tablespoons minced fresh dill
+  - 2 tablespoons minced flat-leaf parsley
+  - 2 tablespoons julienned fresh basil leaves
+
+**Instructions**
+
+1.  Drop the white and red potatoes into a large pot of boiling salted water and cook for **20 to 30 minutes**, until they are just cooked through. Drain in a colander and place a towel over the potatoes to allow them to steam for **10 more minutes**. As soon as you can handle them, cut in ½ (quarters if the potatoes are larger) and place in a medium bowl. Toss gently with the wine and chicken stock. Allow the liquids to soak into the warm potatoes before proceeding.
+2.  Combine the vinegar, mustard, ½ teaspoon salt, and ¼ teaspoon pepper and slowly whisk in the olive oil to make an emulsion. Add the vinaigrette to the potatoes. Add the scallions, dill, parsley, basil, 1½ teaspoons salt, and ½ teaspoon pepper and toss. Serve warm or at room temperature.
+
+*Prep 20 min. Cook 30 min. Total 50 min. Yield 4 to 6 servings. Level: Easy. Source: Food Network, from The Barefoot Contessa Cookbook.*
 
 ---
 
@@ -1886,6 +1916,31 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## French Potato Salad
+
+One screenshot of a Food Network recipe page, printed 8/26/26, credited "Recipe courtesy of
+Ina Garten" with Show: Barefoot Contessa and From: The Barefoot Contessa Cookbook. Byline is
+Ina Garten; the source line carries both Food Network and the cookbook.
+
+**The salt and pepper are listed once and used twice, and the numbers do reconcile.** The
+ingredient list calls for 2 teaspoons kosher salt and ¾ teaspoon pepper; the method spends
+½ tsp salt and ¼ tsp pepper in the vinaigrette, then 1½ tsp salt and ½ tsp pepper at the
+toss. Both add up exactly, so nothing is missing and nothing is double-counted — it only
+looks wrong at a glance.
+
+The page's reprint notice — *Reprinted from The Barefoot Contessa Cookbook, Copyright 1999 by
+Ina Garten, Clarkson Potter/Publisher. All rights reserved.* — is a copyright line rather
+than recipe content, so it is not in the block. It is recorded here because it is also the
+best statement of where the recipe actually comes from.
+
+The episode credit ("I Scream for Ice Cream") belongs to the show, not the dish, and stayed
+out along with the rest of the page furniture.
+
+**No tab matches.** Sides has Lipton Potatoes, which is a different dish entirely. Queued as
+a new tab.
+
+Clean read throughout — printed text.
 
 ## Cranberry Salad
 
