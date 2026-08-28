@@ -42,6 +42,7 @@ clean to copy.
 | Strawberry Ice Cream | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Brownie Mint Torte | Desserts › **(new tab needed)** — *method breaks off mid-sentence, needs the back of the card* | ☐ |
 | Carrot Cake | Desserts › Carrot Cake — *oil quantity uncertain* | ☐ |
+| Sour Cream Banana Bars | Desserts › Banana Bread Bars — *verify same dish* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1995,6 +1996,41 @@ Cream butter, cheese and sugar. Add vanilla and nuts. Frost when … is cool.
 
 ---
 
+## **Sour Cream Banana Bars**
+
+**Ingredients**
+
+  - 1½ c. sugar
+  - 1 c. sour cream
+  - ½ c. margarine
+  - 2 eggs
+  - 1½ c. mashed banana
+  - 2 tea. vanilla
+  - 2 c. flour
+  - 1 tea. salt
+  - 1 tea. baking soda
+
+**Instructions**
+
+Put on cookie sheet or **lg. cake pan**. Bake **375° 20 to 25 min.**
+
+### **Brown Butter Frosting**
+
+**Ingredients**
+
+  - ½ c. butter
+  - 4 c. pdr sugar
+  - 2 tsp vanilla
+  - 4 Tbls. milk
+
+**Instructions**
+
+Heat ¼ c butter over med heat until a delicate brown. Remove from heat and add 2 c. powdered sugar. Beat in 1 tea. vanilla & 2 tbs. milk. Beat until smooth and spreading consistancy.
+
+*Double this fr recipe above. If halfing banana recipe, then frosting recipe is just right.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2502,6 +2538,40 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Sour Cream Banana Bars
+
+One photo of a single sheet holding **two recipes that belong together** — the bars at the top,
+the Brown Butter Frosting below, and a handwritten note at the foot tying them to each other. The
+paper is folded in quarters and worn, with print showing through from the reverse, but the pencil
+is dark and the read is good.
+
+**The frosting's ingredient list is already doubled, and the note says so.** The left column reads
+½ c. butter, 4 c. pdr sugar, 2 tsp vanilla, 4 Tbls. milk. The method beside it says ¼ c butter,
+2 c. powdered sugar, 1 tea. vanilla, 2 tbs. milk — exactly half of each, and an arrow runs from
+the end of the method to the note: *double this fr recipe above. If halfing banana recipe, then
+frosting recipe is just right.* So the column is the batch that matches a full pan of bars, and
+the method is the single batch that matches a half pan. Both are kept exactly as written, because
+throwing either away would lose the arithmetic the writer did once so nobody would have to do it
+again.
+
+**The bars have no mixing method at all.** The page gives ingredients and then goes straight to
+"Put on cookie sheet or lg. cake pan. bake 375° 20 to 25 min." Nothing about creaming, order, or
+combining. That is the second card in this batch to do that, after Myrle's Butterscotch Cookies.
+Nothing was written in.
+
+**Every ingredient line in the bars carries a hand-drawn tick** down the left margin — someone
+checked them off while assembling. Marks, not words, so they are not in the block, but they are
+the reason the list looks like it has a bracket beside it.
+
+The page's own spellings and abbreviations stay throughout: "consistancy", "halfing", "fr" for
+for, "tea." for teaspoon, "lg." for large, and "pdr sugar" beside "powdered sugar" in the same
+recipe.
+
+**The tab needs a look before pasting.** Desserts has a **Banana Bread Bars** tab, and this is a
+banana bar with a brown butter frosting, so it is queued there — but the names differ and there is
+nothing confirming the tab is empty rather than holding a different family recipe. Note also that
+Breads has a separate *Banana Bread*, already in this file, which is a loaf and a different thing.
 
 ## Carrot Cake
 
