@@ -1760,6 +1760,18 @@ Add 1 C. br. sugar, ⅔ C. shortning, 1 C. buttermilk — beat **2 mins.**
 
 Add 3 eggs, beat **2 mins.** Bake **350°**.
 
+### **Frosting**
+
+**Ingredients**
+
+  - ¼ C. butter (¼ sq.)
+  - 2 C. pdr. sugar
+  - 2 to 3 Tbls. boiling water
+
+**Instructions**
+
+Melt ¼ C. butter (¼ sq.), cook over med. heat. Stir constantly until butter stops bubbling and is nut brown in color. Combine with 2 C. pdr. sugar and 2 to 3 Tbls. boiling water and beat smooth.
+
 ---
 
 ## **Outrageous Brownies**
@@ -2963,6 +2975,19 @@ group.
 
 **No tab exists for this recipe.** Desserts has Carrot Cake, Texas Sheet Cake and Cake Pops, and
 nothing spiced. A new tab is needed.
+
+**Updated after a second photo: the back of the card carries a Frosting**, added above as a `###`
+component. It is a browned-butter frosting — the butter cooked until it stops bubbling and turns
+nut brown, then beaten smooth with powdered sugar and boiling water. The card gives the butter
+twice over, as a measure and as a size: "¼ C. butter (¼ sq.)", and both are kept.
+
+**The bake time is still missing.** The back holds only the frosting; there is no duration or pan
+size anywhere on either face. "Bake 350°" remains the whole of the cake's baking instruction, and
+the queue row stays flagged.
+
+Note that this is the second browned-butter frosting in the file, after the one on the Sour Cream
+Banana Bars. They are not the same recipe — that one is beaten with milk and makes a much larger
+batch; this one uses boiling water.
 
 ## Easy No-Knead Peasant Bread
 
