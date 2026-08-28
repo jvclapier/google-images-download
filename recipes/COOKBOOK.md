@@ -37,6 +37,7 @@ clean to copy.
 | Outrageous Brownies | Desserts › **(new tab needed)** — *chocolate conflict, see notes* | ☐ |
 | Kathy's Snickerdoodles | Desserts › **(new tab needed)** — *no oven temp or time, see notes* | ☐ |
 | Grandpa Glauser Choc. Chip Cookies | Desserts › Grandpa Glauser Cookies — *sugar split uncertain* | ☐ |
+| Bratseli | Desserts › **(new tab needed)** — *torn source, gaps in method* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1857,6 +1858,33 @@ Beat 4 eggs. Add: 3 c. sugar (2 brown, 1 white sugar), 1 C. Shortening, 1 c. but
 
 ---
 
+## **Bratseli**
+
+**Ingredients**
+
+  - 7 to 9 cups all-purpose flour, sifted
+  - 1 tablespoon ground cinnamon
+  - ¼ teaspoon coarse salt
+  - 1 cup (2 sticks) unsalted butter, room temperature
+  - 1½ cups sugar
+  - 1 tablespoon pure vanilla extract
+  - 1 tablespoon pure lemon extract
+  - Finely grated zest of 1 lemon (optional)
+  - 2 large eggs, room temperature, lightly beaten
+  - 1 cup heavy cream, room temperature
+  - Cooking spray, for the iron
+
+**Instructions**
+
+1.  Whisk together … cups flour, the cinnamon, and salt in a medium bowl.
+2.  With an electric mixer, mix butter and sugar on medium speed until pale and fluffy. Add extracts and zest, if using; mix until combined. Add eggs; mix until combined.
+3.  Whisk cream in another medium bowl until just slightly thickened. Fold into butter mixture. Reduce mixer speed to low. Add flour mixture and mix until just combined. Add remaining flour, 1 cup at a time, mixing until incorporated after each addition, until dough is just soft enough to handle but still slightly sticky. Roll tablespoons of dough into balls.
+4.  Coat a bratseli or pizzelle iron with cooking spray, and heat. Place one ball of dough in each grid, and press handle down tightly. Cook bratseli until golden (some machines have a green light that will illuminate when done), … **1½ minutes**. Trim edges if needed. Let … on wire racks. Cookies can be stored between layers … airtight container at room temperature up to **1 week**.
+
+*These Swiss cookies, sometimes spelled Bräzeli or Bratzeli, are made with a specialty tool much like a waffle iron, but the results are thinner. You can also use a pizzelle iron. Makes about 6 dozen.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2364,6 +2392,45 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Bratseli
+
+One photo of a printed clipping that has been folded and torn — the worst-condition source in
+this file. Two tear lines run across the columns and a corner is missing. No publication or
+author is identifiable from what survives.
+
+**Three spans are unreadable and are marked `…` in the block rather than guessed.**
+
+*Step 1's flour quantity.* "Whisk together … cups flour" — the number sits directly on a tear.
+This is the recipe's central problem: the ingredient list gives a range, 7 to 9 cups, and the
+method is built around splitting that between an initial amount whisked with the salt and the
+rest added a cup at a time in step 3. Without the step 1 figure the split is unknown, and this
+is the one gap that actually blocks the recipe.
+
+*Step 4's cooking time.* "…  **1½ minutes**" — a preceding word or figure is lost to the tear,
+most likely making it a range.
+
+*Step 4's cooling and storage.* "Let … on wire racks" and "stored between layers … airtight
+container" — two short spans lost. What they say is guessable but it is not what the page shows.
+
+**The cinnamon is struck through on the page and is kept anyway.** A line is drawn through
+"1 tablespoon ground cinnamon" in the ingredient list, but step 1 still says to whisk "the
+cinnamon" in with the flour and salt. The rule for crossed-out text is to leave it out unless
+the method still calls for it — the method does, so it stays, and this note is the flag. Whoever
+struck it out may simply have been making them plain; the strike is theirs to explain.
+
+"Cooking spray, for the iron" is added to the ingredient list from step 4. A torn line at the
+foot of the ingredient column appears to be the page's own version of that entry, but too little
+of it survives to transcribe.
+
+The blurb is kept as an italic line rather than dropped as page furniture, because it carries
+the two things a cook needs before starting: that a pizzelle iron will substitute for a bratseli
+iron, and that the batch makes about six dozen.
+
+**Re-shoot this one if a cleaner copy exists** — flattened, or from the original source. The
+queue row is flagged until then.
+
+**No tab exists for this recipe.** Nothing in Desserts is close.
 
 ## Grandpa Glauser Choc. Chip Cookies
 
