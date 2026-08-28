@@ -47,6 +47,7 @@ clean to copy.
 | Choc. Mint Sandwich Cookies | Desserts › **(new tab needed)** | ☐ |
 | Apple Dessert | Desserts › **(new tab needed)** | ☐ |
 | Raisin Cookies | Desserts › **(new tab needed)** | ☐ |
+| Old Fashioned Butter Cookies | Desserts › **(new tab needed)** — *leavening obscured, no bake temp or time* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2182,6 +2183,27 @@ Put all ingreds. in large bowl & stir until completely mixed. Pour into a **larg
 
 ---
 
+## **Old Fashioned Butter Cookies**
+
+### **Grandma Metcalf**
+
+**Ingredients**
+
+  - 3 cups sifted flour
+  - 1 teaspoon salt
+  - ½ teaspoon …
+  - 1 cup butter
+  - ¾ cup sugar
+  - 1 egg
+  - 2 Tablespoons milk or cream
+  - 1½ teaspoon vanilla
+
+**Instructions**
+
+1 cup butter, cream well and add ¾ cup sugar, 1 egg creamed well, 2 Tablespoons milk or cream, 1½ teaspoon vanilla.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2689,6 +2711,35 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Old Fashioned Butter Cookies
+
+One photo of an old lined card written in fountain pen, in a looping older hand than anything else
+in this batch. Headed *Old Fashioned Butter Cookies* with **Grandma Metcalf** written down the left
+of the title.
+
+**The name is kept in exactly the form the card uses.** This file already holds *Great Grandma
+Metcalf's Beef Cubes in Gravy*, attributed to `Great Grandma Metcalf`, and Verna Metcalf appears
+throughout as `Grandma Verna`. This card says *Grandma Metcalf* — a third form — and it is left as
+written rather than matched to either of the others. Whether these are two women or three is not
+something the card settles.
+
+**The leavening is obscured by a stain and is marked `…`.** The line reads "½ teaspoon" and then a
+blotch sits over the word. It is between the salt and the butter, exactly where a butter cookie's
+soda or baking powder would go, but which of the two it is cannot be read. Half a teaspoon of
+*something* is the whole of what survives, so half a teaspoon of nothing in particular is what the
+entry says.
+
+**There is no oven temperature and no baking time**, and no shaping instruction either. The method
+is only the creaming order, written inline through the ingredient list — "cream well and add",
+"creamed well". Several ruled lines below the last ingredient are blank, so this is not a crop:
+either the card continues on its back, or the baker knew. **If the card has a back, photograph it**
+— that would settle the leavening as well.
+
+The method is extracted from the phrases embedded in the ingredient lines, which is why the
+quantities appear twice and why the butter leads rather than the flour.
+
+**No tab exists for this recipe.** Desserts has no butter cookie.
 
 ## Raisin Cookies
 
