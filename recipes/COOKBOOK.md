@@ -48,6 +48,10 @@ clean to copy.
 | Apple Dessert | Desserts › **(new tab needed)** | ☐ |
 | Raisin Cookies | Desserts › **(new tab needed)** | ☐ |
 | Old Fashioned Butter Cookies | Desserts › **(new tab needed)** — *leavening obscured, no bake temp or time* | ☐ |
+| Yummy Chicken | Main Dishes › **(new tab needed)** | ☐ |
+| Upside Down Spaghetti | Main Dishes › Spaghetti — *verify same dish* | ☐ |
+| Southwestern Chicken | Main Dishes › **(new tab needed)** | ☐ |
+| Halloween Dinner in a Pumpkin | Main Dishes › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -710,6 +714,107 @@ Heat hot sauce, brown sugar, and water until sugar dissolves. Let sit **1-2 minu
 8.  Let leftovers cool completely before storing in the fridge for **3-4 days**.
 
 *Prep Time 15 mins. Cook Time 40 mins. Course: Main Course. Cuisine: American. Diet: Gluten Free. Servings: 8 servings. Calories: 260kcal. Author: Taesha Butler.*
+
+---
+
+## **Yummy Chicken**
+
+**Ingredients**
+
+  - 1 can crm. chicken soup
+  - 1 can crm. mush soup
+  - 8 oz. cream cheese w/ onion + chives
+  - 1 pkg. italian dressing mix
+  - 6-8 chicken breasts
+
+**Instructions**
+
+Mix together: 1 can crm. chicken soup, 1 can crm. mush soup, 8 oz. cream cheese w/ onion + chives, 1 pkg. italian dressing mix. Pour over 6-8 chicken breasts.
+
+Cook in crock pot **5-6 hrs.**
+
+---
+
+## **Upside Down Spaghetti**
+
+**Ingredients**
+
+  - 8 oz. cream cheese, softened
+  - 8 oz. sour cream
+  - 1 lbs sausage or ground beef
+  - 1 - 8 oz. spaghetti nodle
+  - 2 to 3 cups spaghetti sauce
+  - Mozzarella & parmesan, mixed together
+
+**Instructions**
+
+8 oz. cream cheese — softened & spread. 8 oz. sour cream — on bottom of **9x13 pan**.
+
+1 lbs sausage or ground beef browned — put on top of cream cheese mixture.
+
+1 - 8 oz. spaghetti nodle cooked — put on top of meat.
+
+2 to 3 cups spaghetti sauce on top of noodles.
+
+Sprinkle mozzarella & parmesan mixed together to top.
+
+Bake **350° for 25 to 30 min.**
+
+### **Sauce**
+
+**Ingredients**
+
+  - 2-3 cans 28 oz tomatoes
+  - S + P
+  - 2-3 cloves garlic
+  - Onion
+  - Olive oil
+
+**Instructions**
+
+Saute garlic in olive oil, onion. Simmer **1 hr.**
+
+*Double.*
+
+---
+
+## **Southwestern Chicken**
+
+**Ingredients**
+
+  - ½ C. fresh lime juice
+  - 6 tbsp soy sauce
+  - 2 tbsp veg. oil
+  - 2 tbsp. sugar
+  - 2 tbsp. fresh oregano
+  - 1 tbsp fresh rosemary
+  - 1 tbsp fresh minced garlic
+  - 1½ tsp chili powder
+  - ½ tsp cayenne pepper
+  - 8 slices Monterey jack cheese
+  - 8 breasts chicken
+
+**Instructions**
+
+Mix.
+
+Marinate in non metal container. Grill and add cheese at the end.
+
+---
+
+## **Halloween Dinner in a Pumpkin**
+
+**Ingredients**
+
+  - 1 lb. ground beef
+  - 1 clove garlic, minced
+  - 1 sm. onion
+  - 1 sm. green pepper
+  - 1 - 14 oz. kidney beans, drained
+  - 1 can corn, drained
+  - ¼ c. olives, chopped or sliced (optional)
+  - 1 - 28-32 oz. can tomatoes
+  - 1 - 8 oz. can tomato sauce
 
 ---
 
@@ -2711,6 +2816,92 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Yummy Chicken
+
+One photo of a lined card, shot sideways. The title is written in two inks — *Yummy* in red,
+*Chicken* in blue. Unsigned, so no attribution line.
+
+**The card records a change of method, and the change is what is filed.** An oven route was written
+first and then struck through: *Set overnight* on one line, and *Bake 350° 1 hr.* on the next. Below
+the strikes, in the same hand, is *Cook in crock pot 5-6 hrs.* The crossed-out lines are left out of
+the block per the usual rule, since the crockpot line replaces rather than supplements them — but
+the oven version is recorded here because it is a real alternative somebody once used: **350° for
+1 hr.**, with the dish set overnight first.
+
+Nothing on the card says to brown the chicken or to serve it over anything.
+
+The card's own abbreviations stay: "crm.", "mush" for mushroom, "pkg.", "w/".
+
+**No tab exists for this recipe.** Main Dishes has a shelf of chicken tabs — Swiss Chicken, Chip
+Chicken, Russian Chicken, Ritz Chicken — and none of them is this.
+
+## Upside Down Spaghetti
+
+One photo of a sheet torn from a yellow legal pad, creased across the middle with a hard shadow
+falling over the left half. The shadow does not cross any text. Unsigned.
+
+**"Double" is written at the top corner**, above the title, and is carried as the italic line at the
+end. It is an instruction about the whole recipe rather than any one ingredient.
+
+**A sauce recipe is written sideways up the right margin** and is given its own `###` component. It
+is a separate thing from the "2 to 3 cups spaghetti sauce" the layering step calls for — this is how
+to make that sauce from scratch. The margin is cramped and its lines run in a column: 28 oz
+tomatoes, S+P, 2-3 cans, saute garlic in olive oil, 2-3 cloves, onion, simmer 1 hr. They are set
+here in the order that reads as a method, with no words added.
+
+**The layering order is the whole point of the name** and is preserved exactly: cream cheese and
+sour cream on the bottom, then meat, then noodles, then sauce, then cheese on top.
+
+"nodle" is the sheet's own spelling and stays, as does "1 lbs".
+
+**The tab needs a look before pasting.** Main Dishes has a **Spaghetti** tab. This is a spaghetti
+casserole and might be what that tab holds, or might be a plain spaghetti and meatballs. Worth
+checking rather than assuming.
+
+## Southwestern Chicken
+
+One photo of a printed slip, folded in three and photographed upside down, with handwriting on the
+folded-back flap. The printed side is clean and fully legible once inverted.
+
+**The printed recipe sets its quantities in a left column and its ingredients in a right one**, which
+is why the amounts read oddly in isolation — "½ C." beside "Fresh lime juice", "8 breasts" beside
+"chicken". They are merged into ordinary ingredient lines here with nothing changed.
+
+**"Mix" is a step, not a heading.** It sits alone between the marinade ingredients and the cheese and
+chicken, and it is the only instruction the slip gives before the marinating line.
+
+**The flap carries a hand-written scaling column, marked "5x"**, working the marinade up five times.
+Parts of it are legible — 15 limes, and single figures against the oregano, rosemary and garlic —
+but several of the multiplied amounts are faint or cut off at the fold, so the column is not
+transcribed into the block. What matters is on the printed side; if you ever need the big batch, the
+flap is where the arithmetic was done.
+
+The slip's own abbreviations stay: "Veg. Oil", "tbsp" and "tbsp." both appearing, "non metal" as two
+words.
+
+**No tab exists for this recipe.**
+
+## Halloween Dinner in a Pumpkin
+
+One photo of a modern floral recipe card — the same stock as the Grandpa Glauser cookies, the
+Strawberry Ice Cream and the Apple Dessert, so four now from that pack. Unsigned. The printed cook
+time, prep time and servings fields are blank.
+
+**This card is an ingredient list and nothing else.** There is no method, no oven temperature, no
+time, and — despite the title — no instruction about the pumpkin at all: how to hollow it, whether
+the filling is cooked first, whether the pumpkin goes in the oven. The entry has no
+`**Instructions**` section, which makes it the second such recipe in this file after the Strawberry
+Ice Cream.
+
+**Check the back of this card.** A dish named for being served in a pumpkin cannot be made from what
+is on the front, and there are blank ruled lines below the last ingredient, so the method was
+written somewhere.
+
+The card's own forms stay: "sm." for small, "1 - 14 oz." with the dash, and the "28-32 oz." range on
+the tomatoes.
+
+**No tab exists for this recipe.**
 
 ## Old Fashioned Butter Cookies
 
