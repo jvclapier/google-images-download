@@ -57,6 +57,7 @@ clean to copy.
 | Oh So Easy Chicken | Main Dishes › Swiss Chicken — *verify same dish* | ☐ |
 | Cheesy Spaghetti Bake | Main Dishes › Spaghetti — *contested, incomplete* | ☐ |
 | Chili Cheese Festivity | Main Dishes › **(new tab needed)** | ☐ |
+| Chicken Crescents | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -940,6 +941,35 @@ Cook gr. beef, onion, garlic 'til brown. Drain, add tomatoes & sauce, spices. Si
 **Instructions**
 
 Brown hamburger and onion. Drain grease. Add chili mix, soup and water. Simmer **5 minutes.** Add eggs and milk. Cook until bubbly. Stir in chips and jack cheese. Pour in **2 qt. casserole** and bake uncovered **30 minutes at 350°.** Spread sour cream and cheddar cheese and put under broiler for **5 minutes** more.
+
+---
+
+## **Chicken Crescents**
+
+**Ingredients**
+
+  - 2 pkgs. crescent rolls
+  - 2 - 3 oz pkgs. cream cheese
+  - ¼ cup butter or margarine
+  - 2 medium green onions, chopped
+  - 2 cups cooked cubed chicken
+  - 1 small can mushrooms
+  - ½ tsp. pepper
+  - 1 cup stuffing mix
+  - ½ cup pecans, chopped fine
+  - Melted butter, for rolling
+  - 1 can cream of chicken soup
+  - 1 cup sour cream
+  - ½ cup milk
+  - Rice, to serve
+
+**Instructions**
+
+Cream butter and cheese, add chicken, mushrooms, onions, pepper. Place 2 Tbsp. of mixture on each roll, pinch edges closed. Roll in melted butter, then in mixture of stuffing and pecans.
+
+Bake **30 minutes at 350°**, remove from oven and cover with mixture of 1 can cream of chicken soup, 1 cup sour cream and ½ cup milk. Bake **10 minutes more.** Serve over rice.
+
+*Can be made several days ahead. Serves 16.*
 
 ---
 
@@ -2941,6 +2971,32 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Chicken Crescents
+
+Two photos making up **one sheet** of yellow legal paper, front and back, folded into quarters and
+soft along the creases. **An arrow at the end of the front page confirms the pairing** — it points to
+the continuation, exactly as the drawn arrow did on the two-card dessert filed earlier. The back
+carries only two lines and then blank ruled paper.
+
+**The recipe is complete**, front to back: filling, assembly, first bake, sauce, second bake, and what
+to serve it on.
+
+Unsigned, so no attribution line. The serves count is written under the title rather than on a
+printed field, and is carried in the italic line with the make-ahead note.
+
+**Four ingredients were added to the list from the method.** The melted butter the crescents are
+rolled in, and the three that make the sauce poured on between the bakes — a can of cream of chicken
+soup, a cup of sour cream and half a cup of milk — appear only in the running text. The rice is added
+the same way. This is the usual treatment, but it is a larger share of the recipe than most: the
+sauce is a third of the dish and lives entirely inside a sentence.
+
+"2 - 3 oz pkgs. cream cheese" means two three-ounce packages, and is left in the sheet's own form.
+
+The method is one long paragraph on the sheet, broken into two here at the point where the first bake
+ends. No wording changed.
+
+**No tab exists for this recipe.**
 
 ## Cheesy Spaghetti Bake
 
