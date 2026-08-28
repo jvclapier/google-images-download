@@ -41,10 +41,12 @@ clean to copy.
 | Butterscotch Cookies | Desserts › **(new tab needed)** — *no mixing method, see notes* | ☐ |
 | Strawberry Ice Cream | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Brownie Mint Torte | Desserts › **(new tab needed)** — *method breaks off mid-sentence, needs the back of the card* | ☐ |
-| Carrot Cake | Desserts › Carrot Cake — *oil quantity uncertain* | ☐ |
+| Carrot Cake (unsigned sheet) | Desserts › Carrot Cake — *contested* | ☐ |
+| Carrot Cake (Becky Posander) | Desserts › Carrot Cake — *contested* | ☐ |
 | Sour Cream Banana Bars | Desserts › Banana Bread Bars — *verify same dish* | ☐ |
 | Choc. Mint Sandwich Cookies | Desserts › **(new tab needed)** | ☐ |
 | Apple Dessert | Desserts › **(new tab needed)** | ☐ |
+| Raisin Cookies | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2114,6 +2116,72 @@ Cook until thick.
 
 ---
 
+## **Raisin Cookies**
+
+### **Mom**
+
+**Ingredients**
+
+  - 2 c. raisins
+  - 1 c. water
+  - 1 c short.
+  - 2 c sugar
+  - 3 egg's
+  - 1 tsp vanilla
+  - 4 c. flour
+  - 1 tsp. salt
+  - 1 tsp. bk pdr.
+  - 1 tsp. soda
+  - 1½ tsp. cinn.
+  - ¼ tsp. nutmeg
+  - ¼ tsp. allspice
+  - Walnuts
+
+**Instructions**
+
+Boil 2 c. raisins & 1 c. water **5 min.**
+
+Cream 1 c short., 2 c sugar, 3 egg's, 1 tsp vanilla, raisins.
+
+4 c. flour, 1 tsp. salt, 1 tsp. bk pdr., 1 tsp. soda, 1½ tsp. cinn., ¼ tsp. nutmeg, ¼ tsp. allspice. Add walnuts.
+
+Bake **350° 12 mins.**
+
+---
+
+## **Carrot Cake**
+
+### **Becky Posander**
+
+**Ingredients**
+
+  - 2 C. flour
+  - 2 C. sugar
+  - 4 eggs
+  - 1½ salad oil or crisco
+  - 2 tsp. soda
+  - ½ tsp. salt
+  - 2 tsp. cinnamon
+  - ½ tsp. allspice
+  - 3 C. grated carrots
+  - 1 pkg. (3 oz.) nuts
+
+**Instructions**
+
+Put all ingreds. in large bowl & stir until completely mixed. Pour into a **large dripper pan** & bake @ **350° 40-45 mins.** Frost when cool.
+
+### **Icing**
+
+**Ingredients**
+
+  - 1 (3 oz.) crm. cheese
+  - 1½ c. pdr. sugar
+  - 2 Tbls. butter
+  - 1 tsp. vanilla
+  - 1 Tbls. milk, or to soften
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2621,6 +2689,61 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Raisin Cookies
+
+One photo of a small worn slip written in pencil, shot sideways but flat and legible. Signed
+**mom** on the title line — the fifth card in this file signed that way, after the Brownies, the
+Sugar Cookies, the Strawberry Ice Cream and the Apple Dessert. Still not merged with each other,
+and still not with the Sausage Souffle page where Mom resolves to Verna Metcalf.
+
+**A word is struck out before "bk pdr."** — it looks like the start of "shortening", written in
+error and crossed through. The strike is left out; the line reads 1 tsp. bk pdr., which is what the
+recipe needs and what the writer settled on.
+
+**The nutmeg is read as ¼ tsp. on the strength of the line below it.** The figure could carry a
+leading 1, making it 1¼ tsp. The allspice directly beneath is unambiguously ¼ in the same hand and
+the two fractions are formed identically, which is the best evidence available. A quarter teaspoon
+is also the proportionate amount beside ¼ tsp. allspice and 1½ tsp. cinnamon. Worth a glance if the
+slip is nearby.
+
+**The boiled raisins are the first step and also an ingredient**, so both the raisins and their
+cup of water are in the list. The water boils off or goes into the dough — the slip does not say
+which, and does not say to drain them.
+
+The walnuts carry no quantity, only "add walnuts" at the end of the spice column.
+
+The slip's own forms stay: "3 egg's" with the apostrophe, "1 c short.", "bk pdr.", "cinn.", and
+"boil" lowercase at the start.
+
+**No tab exists for this recipe.** Desserts has nine cookie tabs and no raisin cookie. Note that
+the file's Overflow section holds an *Untitled — applesauce, chocolate chip & raisin cookies*,
+which is a different recipe.
+
+## Carrot Cake (Becky Posander)
+
+Two photos making up **one card** — ingredients and icing on the front, method on the back. Crisp
+modern handwriting on a lined card; the read is clean apart from the name.
+
+**This is a second carrot cake, and it is not the one filed a few minutes ago.** The unsigned worn
+sheet creams the oil and sugar, uses 1 tsp. cinnamon and no allspice, and bakes in **three round
+cake pans at 350° for 25-30 minutes**. This one is a stir-everything-together cake with 2 tsp.
+cinnamon and ½ tsp. allspice, baked in a **large dripper pan at 350° for 40-45 mins.** Their icings
+differ too — a whole 8 oz. brick of cream cheese and a box of confectioners sugar there, against
+3 oz. and 1½ cups here. Both rows are now marked *contested* for the Carrot Cake tab, as with the
+two Brownies and the two Ritz chickens.
+
+**The surname is the one uncertain reading.** It is written small in the top corner and the middle
+letters are cramped: *Posander* is the best reading, with *Posavder* possible. Becky is clear.
+
+**"1½ salad oil or crisco" has no unit.** Every other line on the card carries one — C., tsp., pkg.
+— and this one does not. A cup is the obvious reading and it is not written, so nothing was added.
+
+"1 pkg. (3 oz.) nuts" is as written, an unusual way to measure nuts and the card's own.
+
+The method's "large dripper pan" is kept as the card has it.
+
+The card's own abbreviations stay: "ingreds.", "crm. cheese", "pdr. sugar", "Tbls.", "@" for at.
 
 ## Apple Dessert
 
