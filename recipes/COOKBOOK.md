@@ -32,6 +32,7 @@ clean to copy.
 | Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
 | Turkey Sweet Potato Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
 | Chocolate Chip Toffee Cookies | Desserts › **(new tab needed)** | ☐ |
+| Easy No-Knead Peasant Bread | Breads › Peasant Bread *(inline)* — *incomplete, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1734,6 +1735,29 @@ Oven: **350°**
 
 ---
 
+## **Easy No-Knead Peasant Bread**
+
+**Ingredients**
+
+  - 4 cups (568 g) all-purpose flour (see note)
+  - 1½ teaspoons salt (see note)
+  - 2 teaspoons granulated sugar
+  - 1 tablespoon instant yeast (see note)
+  - 2 cups warm water
+
+**Instructions**
+
+1.  In a large bowl, add the flour, salt, sugar, and yeast. Whisk to combine. Add the water and mix with a rubber spatula or wooden spoon until the ingredients form a shaggy, sticky ball and no dry streaks remain.
+2.  Cover the bowl and let the dough rise until doubled, about **1 to 1½ hours**.
+3.  Place an oven rack in the center position. Preheat the oven to **425 degrees F**. Generously grease a **9-inch pie plate** or **8½-by-4½-inch loaf pan** with cooking spray. (See note for other pan sizes/options.)
+4.  Scrape the dough away from the sides of the bowl with a rubber spatula, forming a rough ball in the center of the bowl. Lightly grease your hands with cooking spray or oil and shape the dough into a circle loaf shape (or a rectangle loaf shape if using a loaf pan), tucking edges under. Place in the prepared pan. The loaf will not be completely smooth and may look a bit rough in shape, that's ok!
+5.  Let the dough rest, uncovered, for **15-20 minutes** until slightly puffy.
+6.  Bake for **15 minutes**. Reduce the heat to **375 degrees F** and continue to bake for **15-20 minutes** until golden.
+
+*Yield 10 slices (1 large loaf or 2 smaller loaves). Prep 15 mins. Cook 35 mins. Rising 1 hr 20 mins. Total 2 hrs 10 mins.*
+
+---
+
 # Dips & Dressings
 
 ## **Vegetable Dip**
@@ -2171,6 +2195,40 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Easy No-Knead Peasant Bread
+
+One screenshot of a food blog's recipe card. The site is not named anywhere on the capture,
+so no byline — the fourth such entry, with the Ritz Chicken, the Hearty Beef Stew and the
+Chocolate Chip Toffee Cookies. Rated 4.85 stars from 282 ratings. A Square ad sits beside the
+ingredients without covering any of them.
+
+**Destination is an exact match, and it is a Pattern B tab.** Breads holds its recipes inline
+inside the one parent tab rather than in child tabs, and *Peasant Bread* is already one of the
+four listed there. So this block gets pasted into the Breads tab alongside the others, not
+into a tab of its own — worth knowing before pasting, since every other recipe in this batch
+went to a child tab.
+
+**Two things are missing from the capture, and both are flagged on the queue row.**
+
+*The recipe's own notes are not in the shot.* Three ingredients are marked "(see note)" —
+the flour, the salt and the yeast — and step 3 adds "(See note for other pan sizes/options.)"
+Four pointers, and the notes they point to sit below the crop. For a bread recipe those are
+not trivia: flour type and measuring method, salt type, and whether instant yeast can be
+swapped for active dry all change the loaf.
+
+*The method may not end at step 6.* Step 6 finishes on "until golden", which could be the
+end, but it sits right on the bottom edge of the capture. Most bread recipes carry at least
+one more step about turning the loaf out and cooling it.
+
+Scroll down and re-shoot the rest, and this entry can be completed.
+
+The header's timings do reconcile: cook 35 mins against step 6's 15 plus 15-20, and rising
+1 hr 20 mins against step 2's 1 to 1½ hours plus step 5's 15-20 minute rest.
+
+The flour is given both ways on the page — 4 cups and 568 g — and both are kept.
+
+Clean read throughout — printed text.
 
 ## Chocolate Chip Toffee Cookies
 
