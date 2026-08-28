@@ -34,6 +34,7 @@ clean to copy.
 | Chocolate Chip Toffee Cookies | Desserts › **(new tab needed)** | ☐ |
 | Easy No-Knead Peasant Bread | Breads › Peasant Bread *(inline)* — *incomplete, see notes* | ☐ |
 | Spice Cake | Desserts › **(new tab needed)** — *no bake time, see notes* | ☐ |
+| Outrageous Brownies | Desserts › **(new tab needed)** — *chocolate conflict, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1752,6 +1753,62 @@ Add 3 eggs, beat **2 mins.** Bake **350°**.
 
 ---
 
+## **Outrageous Brownies**
+
+### **Heidi Fassman**
+
+**Ingredients**
+
+  - 1 pound unsalted butter
+  - 1 pound semisweet chocolate chips
+  - 6 ounces semisweet chocolate
+  - 12 ounces milk chocolate chips
+  - 6 extra-large eggs
+  - 2 tablespoons pure vanilla extract
+  - 2 tablespoons Pero
+  - 2¼ cups sugar
+  - 1¼ cups all-purpose flour
+  - 1 teaspoon salt
+
+**Instructions**
+
+Preheat the oven at **350 degrees**. Butter and flour a **12 X 18 X 1 inch baking sheet**.
+
+Melt together the butter, 1 pound of chocolate chips, and unsweetened chocolate in a medium bowl over simmering water. Allow to cool slightly. In a large bowl, stir (do not beat) together the eggs, vanilla, Pero and sugar. Stir the warm chocolate mixture into the egg mixture and allow to cool to room temperature.
+
+In a medium bowl, sift together 1 cup of flour, and salt. Add to the cooled chocolate mixture. Toss the 12 ounces of chocolate chips in a medium bowl with ¼ cup of flour, then add them to the chocolate batter. Pour into the baking sheet.
+
+Bake for **20 minutes**, then rap the baking sheet against the oven shelf to force the air to escape from between the pan and the brownie dough. Bake for **about 15 minutes**, until a toothpick comes out clean. Do not over bake! Allow to cool thoroughly. Refrigerate, and cut into squares.
+
+To make peppermint brownies: Make above brownies allow to cool completely. You may want to put them in the refrigerator.
+
+### **Filling**
+
+**Ingredients**
+
+  - 1 cup softened butter
+  - 4 cups powdered sugar
+  - 4 drops peppermint or mint flavoring
+  - 2 drops pink food coloring
+
+**Instructions**
+
+Mix until smooth. Spread evenly over brownies. Chill.
+
+### **Chocolate Ganache**
+
+**Ingredients**
+
+  - 1 cup semisweet chocolate chips
+  - ½ cup heavy cream
+  - Crushed peppermint
+
+**Instructions**
+
+Bring cream to a boil and add chocolate chips. Stir until chocolate is completely melted. Pour immediately over cold brownies and smooth out carefully. Decorate with crushed peppermint. Do not refrigerate. Chocolate will set up on the brownies in **15-20 minutes**.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2259,6 +2316,46 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Outrageous Brownies
+
+One photo of a typed page holding two recipes, folded and creased across the middle. Saved on
+instruction: **outrageous brownies only** — the lower of the two. Attributed on the page to
+Heidi Fassman, in the same italic byline style as the recipe above it.
+
+**The ingredient list and the method disagree about one chocolate, and it is not a small
+difference.** The list says *6 ounces semisweet chocolate*; the method says to melt "the butter,
+1 pound of chocolate chips, and **unsweetened** chocolate". Six ounces of unsweetened chocolate
+against 2¼ cups of sugar is a normal brownie; six ounces of semisweet in the same batter is
+noticeably sweeter, since a pound of semisweet chips is already melted in alongside it. Both
+readings are on the page and neither was overruled — the list is transcribed as it stands and
+the method keeps "unsweetened". Worth resolving before baking. The wider recipe world knows this
+one as Ina Garten's, where the six ounces are unsweetened, which is a hint rather than proof
+about this particular sheet.
+
+**The flour does reconcile**, which is worth stating since it is split the same way: 1¼ cups
+listed, 1 cup sifted with the salt and ¼ cup used to toss the chips.
+
+**The peppermint variation is part of this recipe, not a separate one**, so it is kept here —
+the page introduces it with "Make above brownies". Its Filling and Chocolate Ganache take
+`###` component headings. The filling's instruction was written as a tail on its last ingredient
+line ("2 drops pink food coloring – mix until smooth. Spread evenly over brownies. Chill."); the
+ingredient and the method are separated here, with no wording changed.
+
+"Pero" is a coffee substitute and is the page's own ingredient, kept as written. "Preheat the
+oven **at** 350 degrees" is the page's phrasing and stays.
+
+**No tab exists for this recipe.** Desserts has three brownie tabs and every one is now spoken
+for — Mint Brownies by Clapier's Mint Brownies, Chocolate Brownies contested between Mom's and
+Mary's, Gold Rush Brownies by its own recipe. This one is distinctive enough to carry its own
+name.
+
+**Also on this page but not transcribed, per instruction:** *Cranberry Caramel Bars*, also Heidi
+Fassman, complete and legible above it — two cups fresh cranberries, white chocolate chips,
+pecans and Mrs. Richardson's Caramel Sauce on a **17 x 12 inch baking sheet**. A third recipe
+sits above that, cut off by the top edge. Say the word and the bars can be added.
+
+Clean read throughout — typed text, and the crease does not cross any digits.
 
 ## Brownies (Mary)
 
