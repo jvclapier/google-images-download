@@ -44,6 +44,7 @@ clean to copy.
 | Carrot Cake | Desserts › Carrot Cake — *oil quantity uncertain* | ☐ |
 | Sour Cream Banana Bars | Desserts › Banana Bread Bars — *verify same dish* | ☐ |
 | Choc. Mint Sandwich Cookies | Desserts › **(new tab needed)** | ☐ |
+| Apple Dessert | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2070,6 +2071,49 @@ Slice in **¼" pieces** & bake on cookie sheet in **375° oven for about 8 mins.
 
 ---
 
+## **Apple Dessert**
+
+### **Mom**
+
+**Ingredients**
+
+  - ½ c. butter
+  - 2 c. sugar
+  - 2 eggs
+  - 2 C. flour
+  - 2 tsp. soda
+  - 1 tsp. salt
+  - 1 tsp. nutmeg
+  - 1 tsp. cinnamon
+  - 6 tart apples
+  - 2 c. chopped walnuts
+
+**Instructions**
+
+Cream together: ½ c. butter, 2 c. sugar.
+
+Add: 2 eggs, 2 C. flour, 2 tsp. soda, 1 tsp. salt, 1 tsp. nutmeg, 1 tsp. cinnamon.
+
+Peel & dice 6 tart apples & add to mix. Add 2 c. chopped walnuts.
+
+Bake **300° 30-40 mins.**
+
+### **Delicious Carmel Sauce**
+
+**Ingredients**
+
+  - 2 squares butter
+  - 1 C. sugar
+  - 1 C. brown sugar
+  - 1 C. whip cream
+  - 1½ tsp. vanilla
+
+**Instructions**
+
+Cook until thick.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2577,6 +2621,35 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Apple Dessert
+
+Two photos making up **one card** — the dessert on the front, its *Delicious Carmel Sauce* on the
+back. Modern floral stock, the same as the Grandpa Glauser cookies and the Strawberry Ice Cream, so
+that is now three cards from one pack. Signed **by mom** on the title line.
+
+**Fourth card signed Mom.** This one, the Brownies, the Sugar Cookies and the Strawberry Ice Cream,
+plus the Sausage Souffle page where Mom resolves to Verna Metcalf. Still never merged, and this card
+adds no surname either.
+
+**The front is written as a method with the quantities inline**, laid out in two columns — the
+labels "Cream together:" and "Add:" run down the left with the spices set beside them on the right.
+The ingredient list is extracted in reading order and the method keeps the card's own phrasing, so
+the quantities appear twice. Same treatment as the Salmon Patties, Spice Cake, Snickerdoodles and
+Grandpa Glauser cards.
+
+**The sauce's method is a brace, not a sentence.** The back lists five ingredients with a hand-drawn
+brace gathering them to the words "Cook until thick" — that is the entire instruction. No pan, no
+heat level, no time. It is enough to work from but it is worth knowing that is all there is.
+
+**No baking dish is named on the front** either, though the temperature and time are both given:
+**300° 30-40 mins.** An unusually low oven for a fruit dessert, and that is what the card says.
+
+The card's own spellings stay: "Carmel" for caramel in the sauce's title, "whip cream", and
+"2 squares butter" as a measure.
+
+**No tab exists for this recipe.** Desserts has a *Peach Dessert* tab, which is the same shape of
+name and a different fruit — worth not conflating. A new tab is needed.
 
 ## Choc. Mint Sandwich Cookies
 
