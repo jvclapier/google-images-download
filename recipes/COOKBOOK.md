@@ -38,6 +38,7 @@ clean to copy.
 | Kathy's Snickerdoodles | Desserts › **(new tab needed)** — *no oven temp or time, see notes* | ☐ |
 | Grandpa Glauser Choc. Chip Cookies | Desserts › Grandpa Glauser Cookies — *sugar split uncertain* | ☐ |
 | Bratseli | Desserts › **(new tab needed)** — *torn source, gaps in method* | ☐ |
+| Butterscotch Cookies | Desserts › **(new tab needed)** — *no mixing method, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1885,6 +1886,41 @@ Beat 4 eggs. Add: 3 c. sugar (2 brown, 1 white sugar), 1 C. Shortening, 1 c. but
 
 ---
 
+## **Butterscotch Cookies**
+
+### **Myrle**
+
+**Ingredients**
+
+  - ½ C. butter
+  - 1½ C. br. sugar
+  - 2 eggs well beaten
+  - 2½ C. sifted flour
+  - 1 tsp. soda
+  - ½ tsp. baking pdr.
+  - ½ tsp. salt
+  - 1 tsp. vanilla
+  - 1 C. sour cream (or 1 Tbs. vinegar in 1 C. sego milk)
+
+**Instructions**
+
+Bake **350° 10-12 mins.**
+
+### **Frosting**
+
+**Ingredients**
+
+  - ½ C. butter
+  - 1 C. br. sugar
+  - ¼ C. milk
+  - 1¾ to 2 C. pdr. sugar
+
+**Instructions**
+
+Melt ½ C. butter and 1 C. br. sugar. Boil over low heat **2 mins.** Stir constantly, stir in ¼ C. milk. Stir 'til comes to a boil. Cool to luke warm. Gradually add 1¾ to 2 C. pdr. sugar.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2392,6 +2428,38 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Butterscotch Cookies
+
+Two photos making up **one card** — ingredients on the front, frosting on the back. Aged lined
+stock with the same printed maroon border and the same hand as the Spice Cake filed earlier, and
+signed **Myrle** in the same corner position. The two cards are clearly from one set.
+
+**The front gives ingredients and an oven line, and no mixing method at all.** It ends "bake
+350° 10-12 mins." with nothing about creaming, combining, or dropping the dough. The card braces
+its ingredients into two groups — butter, brown sugar and the beaten eggs in the first; flour,
+soda, baking powder and salt in the second — which implies wet-then-dry, but implying is not
+saying, so nothing was written into the method beyond what the card states. This is the opposite
+problem from the Spice Cake, which had a method and no time: here the time and temperature are
+both given and the method is what is missing.
+
+**The sour cream line carries its own substitution**, written in a second column: 1 Tbs. vinegar
+in 1 C. sego milk, soured milk standing in for the sour cream. It is kept on the same ingredient
+line rather than split into a second entry, since that is how the card sets it. Sego was a
+regional canned-milk brand and the name is left as written.
+
+**"pdr. sugar" in the frosting is read from the front card's own hand.** The frosting's last line
+abbreviates powdered sugar in a way that could be read several ways on its own; the front card
+writes "baking pdr." for baking powder in the same handwriting, which settles it.
+
+The frosting is a full method with no gaps, and takes a `###` component heading.
+
+The card's own abbreviations stay: "br. sugar", "baking pdr.", "Tbs.", and "luke warm" as two
+words.
+
+**No tab exists for this recipe.** Desserts has no butterscotch cookie. Note that this file
+already holds a *Chocolate Butterscotch Bundt Cake*, also queued for a new Desserts tab — a
+different recipe, and the two should not share a tab.
 
 ## Bratseli
 
