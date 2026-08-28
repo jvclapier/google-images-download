@@ -39,6 +39,7 @@ clean to copy.
 | Grandpa Glauser Choc. Chip Cookies | Desserts › Grandpa Glauser Cookies — *sugar split uncertain* | ☐ |
 | Bratseli | Desserts › **(new tab needed)** — *torn source, gaps in method* | ☐ |
 | Butterscotch Cookies | Desserts › **(new tab needed)** — *no mixing method, see notes* | ☐ |
+| Strawberry Ice Cream | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1921,6 +1922,24 @@ Melt ½ C. butter and 1 C. br. sugar. Boil over low heat **2 mins.** Stir consta
 
 ---
 
+## **Strawberry Ice Cream**
+
+### **Mom**
+
+**Ingredients**
+
+  - 3 oranges
+  - 3 lemons
+  - 3-4 C. Strawberries, mashed
+  - 3 C. sugar
+  - 2 pt. whip cream
+  - 1 can evaporated milk
+  - whole milk to line
+
+*Mom's recipe.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2428,6 +2447,34 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Strawberry Ice Cream
+
+One photo of a modern floral recipe card, the same stock and the same hand as the Grandpa
+Glauser Choc. Chip Cookies filed a moment ago. The printed "cook time / prep time / servings"
+fields are blank again.
+
+**This card is an ingredient list and nothing else.** There is no method, no churning time, no
+freezing instruction — so the entry has no `**Instructions**` section at all, which makes it the
+only recipe in the file without one. Nothing was written in to fill the gap.
+
+**"whole milk to line" is the one instruction hiding in the list**, and it tells you what kind of
+recipe this is: the canister of an ice cream freezer is filled to its fill line with whole milk
+after everything else goes in. That single phrase is why the missing method matters less than it
+first appears — anyone who owns the freezer knows the rest — but it is still absent.
+
+**The oranges and lemons carry no preparation.** Three of each, whole, with no instruction to
+juice or zest them. Juice is the obvious reading and it is not written, so it is not here.
+
+**"Mom's recipe" is written sideways at the foot of the card** and is carried as the italic line,
+with `Mom` as the attribution. Note that this file now holds three cards signed Mom — this one,
+the Brownies, and the Sugar Cookies — plus a Sausage Souffle page where Mom resolves to Verna
+Metcalf. They have deliberately never been merged, and this card gives no surname either.
+
+"whip cream" and "3-4 C." are the card's own forms and stay.
+
+**No tab exists for this recipe.** Desserts has a *Burnt Almond Fudge Ice Cream* tab, which is a
+different flavour and a different recipe.
 
 ## Butterscotch Cookies
 
