@@ -35,6 +35,7 @@ clean to copy.
 | Easy No-Knead Peasant Bread | Breads › Peasant Bread *(inline)* — *incomplete, see notes* | ☐ |
 | Spice Cake | Desserts › **(new tab needed)** — *no bake time, see notes* | ☐ |
 | Outrageous Brownies | Desserts › **(new tab needed)** — *chocolate conflict, see notes* | ☐ |
+| Kathy's Snickerdoodles | Desserts › **(new tab needed)** — *no oven temp or time, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1809,6 +1810,30 @@ Bring cream to a boil and add chocolate chips. Stir until chocolate is completel
 
 ---
 
+## **Kathy's Snickerdoodles**
+
+**Ingredients**
+
+  - 1 C. soft shortening
+  - 1½ c sugar
+  - 2 eggs
+  - 2¾ c. flour
+  - 2 t. cream of tartar
+  - 1 t. soda
+  - ½ t. salt
+  - 2 T sugar, for rolling
+  - 2 t. cinnamon, for rolling
+
+**Instructions**
+
+Mix thoroughly: 1 C. soft shortening, 1½ c sugar, 2 eggs.
+
+Sift + stir in: 2¾ c. flour, 2 t. cream of tartar, 1 t. soda, ½ t. salt.
+
+Chill dough. Roll into balls. Roll in mixture of 2 T sugar + 2 t. cinnamon. Bake until lightly browned.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2316,6 +2341,41 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Kathy's Snickerdoodles
+
+One photo of a salmon index card written in pencil, shot flat. The pencil is light against the
+card but the hand is large and square, and the read is clean.
+
+**"Kathy's" is written above the underlined title**, in the same corner position that carried
+*Mary* and *Myrle* on the two cards before it. Because it is possessive rather than a bare name,
+it is folded into the title — *Kathy's Snickerdoodles* — rather than set as a separate `###`
+attribution, following how *Clapier's Mint Brownies* was handled. There is no separate byline
+line on this entry as a result.
+
+**The card gives no oven temperature and no baking time.** It ends "Bake until lightly browned"
+and stops. The card is whole, flat and fully in frame, so this is genuinely what it says rather
+than something cropped away — the same situation as the Spice Cake, and unlike the Hurry Up
+Chocolate Cake where the information is probably below the crop. Nothing was supplied to fill
+the gap. The queue row is flagged.
+
+For what it is worth, this is the Betty Crocker snickerdoodle formula line for line — a cup of
+shortening, 1½ cups sugar, two eggs, 2¾ cups flour, two teaspoons cream of tartar, and the
+2 T sugar to 2 t. cinnamon rolling mixture. That is context, not authority, and no temperature
+was imported from it.
+
+**The card is written as a method with quantities inline**, in two labelled groups — "Mix
+thoroughly:" and "Sift+stir in:". The ingredient list is extracted from those groups in order and
+the method keeps the card's own phrasing, so the quantities appear twice, as with the Salmon
+Patties and the Spice Cake.
+
+The two rolling ingredients appear only in the last line of the method, so they were added to the
+list marked "for rolling".
+
+Nothing in this entry is bolded, because the card contains no temperature, time or pan size to
+bold.
+
+**No tab exists for this recipe.** Desserts has nine cookie tabs and no snickerdoodle among them.
 
 ## Outrageous Brownies
 
