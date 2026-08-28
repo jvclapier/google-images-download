@@ -19,7 +19,8 @@ clean to copy.
 | Chicken Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Aunt Sue's Delicious Chicken | Main Dishes › Russian Chicken | ☐ |
 | Alfredo Sauce and Pasta | Main Dishes › **(new tab needed)** | ☐ |
-| Chicken Enchiladas | Main Dishes › Chicken Enchiladas | ☐ |
+| Chicken Enchiladas (Linda Glauser) | Main Dishes › Chicken Enchiladas — *contested* | ☐ |
+| Chicken Enchiladas (taco shell version) | Main Dishes › Chicken Enchiladas — *contested, incomplete* | ☐ |
 | Ritz Cracker Baked Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Ritz Chicken | Main Dishes › Ritz Chicken — *contested* | ☐ |
 | Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
@@ -52,6 +53,8 @@ clean to copy.
 | Upside Down Spaghetti | Main Dishes › Spaghetti — *verify same dish* | ☐ |
 | Southwestern Chicken | Main Dishes › **(new tab needed)** | ☐ |
 | Halloween Dinner in a Pumpkin | Main Dishes › **(new tab needed)** — *ingredients only, no method* | ☐ |
+| Parmesan Chicken | Main Dishes › **(new tab needed)** | ☐ |
+| Oh So Easy Chicken | Main Dishes › Swiss Chicken — *verify same dish* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -815,6 +818,77 @@ Marinate in non metal container. Grill and add cheese at the end.
   - ¼ c. olives, chopped or sliced (optional)
   - 1 - 28-32 oz. can tomatoes
   - 1 - 8 oz. can tomato sauce
+
+---
+
+## **Chicken Enchiladas**
+
+**Ingredients**
+
+  - 4-6 chicken breasts, cooked & cut up
+  - 2 bunches gr. onions, chopped, …
+  - ¾ pound grated cheddar cheese
+  - ¾ lb. grated Monterey Jack cheese
+  - 3 cans cr. of chicken
+  - 1 can (small) chopped gr. chilies
+  - 1 pt. sour cream
+  - 18 taco shells
+
+**Instructions**
+
+Mix: ¾ pound grated cheddar cheese & ¾ lb. grated Monterey Jack cheese.
+
+Mix: 3 cans cr. of chicken, 1 can (small) chopped gr. chilies, 1 pt. sour cream.
+
+Use 18 taco shells dipped in warm oil to soften. Drain on paper towel. Roll …
+
+---
+
+## **Parmesan Chicken**
+
+### **Edy Glauser**
+
+**Ingredients**
+
+  - 2 c. bread crumbs
+  - ¾ c. parmesean chees
+  - ¼ c. fresh parsley
+  - 2 tsp. salt
+  - ½ tsp. pepper
+  - Chicken
+  - Melted butter
+
+**Instructions**
+
+Dip chicken in melted butter + coat in dry mix.
+
+Bake **300° 1 hr.** covered. Uncover — brown **20 mins. @ 400°**.
+
+---
+
+## **Oh So Easy Chicken**
+
+**Ingredients**
+
+  - 4 chicken breasts
+  - 4 thick slices Swiss cheese
+  - 1 pkg. seasoned stuffing mix, made according to directions
+  - ½ c. finely chopped celery
+  - ¼ c. finely chopped onion
+  - 1 c. dry white wine or chicken broth
+  - 1 can (10¾ oz.) cream of chicken soup
+
+**Instructions**
+
+Sautee celery and onion in butter or water.
+
+Place chicken in casserole dish (**12x12"**). Place 1 slice Swiss cheese on each breast. Combine stuffing w/ celery + onions — cover each chicken mound w/ dressing.
+
+Blend wine (or broth) and soup together. Pour over casserole.
+
+Bake uncovered **325-350° for 60 mins.**
+
+*Serves 4.*
 
 ---
 
@@ -2816,6 +2890,65 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Chicken Enchiladas (taco shell version)
+
+One photo of a worn lined card in old cursive, photographed upside down and marked with several
+brown stains. Unsigned.
+
+**This is a second Chicken Enchiladas, and it is not the one already in the file.** Linda Glauser's
+uses 10 chicken breast halves, one large onion, a pound of longhorn cheese and twenty flour
+tortillas, with a sauce of two cans of soup, broth and sour cream, baked **45 min – 1 hr at 350**.
+This one uses 4-6 breasts, two bunches of green onions, ¾ lb each of cheddar and Monterey Jack,
+three cans of soup, and **eighteen taco shells softened in warm oil** — corn, not flour, and fried
+rather than rolled raw. Both rows are marked *contested*.
+
+**Read this card again right-way-up before trusting the quantities.** The inversion plus the staining
+plus an older cursive hand is the hardest combination in this file so far. The structure is clear and
+most lines are legible, but this is a transcription to verify rather than rely on.
+
+**Two spans are marked `…`.** A word after "2 bunches gr. onions, chopped" is unreadable — most
+likely something about including the tops, but it is not readable and was not guessed. And the method
+stops at "Roll" — the card either continues past the frame or on its back.
+
+**There is no baking temperature and no time**, which follows from the method breaking off. As filed
+this recipe cannot be finished.
+
+## Parmesan Chicken
+
+One photo of a lined card photographed upside down, but in clear modern ballpoint — inverted or not,
+this one reads cleanly. Signed **Edy Glauser** in the corner, a name new to this file.
+
+**The recipe is complete**, which is worth saying after the run of cards that were not: coating,
+method, two temperatures and two times, all present.
+
+**Two spellings are the card's own and stay**: "parmesean chees" on the ingredient line, spelled
+that way and missing its final e. The recipe title spells Parmesan correctly, which is why the
+heading does and the ingredient does not.
+
+The chicken carries no quantity or cut, and the melted butter no amount — both appear only in the
+method, and both were added to the list unquantified.
+
+**No tab exists for this recipe.** Main Dishes has Ritz Chicken and Chip Chicken, both crumb-coated
+baked chicken and both different recipes.
+
+## Oh So Easy Chicken
+
+One photo of a Stylecraft "Recipe for / From the Kitchen of" card, photographed upside down, the
+"From the Kitchen of" line left blank. The ink is dark and the read is clean. Serves 4, printed on
+the card's own line.
+
+**The card braces the celery and onion to "sautee in butter or water"**, which is why that is the
+first step here rather than an ingredient note — the same treatment the Brownies card's melted butter
+and chocolate got.
+
+**The tab needs a look before pasting.** Main Dishes has a **Swiss Chicken** tab, and this is chicken
+under slices of Swiss cheese, so it is queued there. But the names differ and nothing confirms what
+that tab holds. If it turns out to be a different Swiss-cheese chicken, this wants its own tab under
+its own name.
+
+The card's own forms stay: "sautee" with the double e, "12x12"" for the dish, "w/" throughout, and
+the **325-350°** range exactly as given.
 
 ## Yummy Chicken
 
