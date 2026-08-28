@@ -41,6 +41,7 @@ clean to copy.
 | Butterscotch Cookies | Desserts › **(new tab needed)** — *no mixing method, see notes* | ☐ |
 | Strawberry Ice Cream | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Brownie Mint Torte | Desserts › **(new tab needed)** — *method breaks off mid-sentence, needs the back of the card* | ☐ |
+| Carrot Cake | Desserts › Carrot Cake — *oil quantity uncertain* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1961,6 +1962,39 @@ Beat egg whites & salt until soft peaks form. Add ¾ C. sugar, 1 Tbls. at a time
 
 ---
 
+## **Carrot Cake**
+
+**Ingredients**
+
+  - 1¼ c. Wesson oil
+  - 2 c. sugar
+  - 4 eggs
+  - 3 c. grated carrots
+  - 2 tsp. baking soda
+  - 1 tsp salt
+  - 1 tsp cinnamon
+  - 2 c. flour
+
+**Instructions**
+
+Cream oil & sugar. Add eggs, then flour, other ingredients & carrots. Grease **three round cake pans**. Bake. **350° 25-30 minutes**.
+
+### **Frosting**
+
+**Ingredients**
+
+  - 1 (8 oz.) cream cheese
+  - ¼ c. butter
+  - 1 box confectioners sugar
+  - 2 tsp vanilla
+  - 1 c. pecans or walnuts (optional)
+
+**Instructions**
+
+Cream butter, cheese and sugar. Add vanilla and nuts. Frost when … is cool.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2468,6 +2502,37 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Carrot Cake
+
+One photo of a sheet of paper that has been folded into quarters and worn soft along every
+crease, written in pencil that has faded. The creases cross the text in both directions. Filed as
+**carrot cake on instruction** — the title is worn away at the top edge and cannot be read from
+this shot.
+
+**Destination is an exact tab match:** Desserts already has a **Carrot Cake** tab.
+
+**The oil quantity is the one reading worth checking.** It sits on the top crease, and reads
+**1¼ c. Wesson oil** — but 1½ is a plausible alternative for that fraction, and both are ordinary
+amounts for a carrot cake with 2 c. sugar and 2 c. flour. The crease runs directly through the
+fraction. If the sheet is to hand, flatten it and look at that one line.
+
+**The frosting's heading is torn off.** Only the tail of a word survives at the top of the right
+column. It is filed as `Frosting` on the strength of its contents — cream cheese, confectioners
+sugar, and a method ending "Frost" — which is safe, but the actual word the page used is gone.
+
+**The frosting's last words are lost to the fold**: "Frost when … is cool." A word or two between
+"when" and "is cool" is illegible where the crease crosses it. The sense is not in doubt; the
+wording is, so the gap is marked rather than filled.
+
+**No name appears anywhere on the sheet**, so there is no attribution line.
+
+The page's own forms stay: "Wesson oil" as the brand it names, "1 box confectioners sugar" with no
+weight, and "Grease three round cake pans. Bake." as two short sentences.
+
+The method is unusually compressed for what it asks — "Add eggs, then flour, other ingredients &
+carrots" folds the soda, salt and cinnamon into "other ingredients" without naming them. That is
+what the page says, and it is left alone.
 
 ## Brownie Mint Torte
 
