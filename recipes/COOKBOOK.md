@@ -40,6 +40,7 @@ clean to copy.
 | Bratseli | Desserts › **(new tab needed)** — *torn source, gaps in method* | ☐ |
 | Butterscotch Cookies | Desserts › **(new tab needed)** — *no mixing method, see notes* | ☐ |
 | Strawberry Ice Cream | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
+| Brownie Mint Torte | Desserts › **(new tab needed)** — *method breaks off mid-sentence, needs the back of the card* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1940,6 +1941,26 @@ Melt ½ C. butter and 1 C. br. sugar. Boil over low heat **2 mins.** Stir consta
 
 ---
 
+## **Brownie Mint Torte**
+
+**Ingredients**
+
+  - 3 egg whites
+  - dash of salt
+  - ¾ C. sugar
+  - ½ tsp. vanilla
+  - ½ C. nuts
+  - ¾ C. crushed choc. wafers
+  - ¼ C. crushed peppermint candy
+  - 1 C. sweetened wh. cream
+  - 1 sq. choc., shaved
+
+**Instructions**
+
+Beat egg whites & salt until soft peaks form. Add ¾ C. sugar, 1 Tbls. at a time, beat after each addition 'til glossy. Beat in vanilla. Fold in crumbs &
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2447,6 +2468,36 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Brownie Mint Torte
+
+One photo of the front of an aged lined card with a printed maroon border — the same stock as
+Myrle's Spice Cake and Butterscotch Cookies, though this one carries no name in the corner, so it
+has no attribution line. Do not assume it is hers on the strength of the card stock alone.
+
+**The method stops mid-sentence: "Fold in crumbs &".** It ends on the ampersand, and several
+ruled lines below it are blank — so the writer did not run out of card, they carried on somewhere
+else. Almost certainly the back. **Photograph the back of this card** and the entry can be
+finished; the queue row says so.
+
+**Most of the recipe is missing, not just the last few words.** What survives covers only the
+meringue: beating the whites, adding the sugar, beating in the vanilla. Five of the nine
+ingredients are never reached — the nuts, the wafer crumbs, the peppermint candy, the whipped
+cream and the shaved chocolate all sit in the list with nothing telling you what to do with them.
+There is no pan, no temperature and no baking time either. Nothing was supplied for any of it.
+
+The ingredients are written in two columns on the card. They are merged into one list here in
+reading order — left column first, then right — which is why the meringue ingredients come before
+the topping ingredients.
+
+**This is not the Clapier's Mint Brownies already in the file.** That one is a baked brownie with
+a mint frosting layer. This is a meringue torte built on egg whites and crushed chocolate wafers,
+with whipped cream and crushed peppermint. Different recipes that a tab name could easily confuse.
+
+The card's own abbreviations stay: "wh. cream", "sq. choc.", "Tbls.", "choc. wafers".
+
+**No tab exists for this recipe**, and none should be created until the back of the card is read —
+the finished recipe may turn out to want a different name.
 
 ## Strawberry Ice Cream
 
