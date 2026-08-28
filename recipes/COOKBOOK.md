@@ -43,6 +43,7 @@ clean to copy.
 | Brownie Mint Torte | Desserts › **(new tab needed)** — *method breaks off mid-sentence, needs the back of the card* | ☐ |
 | Carrot Cake | Desserts › Carrot Cake — *oil quantity uncertain* | ☐ |
 | Sour Cream Banana Bars | Desserts › Banana Bread Bars — *verify same dish* | ☐ |
+| Choc. Mint Sandwich Cookies | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2031,6 +2032,32 @@ Heat ¼ c butter over med heat until a delicate brown. Remove from heat and add 
 
 ---
 
+## **Choc. Mint Sandwich Cookies**
+
+### **Sue**
+
+**Ingredients**
+
+  - 2 C. flour
+  - 1 C. sugar
+  - ½ c. coconut
+  - ½ C. margarine or butter, softened
+  - 1 Tbls. Karo syrup
+  - ½ tsp bkg. soda
+  - ½ tsp. salt
+  - 1 egg
+  - Mint choc. chips
+
+**Instructions**
+
+Measure all ingreds. except choc. chips into lg. bowl. Mix well, start at low speed until moistened, then increase speed until blends together, scraping bowl occasionally. Takes **about 2 mins.**
+
+Divide dough into 4 balls & roll each into a roll about **1 in. in diameter**. Wrap in wax paper & refrigerate til firm.
+
+Slice in **¼" pieces** & bake on cookie sheet in **375° oven for about 8 mins.** or until just slightly starting to turn golden. Remove & immediately top w/ choc. chips, about 6 on every other cookie, then put one cookie on top of the other to make a sandwich.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2538,6 +2565,37 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Choc. Mint Sandwich Cookies
+
+One photo of a worn card written in pen, shot sideways. Signed **Sue** in the top corner. The
+whole recipe is present — ingredients in two columns and a method that runs from mixing right
+through to assembling the sandwich — which after the last several cards is worth saying plainly.
+
+**"Sue" stays "Sue".** Desserts has an *Aunt Sue's Chocolate Chip Cookies* tab, and it would be
+easy to assume. The card says Sue and nothing more, so that is what it says.
+
+**The Karo measure was corrected on the card and the correction is what is used.** "tsp" is struck
+through and "Tbls." written above it — a tablespoon, not a teaspoon, a threefold difference. The
+struck word is left out, per the usual rule, since the correction supersedes rather than
+contradicts it.
+
+**"½ tsp bkg. soda" is a reading, not a certainty.** The abbreviation could be taken for "pkg." —
+the letters are close in this hand. It is read as baking soda because half a teaspoon of a package
+is not a quantity of anything, and because the recipe otherwise has no leavening at all. Worth a
+glance at the card if it is nearby.
+
+The mint chocolate chips carry no quantity in the list; the method supplies the only measure there
+is — "about 6 on every other cookie".
+
+The method is one long unbroken paragraph on the card. It is broken into three here at the natural
+joints — mixing, chilling, baking and assembling — with no words changed or added. The card's own
+abbreviations stay throughout: "ingreds.", "lg.", "bkg.", "til", "w/".
+
+**No tab exists for this recipe.** The nearest thing in Desserts is *Homemade Oreos*, which is also
+a sandwich cookie — but that is a chocolate cookie with a cream filling, and this is a coconut
+slice-and-bake with melted mint chips between the halves. Different recipes; a new tab is the safer
+call.
 
 ## Sour Cream Banana Bars
 
