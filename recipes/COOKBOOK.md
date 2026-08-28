@@ -36,6 +36,7 @@ clean to copy.
 | Spice Cake | Desserts › **(new tab needed)** — *no bake time, see notes* | ☐ |
 | Outrageous Brownies | Desserts › **(new tab needed)** — *chocolate conflict, see notes* | ☐ |
 | Kathy's Snickerdoodles | Desserts › **(new tab needed)** — *no oven temp or time, see notes* | ☐ |
+| Grandpa Glauser Choc. Chip Cookies | Desserts › Grandpa Glauser Cookies — *sugar split uncertain* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1834,6 +1835,28 @@ Chill dough. Roll into balls. Roll in mixture of 2 T sugar + 2 t. cinnamon. Bake
 
 ---
 
+## **Grandpa Glauser Choc. Chip Cookies**
+
+**Ingredients**
+
+  - 4 eggs
+  - 3 c. sugar (2 brown, 1 white sugar)
+  - 1 C. Shortening
+  - 1 c. butter
+  - 5 C. Flour
+  - Chocolate chips
+  - 2 tsp. salt
+  - 2 tsp. soda
+  - 2 tsp. vanilla
+
+**Instructions**
+
+Beat 4 eggs. Add: 3 c. sugar (2 brown, 1 white sugar), 1 C. Shortening, 1 c. butter, 5 C. Flour, chocolate chips, 2 tsp. salt, 2 tsp. soda, 2 tsp. vanilla.
+
+**350° 9 mins.**
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2341,6 +2364,39 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Grandpa Glauser Choc. Chip Cookies
+
+One photo of a modern floral recipe card, handwritten in pen and shot sideways. The card's
+printed "cook time / prep time / servings" fields are all blank; the oven line sits in the body
+instead.
+
+**Destination is an existing tab.** Desserts has *Grandpa Glauser Cookies*, and this is a
+Grandpa Glauser cookie — the closest thing to an exact match this card could have.
+
+**The sugar breakdown is the one uncertain reading, and it is worth checking.** The line is
+"3 c. sugar" followed by a parenthetical splitting it between brown and white. The total, 3 c.,
+is clear. The split is not: the handwriting supports "2 brown, 1 white", which is transcribed
+here because it sums to the stated 3 cups, but a reading of "1 brown, 1 white" is visually
+plausible and sums to 2. Arithmetic decided it, not legibility — so if the card is to hand,
+confirm the first digit inside the parentheses.
+
+**The card is written as one continuous instruction with the quantities inline** — "Beat 4 eggs
+/ add:" followed by everything else in a list down the card, with the oven line last. The
+ingredient list is extracted in that order and the method keeps the card's phrasing, so the
+quantities appear twice, as with the Salmon Patties, the Spice Cake and the Snickerdoodles.
+
+**The chocolate chips carry no quantity** — just "Chocolate chips" on its own line, in the
+middle of the list. Left unquantified, as written.
+
+There is no mixing detail beyond "Beat" and "add", and no instruction to shape or drop the
+cookies. That is what the card contains.
+
+**350° 9 mins.** is the whole baking instruction and is the only bolded text in the entry.
+
+The card is unsigned apart from the name in the title, so there is no separate `###`
+attribution line — the name is already doing that work in the heading, as with Kathy's
+Snickerdoodles.
 
 ## Kathy's Snickerdoodles
 
