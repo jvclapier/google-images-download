@@ -33,6 +33,7 @@ clean to copy.
 | Turkey Sweet Potato Shepherd's Pie | Main Dishes › Sweet Potato Shepherd's Pie — *contested* | ☐ |
 | Chocolate Chip Toffee Cookies | Desserts › **(new tab needed)** | ☐ |
 | Easy No-Knead Peasant Bread | Breads › Peasant Bread *(inline)* — *incomplete, see notes* | ☐ |
+| Spice Cake | Desserts › **(new tab needed)** — *no bake time, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -70,7 +71,8 @@ clean to copy.
 | Chocolate Marshmallow Cookies | Desserts › Chocolate Marshmallow Cookies | ☐ |
 | Grasshopper Pie | Desserts › **Emily Romrell** (the tab holding Grasshopper Pie) | ☐ |
 | Clapier's Mint Brownies | Desserts › Mint Brownies | ☐ |
-| Brownies | Desserts › Chocolate Brownies | ☐ |
+| Brownies (Mom) | Desserts › Chocolate Brownies — *contested* | ☐ |
+| Brownies (Mary) | Desserts › Chocolate Brownies — *contested* | ☐ |
 | Applesauce Chocolate Chip Cookies | Desserts › Applesauce Cookies | ☐ |
 | Gold Rush Brownies | Desserts › Gold Rush Brownies | ☐ |
 | Oatmeal Carmelitas | Desserts › Oatmeal Carmelitas | ☐ |
@@ -1688,6 +1690,68 @@ Oven: **350°**
 
 ---
 
+## **Brownies**
+
+### **Mary**
+
+**Ingredients**
+
+  - 2 cubes butter
+  - 2 cups sugar
+  - 4 eggs
+  - 2 t vanilla
+  - 1½ cups flour
+  - ½ tsp salt
+  - ½ cup cocoa (Saco brand)
+  - Marshmellows, to top
+
+**Instructions**
+
+Mix butter and sugar. Add the eggs one at a time. Then add vanilla, flour, salt and cocoa.
+
+Bake **350° 20 minutes** in **9x13 pan**.
+
+Pull out pan & place marshmellows on top. Melt until puffy **but not brown**. Place in fridge until marshmellows are cold. Take out & frost.
+
+### **Frosting**
+
+**Ingredients**
+
+  - ¼ cup cocoa (Saco)
+  - ¼ c. evaporated milk
+  - ¼ c butter soft
+  - 3 cups powdered sugar
+
+---
+
+## **Spice Cake**
+
+### **Myrle**
+
+**Ingredients**
+
+  - 2½ C. flour
+  - 1 C. sugar
+  - 1½ tsp. cinnamon
+  - ¾ tsp. cloves
+  - ¾ tsp. nutmeg
+  - 1 tsp. salt
+  - 1 tsp. soda
+  - 1 C. br. sugar
+  - ⅔ C. shortning
+  - 1 C. buttermilk
+  - 3 eggs
+
+**Instructions**
+
+Sift together 2½ C. flour, 1 C. sugar, 1½ tsp. cinnamon, ¾ tsp. cloves, ¾ tsp. nutmeg, 1 tsp. salt, 1 tsp. soda.
+
+Add 1 C. br. sugar, ⅔ C. shortning, 1 C. buttermilk — beat **2 mins.**
+
+Add 3 eggs, beat **2 mins.** Bake **350°**.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -2195,6 +2259,71 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Brownies (Mary)
+
+Two photos making up **one green index card** — ingredients on the front, baking and frosting
+on the back. Signed *Mary* in the top corner of the front.
+
+**Not the Brownies already in this file.** That one is Mom's: bitter chocolate, eight eggs,
+walnuts, **350° 25 mins**, no topping at all. Mary's is cocoa, four eggs, a melted marshmallow
+layer and a cooked-cocoa frosting, **350° 20 minutes**. Two unrelated recipes that happen to
+share a one-word title.
+
+**Both entries are headed `Brownies`, because both cards are.** They are told apart by the
+attribution line underneath — `### Mom` and `### Mary`. If the duplicate heading is awkward in
+the doc, rename one; the file is fine either way, but any future edit to either must match on
+the heading *and* the name line together, never the heading alone.
+
+Both now point at the **Chocolate Brownies** tab and both rows are marked *contested*. Desserts
+has three brownie tabs — Mint, Chocolate, Gold Rush — and this is none of them exactly; a
+marshmallow-topped frosted brownie may deserve its own.
+
+**The two photos are not of equal quality, and it matters.** The back is sharp and large. The
+front is small and soft, and every quantity in the ingredient list comes from it. The readings
+are legible but this is the one card in the recent run where a second, closer shot of the front
+would be worth taking — particularly the last line, read as **½ cup cocoa**.
+
+**The card annotates its own method with braces and an arrow** rather than writing steps: butter
+and sugar braced to "Mix", an arrow from the eggs to "add one at a time", and a brace over
+flour/salt/cocoa to "then add". The instructions here are those annotations turned into
+sentences. Where the vanilla belongs is the one genuinely unclear point — it sits between the
+eggs and the braced group, and it is placed with "then add" on the reading that the brace covers
+everything below the eggs.
+
+**No frosting method is given** — the back lists its four ingredients under an underlined
+*Frosting* heading and stops. Nothing was invented to fill that in.
+
+Marshmallows appear only in the method, so a "Marshmellows, to top" line was added to the
+ingredient list, with the card's own spelling. "but not brown" is underlined on the card and is
+bolded here to keep that emphasis.
+
+## Spice Cake
+
+One photo of an aged lined recipe card with a printed maroon border, shot sideways. Signed
+**Myrle** in the top corner. Note that this file already holds *Aunt Myrle's English Toffee*
+from a page that named her that way — this card says only "Myrle", so it stays "Myrle" and the
+two are not assumed to be the same person.
+
+**The card gives a temperature and no time.** "Bake 350°" is the last thing written, with no
+duration and no pan size — the same gap as the Hurry Up Chocolate Cake, except here the card is
+whole and well lit, so the information is genuinely absent rather than out of frame. Nothing was
+invented. The queue row is flagged.
+
+**The card is written as a method with the quantities inline**, braced into groups: a
+sift-together list, then a braced trio beaten two minutes, then the eggs beaten two minutes. The
+ingredient list here is extracted from those groups in the order they appear, and the method
+keeps the card's own phrasing, so the quantities appear twice — the same treatment the Salmon
+Patties page got.
+
+"shortning" is the card's spelling and stays. "br. sugar" is the card's abbreviation for brown
+sugar and stays abbreviated.
+
+The salt and soda sit in a second column beside the spices; both belong to the sift-together
+group.
+
+**No tab exists for this recipe.** Desserts has Carrot Cake, Texas Sheet Cake and Cake Pops, and
+nothing spiced. A new tab is needed.
 
 ## Easy No-Knead Peasant Bread
 
