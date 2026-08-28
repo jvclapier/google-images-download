@@ -50,11 +50,13 @@ clean to copy.
 | Raisin Cookies | Desserts › **(new tab needed)** | ☐ |
 | Old Fashioned Butter Cookies | Desserts › **(new tab needed)** — *leavening obscured, no bake temp or time* | ☐ |
 | Yummy Chicken | Main Dishes › **(new tab needed)** | ☐ |
-| Upside Down Spaghetti | Main Dishes › Spaghetti — *verify same dish* | ☐ |
+| Upside Down Spaghetti | Main Dishes › Spaghetti — *contested* | ☐ |
 | Southwestern Chicken | Main Dishes › **(new tab needed)** | ☐ |
 | Halloween Dinner in a Pumpkin | Main Dishes › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Parmesan Chicken | Main Dishes › **(new tab needed)** | ☐ |
 | Oh So Easy Chicken | Main Dishes › Swiss Chicken — *verify same dish* | ☐ |
+| Cheesy Spaghetti Bake | Main Dishes › Spaghetti — *contested, incomplete* | ☐ |
+| Chili Cheese Festivity | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -889,6 +891,55 @@ Blend wine (or broth) and soup together. Pour over casserole.
 Bake uncovered **325-350° for 60 mins.**
 
 *Serves 4.*
+
+---
+
+## **Cheesy Spaghetti Bake**
+
+### **Anita Mustard**
+
+**Ingredients**
+
+  - 1½ lbs. gr. beef
+  - 1 c. chop onion
+  - 1 clove garlic
+  - 1 - 28 oz. can tomatoes, cut up
+  - 1 - 15 oz. can tom. sauce
+  - 2 tsp. sugar
+  - 1 tsp. dried oregano
+  - 1 tsp. salt
+  - 1 tsp. basil
+  - … black pep.
+  - 8 oz. spaghetti, broken in half, cooked
+  - 8 oz. montery jack cheese, shredded
+
+**Instructions**
+
+Cook gr. beef, onion, garlic 'til brown. Drain, add tomatoes & sauce, spices. Simmer **20-25 min.** uncovered.
+
+---
+
+## **Chili Cheese Festivity**
+
+### **Verna Metcalf**
+
+**Ingredients**
+
+  - 1 lb. ground beef
+  - 1 med. onion, chopped
+  - 1 pkg. chili seasoning mix
+  - 1 can tomato soup
+  - 2 beaten eggs
+  - ½ C. water
+  - 1 - 6 oz. pkg. crushed corn chips
+  - 1 C. milk
+  - 4 oz. jack cheese, shredded
+  - 1 C. sour cream
+  - 2 oz. cheddar cheese, shredded
+
+**Instructions**
+
+Brown hamburger and onion. Drain grease. Add chili mix, soup and water. Simmer **5 minutes.** Add eggs and milk. Cook until bubbly. Stir in chips and jack cheese. Pour in **2 qt. casserole** and bake uncovered **30 minutes at 350°.** Spread sour cream and cheddar cheese and put under broiler for **5 minutes** more.
 
 ---
 
@@ -2890,6 +2941,55 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Cheesy Spaghetti Bake
+
+One photo of a "Here's what's cookin'" card with a colour illustration of a boy stealing cookies,
+photographed upside down and spotted with age. From the kitchen of **Anita Mustard**; the printed
+Serves line is blank.
+
+**The method stops before the bake, and the recipe is named for the bake.** What survives is the
+sauce: brown the beef, onion and garlic, add tomatoes and sauce and spices, simmer 20-25 minutes
+uncovered. Nothing says to combine that with the cooked spaghetti, nothing says to add the cheese,
+and there is no oven temperature or time. The illustration occupies the lower third of the card, so
+the remaining steps are on the back.
+
+**Photograph the back**, and the entry can be completed.
+
+**The black pepper's quantity is unreadable** and is marked `…`. It sits in the right-hand column
+where the card is most spotted.
+
+The spaghetti line reads "8 oz. spaghetti in half / cooked" — broken in half before cooking, which is
+how it is set out here.
+
+The card's own abbreviations stay: "gr. beef", "chop onion", "tom. sauce", "'til".
+
+**The Spaghetti tab now has two claimants**, this and the Upside Down Spaghetti, so both rows are
+marked *contested* — and neither may be what the tab actually holds.
+
+A printed quotation runs along the foot of the card — *"'Tis substantial happiness to eat." —
+Alexander Pope* — which is the stationery's furniture, like the Condorcet and Lincoln lines on the
+family cookbook pages, and is not part of the recipe.
+
+## Chili Cheese Festivity
+
+One photo of a typed slip, creased twice and punched for a binder, but flat, sharp and completely
+legible — the cleanest source in this run of cards. Typed attribution: **Verna Metcalf**, the
+Grandma Verna of the Sloppy Joes, Swiss Steak, Swedish Meatballs and Very Best Waffles already in
+this file.
+
+**The recipe is complete end to end** — every ingredient, a full method, a casserole size, an oven
+temperature, a bake time and a broiler finish. Nothing to flag, which after this batch is worth
+stating plainly.
+
+The slip sets its ingredients in two typed columns. They are merged into one list here in reading
+order across the rows, so the beef and its onion stay adjacent, as do the chips and the milk.
+
+The slip's own forms stay: "1-lb.", "1-pkg.", "1-6-oz. pkg." with their hyphens simplified only
+where the line would otherwise read as a range, and "hamburger" in the method against "ground beef"
+in the list.
+
+**No tab exists for this recipe.** Nothing in Main Dishes is close.
 
 ## Chicken Enchiladas (taco shell version)
 
