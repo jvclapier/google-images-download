@@ -58,6 +58,7 @@ clean to copy.
 | Cheesy Spaghetti Bake | Main Dishes › Spaghetti — *contested, incomplete* | ☐ |
 | Chili Cheese Festivity | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Crescents | Main Dishes › **(new tab needed)** | ☐ |
+| November Casserole | Main Dishes › **(new tab needed)** — *noodle quantity unreadable* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -970,6 +971,28 @@ Cream butter and cheese, add chicken, mushrooms, onions, pepper. Place 2 Tbsp. o
 Bake **30 minutes at 350°**, remove from oven and cover with mixture of 1 can cream of chicken soup, 1 cup sour cream and ½ cup milk. Bake **10 minutes more.** Serve over rice.
 
 *Can be made several days ahead. Serves 16.*
+
+---
+
+## **November Casserole**
+
+**Ingredients**
+
+  - 1 pound ground beef
+  - ½ cup chopped onions
+  - 1 medium clove garlic (or garlic salt)
+  - ½ to 1 teaspoon oregano
+  - ½ teaspoon salt
+  - 1 can tomatoe soup
+  - ½ cup water
+  - … cups cooked wide noodles
+  - 1 cup shredded mild cheese
+
+**Instructions**
+
+Brown meat, onion, garlic, oregano and salt. Add soup with water and stir into meat mixture. Cook noodles and add to meat mixture. Put all into casserole dish. Put shredded cheese on top.
+
+Bake @ **350° — 25 minutes** or until …
 
 ---
 
@@ -2353,9 +2376,9 @@ Slice in **¼" pieces** & bake on cookie sheet in **375° oven for about 8 mins.
 
 **Instructions**
 
-Cream together: ½ c. butter, 2 c. sugar.
+Cream together: 2 eggs, ½ c. butter, 2 c. sugar.
 
-Add: 2 eggs, 2 C. flour, 2 tsp. soda, 1 tsp. salt, 1 tsp. nutmeg, 1 tsp. cinnamon.
+Add: 2 C. flour, 2 tsp. soda, 1 tsp. salt, 1 tsp. nutmeg, 1 tsp. cinnamon.
 
 Peel & dice 6 tart apples & add to mix. Add 2 c. chopped walnuts.
 
@@ -2700,21 +2723,22 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 **Ingredients**
 
   - 5 qts. water
-  - 12 oz. Kluski noodles
-  - Chicken, cooked & cubed
-  - 3 c. carrots
-  - 3 celery
+  - Chicken bouillon
+  - 1 package Kluski noodles
+  - 3 carrots
+  - 3 celery stalk
   - 1 onion
-  - Bouillion
+  - 4 chicken breasts, boiled & cubed
   - 1 cube butter
   - ½ c. flour
 
 **Instructions**
 
-1.  Cook carrots, celery, and onion.
-2.  Flavor water with bouillion. Cook noodles according to package directions.
-3.  Add veges. & chicken & mix.
-4.  Melt butter & flour, mix together.
+1.  Cook carrots, celery and onion until tender.
+2.  Melt 1 cube butter, add ½ c. flour.
+3.  Bring water & bouillon to boil in soup pot. Add noodles — cook til done.
+4.  Add veges + chicken.
+5.  Add butter/flour mix to soup. Mix and let sit. Serve.
 
 ## **Smokey and Sweet Turkey Chili**
 
@@ -3304,6 +3328,35 @@ The card's own spellings stay: "Carmel" for caramel in the sauce's title, "whip 
 
 **No tab exists for this recipe.** Desserts has a *Peach Dessert* tab, which is the same shape of
 name and a different fruit — worth not conflating. A new tab is needed.
+
+**Corrected from a second, better-lit photo of the same card.** The first shot was dim and the
+front's two-column layout misled the grouping: the eggs were filed under "Add:" when they belong
+with "Cream together:", on the same line as the butter and the sugar. The method above is fixed.
+Nothing else changed — every quantity re-read identically, and the back's caramel sauce matched line
+for line.
+
+## November Casserole
+
+Two photos making up **one card** — ingredients on the front, method on the back. Old lined stock,
+soft and stained, in blue ballpoint. Unsigned.
+
+**Someone has traced over three faded words in fresh ink** — *meat*, *add* and *cheese* on the back
+stand darker than everything around them, redrawn at some point to keep the card readable. Nothing
+was changed by it; it is worth knowing only because those three words look like a different hand.
+
+**Two spans are marked `…`.**
+
+*The noodle quantity.* Every other ingredient line opens with a figure; this one reads "cups cooked
+wide noodles" with nothing legible before "cups". A number was almost certainly there and has worn
+away. It is left unfilled rather than guessed, and the queue row says so.
+
+*The end of the bake line.* "Bake @ 350° — 25 minutes or until …" trails into a worn patch at the
+card's edge. Something like hot or bubbly, but not readable.
+
+"tomatoe" is the card's own spelling and stays, as does the "½ to 1 teaspoon" range on the oregano
+and "(or garlic salt)" as the card's alternative to the clove.
+
+**No tab exists for this recipe.**
 
 ## Choc. Mint Sandwich Cookies
 
@@ -4850,6 +4903,22 @@ decided it.
 
 The card gives no unit for "3 celery" or "1 onion". It braces the vegetable column under
 *cook*, and butter + flour under *melt + mix together*.
+
+**Updated from a second Jill Bunting card, front and back.** The first card was ingredients with
+the method compressed into braces; this one is titled *Jill Bunting Chicken Noodle Soup* and carries
+a proper method on its back. The entry above is rebuilt from it, and the method is now the card's
+own five steps rather than an unpacking of brackets.
+
+**It settles the flour.** The earlier note flagged `½ c.` against a possible `1½ c.`, decided on
+proportion alone. The second card writes **½ c. flour** plainly. The flag is closed.
+
+**Three ingredient lines changed, and one of them is a real conflict.** The second card says
+*1 package Kluski noodles* where the first said `12 oz.`, and *4 chicken breasts, boiled & cubed*
+where the first said only "chicken, cooked & cubed" — those are complementary, and the fuller
+readings are kept. But the first card says **3 c. carrots** and the second says **3 carrots**. Three
+cups against three whole carrots is roughly a threefold difference in the vegetable. The second
+card's reading is used above, being the fuller and more legible source, but the first card is not
+obviously wrong and this is worth deciding before making it.
 
 ## Chocolate Marshmallow Cookies
 
