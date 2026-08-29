@@ -59,6 +59,10 @@ clean to copy.
 | Chili Cheese Festivity | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Crescents | Main Dishes › **(new tab needed)** | ☐ |
 | November Casserole | Main Dishes › **(new tab needed)** — *noodle quantity unreadable* | ☐ |
+| Jim's Pancakes | Breakfasts › Grandpa Metcalf Pancakes — *contested, incomplete* | ☐ |
+| Syrup | Breakfasts › Buttermilk Syrup — *contested* | ☐ |
+| Pancakes | Breakfasts › Grandpa Metcalf Pancakes — *contested* | ☐ |
+| Cinnamon Rolls (SAF yeast) | Breakfasts › Cinnamon Rolls — *contested* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -88,7 +92,7 @@ clean to copy.
 | Granola | Breakfasts › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Buttermilk Syrup | Breakfasts › Buttermilk Syrup | ☐ |
 | Applesauce Bran Muffins | Breakfasts › **(new tab needed)** | ☐ |
-| Cinnamon Rolls | Breakfasts › Cinnamon Rolls | ☐ |
+| Cinnamon Rolls (Karen Morgan) | Breakfasts › Cinnamon Rolls — *contested* | ☐ |
 | Waffles | Breakfasts › Grandma Verna's Waffles — *same recipe as below* | ☐ |
 | Grandma Verna's Very Best Waffles | Breakfasts › Grandma Verna's Waffles | ☐ |
 | German Pancakes | Breakfasts › German Pancakes | ☐ |
@@ -1337,6 +1341,12 @@ In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients
   - 6 teaspoons sugar
   - 2 t. salt
 
+**Instructions**
+
+Mix in bowl then cook in frying pan with a little oil in pan, on medium heat!
+
+*Serves 5-6.*
+
 ## **Mom's Bran Muffins**
 
 ### **Linda Glauser**
@@ -1472,6 +1482,8 @@ Cream together butter and cream cheese. Add vanilla and powdered sugar and mix u
 
 Mix together flour, baking powder and salt. Then add egg yolks, milk and oil. Mix well. In separate bowl, whip egg whites until fluffy. Then fold into other mixture.
 
+Cook in waffle iron.
+
 ## **Grandma Verna's Very Best Waffles**
 
 ### **Verna Metcalf**
@@ -1551,6 +1563,100 @@ Melt butter in a **9x13 pyrex** dish till sizzles in the over at **350**. Then p
 11. Let cool for **15 mintues** and serve warm. You can also refrigerate after baking and serve cold!
 
 *Prep 10 min. Cook 35 min. Serves 8. Source: joyfoodsunshine.com.*
+
+---
+
+## **Jim's Pancakes**
+
+**Ingredients**
+
+  - 2 whole eggs
+  - 2 egg whites
+  - 3 tbl spoons veg. oil
+  - ⅔ qt buttermilk
+  - Bisquick
+  - 2 tbl spoons …
+  - 2 tbl spoons wheat harts
+  - Pinch sugar
+  - ½ cap vinella
+
+**Instructions**
+
+Whip 2 whole eggs & 2 egg whites. Beat in buttermilk & oil.
+
+Add Bisquick until smooth but not thick.
+
+Add aprox. 2 tbl spoons … & 2 tbl spoons wheat harts. Add pinch sugar, ½ cap vinella.
+
+Add Bisquick until thick …
+
+---
+
+## **Syrup**
+
+**Ingredients**
+
+  - 1 tsp light Karo syrup
+  - ¾ c buttermilk
+  - ¼ tsp. vanilla
+  - 1 C sugar
+  - 1 tsp. baking soda
+  - ⅛ c. margarine
+
+**Instructions**
+
+Blend and boil for **5 minutes** (except vanilla). Use a large kettle as it tends to foam. Then add vanilla.
+
+---
+
+## **Pancakes**
+
+**Ingredients**
+
+  - 1¾ C buttermilk
+  - 3 egg yolks
+  - ¼ c melted shortening
+  - 1 Tbsp baking powder
+  - 1½ C flour
+  - ½ tsp. soda
+  - ¼ tsp. salt
+  - Egg whites, beaten stiff
+
+**Instructions**
+
+Combine buttermilk, yolks and shortening. Add dry ingredients. Fold in stiff egg whites.
+
+---
+
+## **Cinnamon Rolls (SAF yeast)**
+
+**Ingredients**
+
+  - 1 cup mashed potatoes (can use 1 c. hot water and ⅓ cup dehydrated potatoes — let stand 5 minutes)
+  - ¾ cup sugar
+  - 1 tsp salt
+  - 1 cup hot milk (easiest to use hot water and dry powdered milk)
+  - 1 cup hot water
+  - 10 Tbs. Butter, melted
+  - 9 cups flour
+  - 2 eggs, beaten
+  - 2 Tbs. SAF yeast
+
+**Instructions**
+
+Mix potatoes, sugar, salt, hot milk, hot water, and melted butter with 4½ cups flour. Blend until mixed. Add beaten eggs and mix until smooth. Add SAF yeast and remaining flour until dough pulls away from sides of bowl and is not too sticky. Knead for **6 minutes**.
+
+Let rise until double in size (about **1-1½ hours**). Punch down, let rise until double again (about **30-45 minutes**). Divide in half. Roll out into **12x15 inch rectangle**. Spread with butter (about 2 Tbs.) and sprinkle with cinnamon/sugar mixture (¼ cup or more). Roll into log and pinch edges together. Cut into 12 slices (sometimes 16) and place on a greased cookie sheet. Repeat with remaining dough. Let rise until double (**30-60 minutes**). Bake at **350 degrees for 10-15 minutes**. Spread with frosting while still warm.
+
+### **Frosting**
+
+**Ingredients**
+
+  - 4 oz cream cheese, softened
+  - ½ cup butter, softened
+  - 2 Tbs. Orange juice concentrate
+  - 1 tsp vanilla
+  - 4 cups powdered sugar
 
 ---
 
@@ -2996,6 +3102,86 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 
 # Transcription notes
 
+## Jim's Pancakes
+
+One photo of a small sheet in blunt capitals, folded and torn along the right edge with a strip of
+the paper missing. Headed **Jim's PANCAKES** — a name new to this file's bylines, though *Uncle Jim's
+Double Chocolate Mint Cookies* is already here. The card says only Jim, so it stays Jim and no
+attribution line was added beyond the title.
+
+**This is a Bisquick pancake, and the Bisquick has no measure at all** — it is added twice by feel:
+once "until smooth but not thick", then again at the end "until thick". That is the recipe's actual
+technique, not an omission, but it means the flour quantity cannot be written down.
+
+**One ingredient is lost to the torn edge** and is marked `…`: the first of two tablespoon additions,
+paired with "2 tbl spoons wheat harts". Wheat germ would pair naturally with wheat hearts, but the
+word is gone and was not guessed.
+
+**The last line runs off the bottom of the sheet** — "Add Bisquick until thick …" — so there may be a
+further instruction below. There is no pan, no heat and no yield anywhere on what survives.
+
+The sheet's own spellings are kept: "wheat harts", "vinella" for vanilla, "aprox.", "tbl spoons", and
+"½ cap" for what is presumably a capful.
+
+**The tab is contested.** Breakfasts has *Grandpa Metcalf Pancakes*, and this batch brings two other
+pancake recipes with it.
+
+## Syrup
+
+One photo of a folded sheet holding **two recipes** — a Syrup at the top and Pancakes below, in the
+same pencil hand. They are filed as two entries because they are two dishes, but they were written
+together and are presumably made together. A scribbled-out word sits before the Syrup heading.
+
+**This is not the Buttermilk Syrup already in the file.** Karen Morgan's uses 1 cup sugar, a
+tablespoon of cornstarch, a full cup of buttermilk, half a cup of butter and a tablespoon of Karo.
+This one uses ¾ c buttermilk, ⅛ c margarine, and **1 tsp** of Karo against Karen's tablespoon, with
+no cornstarch at all. Same family of syrup, different recipe. Both rows are marked *contested*.
+
+**"Except vanilla" is the point of the method** — the vanilla is held back from the boil and stirred
+in after, which is why it is listed among the ingredients but excluded in the first instruction.
+
+The warning about foaming is the writer's own and is kept in the method rather than pulled out as a
+note, since it tells you what pan to reach for.
+
+## Pancakes
+
+The lower of the two recipes on the Syrup sheet, in the same hand. Unsigned, and titled simply
+*Pancakes*.
+
+**"Whites beaten stiff" is written at the foot of the ingredient column**, under the salt, rather than
+as a separate line with a quantity. The three yolks are listed above, so the whites are those three
+eggs' whites; they are carried as an unquantified ingredient line and the method's "fold in stiff egg
+whites" does the rest.
+
+**There is no pan, no heat and no yield** — the method is three dashes covering only how the batter
+comes together. That is all the sheet says.
+
+The sheet's own spelling "flar" for flour is corrected to flour here, being a clear slip of the pencil
+rather than a dialect form; everything else stands.
+
+**The tab is contested** with Jim's Pancakes and the doc's existing *Grandpa Metcalf Pancakes*.
+
+## Cinnamon Rolls (SAF yeast)
+
+One photo of a typed sheet, folded in quarters and worn along the creases but fully legible. The
+title carries a highlighted subtitle in orange — *using SAF yeast* — which is why it is in the entry's
+name: it is the one thing distinguishing this from the cinnamon rolls already filed.
+
+**This is a different recipe from Karen Morgan's Cinnamon Rolls.** Hers is a milk-and-butter dough,
+2 tbsp dry yeast, 5-6 cups flour, rolled 8 by 24 inches, baked at **375 for 8-10 minutes**, with a
+plain cream cheese glaze. This is a **potato** dough — a cup of mashed potato, nine cups of flour,
+two risings before shaping and a third after, rolled 12 by 15, baked at **350 for 10-15 minutes**,
+frosted with cream cheese and **orange juice concentrate**. Both rows are marked *contested*.
+
+**A line is struck out of the frosting**: "dash salt", crossed through on the typed sheet. Left out
+per the usual rule, since nothing in the method calls for it.
+
+**The frosting has no method.** The sheet lists its five ingredients and stops; the main method's last
+line, "Spread with frosting while still warm", is the only instruction about it.
+
+A handwritten insertion adds "too" above the line in "is not sticky" — making it "is not too sticky",
+which is how it reads above.
+
 ## Chicken Crescents
 
 Two photos making up **one sheet** of yellow legal paper, front and back, folded into quarters and
@@ -4431,8 +4617,10 @@ amount since that is the ingredient line; check the photo before baking.
 **Bake time is uncertain:** read as `1½ hrs. 300°`, with the leading digit near the tear.
 `1½ hrs` suits an overnight strata at 300°, which is what decided it.
 
-A short word that looks like "pork" trails the "let stand in fridge overnight" line —
-possibly a note on the sausage type, possibly not a word at all.
+**Resolved from a clearer photo: the word that looked like "pork" is "pour".** It is the end of
+"pour over above", wrapping across the line break — not a note about sausage type. The bake line
+also reads unambiguously in the better shot: **1½ hrs. 300°**, closing that flag too. The superscript
+above the milk in the mixing step remains ambiguous.
 
 **Cross-reference:** this card resolves "Mom" to Verna Metcalf. The Sugar Cookies card
 above is also signed "Mom" but gives no surname, and I have not assumed they are the same
@@ -4516,6 +4704,15 @@ corroboration that the column was read correctly.
 
 **Title vs. card:** the card spells it *Sweedish Pancakes*. Used the doc's spelling so it
 matches the tab.
+
+**Updated from a second card, and it supplies the missing method.** A heart-bordered "Recipe" card,
+also spelling it *Sweedish Pancakes*, also unsigned, with **Serves: 5-6** filled in. Its method —
+"Mix in bowl then cook in frying pan with a little oil in pan, on medium Heat!" — is now the entry's
+Instructions. The note above said the method might live on another card; it did.
+
+**Its quantities agree with the Stylecraft card's Single column**, with one apparent difference that
+is not one: this card writes **1 tbs sugar** where the other writes 3 teaspoons. Those are the same
+amount. Everything else matches exactly.
 
 ## Mom's Bran Muffins
 
@@ -4819,6 +5016,20 @@ that tab before creating one.
 **Also on this page but not transcribed, per instruction:** *Nan's Raised Doughnuts*
 (Karen Morgan), whose ingredients are complete on the photo but whose method is cut off,
 and a glaze line beneath it.
+
+**Updated from a second source: a handwritten Stylecraft card (69-930), "From the Kitchen of Mom".**
+Its six quantities are identical to the typed page, line for line — 2 C. flour, 3 tsp bkg. pdr.,
+½ tsp salt, 1½ c milk, 3 eggs separated, 5 Tbls. oil — which is strong corroboration for both.
+
+**It closes the missing ending.** The typed page stopped at "fold into other mixture" and never said
+to cook them. The card's method, written in red ink down the right side, ends **cook in waffle iron**.
+That line is now step two above.
+
+**But it complicates the attribution.** The typed page is credited to Linda Glauser; this card says
+**Mom**. This file already keeps Mom and Linda Glauser separate, and one Mom card resolves to Verna
+Metcalf while others give no surname. The `### Linda Glauser` line is left as it stands, since it
+came from the doc's own tab, but the card is evidence that this waffle recipe also lived in a Mom
+card — which bears on whether *Grandma Verna's Waffles* and this are the same recipe after all.
 
 ## Aunt Sue's Delicious Chicken
 
