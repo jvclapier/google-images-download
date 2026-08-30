@@ -67,6 +67,9 @@ clean to copy.
 | Becky's Famous Salad | Sides › **(new tab needed)** | ☐ |
 | Basmati Rice Pilaf | Sides › **(new tab needed)** | ☐ |
 | Carmel Corn | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
+| Green Bean Parmesan | Sides › Green Bean Salad — *verify same dish* | ☐ |
+| Potatoes in Buttermilk | Sides › **(new tab needed)** | ☐ |
+| Pineapple Carrot Muffins | Breakfasts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1370,6 +1373,48 @@ Add broth and salt; bring to a boil. Cover, reduce heat to medium-low, and simme
 
 ---
 
+## **Green Bean Parmesan**
+
+### **Mom**
+
+**Ingredients**
+
+  - 6 oz. bacon, cooked & diced
+  - Onion, finely chopped, ¾ C.
+  - Green beans, 6 C. (canned cut beans)
+  - Salt, ¼ tsp.
+  - Cornflake crumbs, ½ c.
+  - Parmesan cheese, ½ c.
+
+**Instructions**
+
+Cook onions in bacon grease & heat green beans — drain well. Add bacon, onions, salt, cornflake crumbs, + cheese. Toss lightly until mixed. Serve immediately.
+
+*Serves 12.*
+
+---
+
+## **Potatoes in Buttermilk**
+
+### **Mom**
+
+**Ingredients**
+
+  - 2 Tbls. margarine
+  - 2 C. chopped, peeled raw potatoes
+  - ½ tsp. salt
+  - ⅛ tsp. pepper
+  - 1 C. buttermilk
+  - Paprika, to serve
+
+**Instructions**
+
+Heat butter in skillet, add potatoes & toss & cook until potatoes brown. Add salt, pepper & buttermilk. Simmer slowly until potatoes are tender and liquid is thickened. Paprika each serving.
+
+*Serves 5 or 6.*
+
+---
+
 # Breakfasts
 
 ## **Sausage Souffle**
@@ -1737,6 +1782,35 @@ Let rise until double in size (about **1-1½ hours**). Punch down, let rise unti
   - 2 Tbs. Orange juice concentrate
   - 1 tsp vanilla
   - 4 cups powdered sugar
+
+---
+
+## **Pineapple Carrot Muffins**
+
+### **Keoki's Paradise**
+
+**Ingredients**
+
+  - 9.6 oz Whole Wheat Flour
+  - 8 oz. Raw Sugar
+  - 2 tsp. Baking Powder
+  - 1½ tsp. Baking Soda
+  - 1 tsp. Cinnamon
+  - ½ tsp. Salt
+  - 4 Eggs
+  - 7 oz. Vegetable Oil
+  - 4 oz. Crushed Pineapple
+  - 14½ oz. Shredded Carrots
+
+**Instructions**
+
+Preheat oven to **350** and grease a muffin pan.
+
+In a large mixing bowl, mix well all dry ingredients. Add oil and eggs into dry ingredients, mix slowly for **15 seconds**. Next add carrots and pineapple and mix slowly for another **15 seconds**. Do Not Over Mix.
+
+Scoop 3 oz. of mix into the greased muffin pan and bake at **350 for 15-20 minutes** or until muffins are fully risen and a dark brown.
+
+*Yields 18 3 oz. muffins.*
 
 ---
 
@@ -3200,6 +3274,59 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Green Bean Parmesan
+
+One photo of a Stylecraft card, "From the Kitchen of **Mom**", **Serves 12** filled in. Shot in low
+light against a plaid blanket but the pencil is dark and the read is clean. Seventh Mom card.
+
+**The card puts its quantities after the ingredient, not before** — "onion - finely chopped ¾ C.",
+"green beans 6 C.", "salt ¼ tsp." That order is preserved rather than normalised, since it is how the
+whole card is written.
+
+**It is a hot dish, not a salad**, despite what the tab it is queued to suggests: the beans are heated,
+everything is tossed together, and the last words are "Serve immediately". The cornflake crumbs go in
+at the toss, not on top, so they stay crisp only for as long as it takes to carry the bowl in.
+
+**No bacon grease is listed** — it is a by-product of the six ounces of bacon, which the card assumes
+you have just cooked. Nothing was added to the list for it.
+
+**The tab needs a look.** Sides has a *Green Bean Salad*, the only green bean tab, and this is not a
+salad. If that tab holds something cold and dressed, this wants its own.
+
+## Potatoes in Buttermilk
+
+One photo of a Stylecraft card (69-930), "From the Kitchen of **Mom**", **Serves 5 or 6**. Eighth Mom
+card, and the same hand as the Green Bean Parmesan.
+
+**The card says margarine in the list and butter in the method.** "2 Tbls. margarine" against "Heat
+butter in skillet". They are interchangeable here and the card evidently treated them so; both are
+left as written rather than reconciled.
+
+**Paprika appears only in the last three words** — "Paprika each serving" — so it was added to the
+ingredient list unquantified, the usual treatment.
+
+The dish has no oven and no timing: it is a skillet braise finished when the potatoes are tender and
+the buttermilk has thickened, which is the only doneness cue given.
+
+**No tab exists for this recipe.** Sides has *Lipton Potatoes*, which is a roasted dish and different.
+
+## Pineapple Carrot Muffins
+
+One photo of a printed sheet on **Keoki's Paradise** letterhead, with the restaurant's angelfish logo
+— a Kauai restaurant, so this is a commercial recipe that came home rather than a family one. The
+sheet is creased and torn at the bottom left, but no text is lost. Yields 18 muffins of 3 oz. each.
+
+**This is a professional recipe and it weighs almost everything**, which is unusual for this file:
+9.6 oz flour, 8 oz sugar, 7 oz oil, 14½ oz carrots. Only the leaveners, cinnamon, salt and eggs are
+counted or spooned. Those weights are what make the recipe reproducible at scale, so they are kept
+exactly rather than converted to cups.
+
+**The mixing times are deliberately short** — 15 seconds, then another 15 — and the sheet says "Do Not
+Over Mix" in capitals. That is the whole technique of the recipe and it is why the timings are bolded.
+
+**No tab exists for this recipe.** Breakfasts has *Bran Muffins*, which is a different muffin; the file
+also holds Applesauce Bran Muffins and Mom's Bran Muffins, and this is neither.
 
 ## Stew
 
