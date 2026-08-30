@@ -26,7 +26,7 @@ clean to copy.
 | Cranberry Salad | Sides › **(new tab needed)** — *check Pomegranate Salad first* | ☐ |
 | French Potato Salad | Sides › **(new tab needed)** | ☐ |
 | Onion-Roasted Potatoes | Sides › Lipton Potatoes | ☐ |
-| Hearty Beef Stew | Soups › Beef Stew | ☐ |
+| Hearty Beef Stew | Soups › Beef Stew — *contested* | ☐ |
 | Cranberry Jalapeno Cream Cheese Dip | Dips & Dressings › Cranberry Jalapeno Cream Cheese Dip | ☐ |
 | Mexican Platter Dip | Dips & Dressings › 7 Layer Dip — *verify same dish* | ☐ |
 | Hurry Up Chocolate Cake | Desserts › Hurry Up Chocolate Cake — *incomplete, see notes* | ☐ |
@@ -63,6 +63,10 @@ clean to copy.
 | Syrup | Breakfasts › Buttermilk Syrup — *contested* | ☐ |
 | Pancakes | Breakfasts › Grandpa Metcalf Pancakes — *contested* | ☐ |
 | Cinnamon Rolls (SAF yeast) | Breakfasts › Cinnamon Rolls — *contested* | ☐ |
+| Stew | Soups › Beef Stew — *contested* | ☐ |
+| Becky's Famous Salad | Sides › **(new tab needed)** | ☐ |
+| Basmati Rice Pilaf | Sides › **(new tab needed)** | ☐ |
+| Carmel Corn | Desserts › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1000,6 +1004,27 @@ Bake @ **350° — 25 minutes** or until …
 
 ---
 
+## **Stew**
+
+**Ingredients**
+
+  - 1 lb lean stew meat
+  - 4 medium potatoes
+  - 4 medium carrots
+  - 2 stalks celery
+  - 1 can cr. of mush soup
+  - 1 can cr. of celery soup
+  - 1 can tomato soup
+  - 1 pkg onion soup mix
+  - 1 soup can of water
+  - 1 bay leaf
+
+**Instructions**
+
+Place in casserole dish or baking pan w/ lid. (Do not pre cook meat.) Peel + cube potatoes, carrots + celery; place on top of meat. Add soups + water; place bay leaf on top. Cover + cook in oven for **8 hours at 275°**. When done discard bay leaf. Stir stew + serve.
+
+---
+
 # Sides
 
 ## **Fruit Salad**
@@ -1287,6 +1312,61 @@ In a small bowl, mix all ingredients. If using fresh tarragon, place ingredients
 2.  Bake, stirring occasionally, until potatoes are tender and golden brown, **about 35 minutes**.
 
 *Prep Time 10 minutes. Cook Time 35 minutes. 4 Servings. Source: back of the Lipton Recipe Secrets Onion Soup Mix box.*
+
+---
+
+## **Becky's Famous Salad**
+
+### **Becky Olson**
+
+### **Dressing**
+
+**Ingredients**
+
+  - ⅔ cup sugar
+  - ⅓ cup honey
+  - ⅓ cup red wine vinegar
+  - 1 teaspoon dry mustard
+  - 1 teaspoon paprika
+  - 1 teaspoon celery seed
+  - 1 teaspoon salt
+  - 1 tablespoon lemon juice
+  - 1 teaspoon grated onion
+  - 1 cup canola oil
+
+**Instructions**
+
+Mix all together. Add slowly while stirring.
+
+### **Salad Combinations**
+
+Mixed greens (no iceberg), 1 or 2 avocados (peeled and sliced), 1 can mandarin oranges (well drained), 1 or 2 pears (red, Bosc, or Bartlett or combination — sliced but not peeled), sugared almonds (brown in pan with a little sugar, pour on plate to cool), 1 kind of berry — raspberries, blueberries, blackberries, or dried cranberries.
+
+OR
+
+Mixed greens, peaches, blueberries, roasted pine nuts, feta cheese, avocado, serve with raspberry vinaigrette or add some raspberries to this dressing.
+
+---
+
+## **Basmati Rice Pilaf**
+
+**Ingredients**
+
+  - 2 T. vegetable or olive oil
+  - 1 cup onions, chopped
+  - 2 garlic cloves, minced
+  - 1½ cups basmati rice
+  - 1¾ cups chicken broth
+  - 1 t. kosher salt
+  - 3 T. chopped fresh flat-leaf parsley
+
+**Instructions**
+
+Heat oil in a large saucepan over medium-high. Add onions and garlic; saute **3 minutes**. Stir in rise and saute **2 minutes**.
+
+Add broth and salt; bring to a boil. Cover, reduce heat to medium-low, and simmer **15 minutes**. Remove from heat and let stand **5 minutes**, covered, before stirring in parsley.
+
+*Makes 5 cups.*
 
 ---
 
@@ -2593,6 +2673,25 @@ Put all ingreds. in large bowl & stir until completely mixed. Pour into a **larg
 
 ---
 
+## **Carmel Corn**
+
+### **Mom**
+
+**Ingredients**
+
+  - 1½ C. sugar
+  - 1 C. brown sugar
+  - 1 C. + 2 Tbls. Karo syrup
+  - ¾ C. water
+  - 1 tsp. salt
+  - 1 tsp. soda
+  - ½ C. butter
+  - 1 tsp. vanilla
+  - 1 C. raw Spanish peanuts (1 pkg.)
+  - ½ lb. popcorn (popped)
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3101,6 +3200,84 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Stew
+
+One photo of a folded sheet of lined paper in blue ballpoint, creased into quarters and shot in low
+light. Headed simply **STEW**. Unsigned.
+
+**The card uses ditto marks in its soup list**, which are expanded here: the second line reads
+`1 " " celery soup` and the third `1 " tomato soup`, both hanging off `1 can cr. of mush soup` above.
+Written out, that is a can of cream of mushroom, a can of cream of celery, and a can of tomato.
+
+**This is an oven stew, not a stovetop one, and the timing is the point of it** — **8 hours at 275°**,
+with the meat going in raw. The card says so twice: "Do not pre cook meat" in parentheses, and the
+long low oven. Worth not mistaking for a typo.
+
+**The Beef Stew tab is now contested.** The Hearty Beef Stew already in this file is a seared,
+browned, tomato-and-broth stew finished in 2-3 hours; this is a dump-and-forget casserole built on
+three condensed soups. Nothing in common but the name of the dish. Both rows are marked.
+
+## Becky's Famous Salad
+
+One photo of a typed page, folded and shot at an angle, upside down. Attributed in italics on the
+page itself to **Becky Olson** — a name new to this file.
+
+**The "Salad Combinations" section is not an ingredient list and is not set as one.** The page gives
+two alternative assemblies separated by an OR, with quantities that are suggestions ("1 or 2
+avocados", "1 kind of berry"). Forcing them into a bulleted list would make them read as one required
+shopping list, which is the opposite of what the page means, so they are kept as the page's own
+running text under a `###` heading.
+
+The dressing is a proper recipe with quantities and a method, and takes the usual component
+treatment.
+
+**The almonds carry their preparation inline** — "brown in pan with a little sugar, pour on plate to
+cool" — which is the only cooking instruction anywhere in the salad half.
+
+**Also on this page but not transcribed:** the tail of a different recipe above the salad, ending
+"Bake for 25 minutes until nicely golden brown. Enough for 2 pastries 20-24 slices each." A pastry of
+some kind; its name and ingredients are above the crop. Send the top of that page if you want it.
+
+**No tab exists for this recipe.** Sides has *Berry Spinach Salad*, which is the nearest thing and is
+a different salad — this one specifies mixed greens and no iceberg, with pears and mandarin oranges.
+
+## Basmati Rice Pilaf
+
+One photo of a small printed recipe card, tanned and blotched with age and shot in poor light. No
+attribution anywhere on it. The subtitle under the title reads **Makes 5 cups**.
+
+**"Stir in rise and saute 2 minutes" is the card's own typo** for rice, and is kept. It is the only
+error on an otherwise cleanly printed card.
+
+The card writes its fractions as `1-1/2` and `1-3/4`; those are set as ½ and ¾ here in the file's
+usual form, with no change of value.
+
+**No tab exists for this recipe.** Sides has *Orzo Pasta* as its only grain dish, which is a different
+thing.
+
+## Carmel Corn
+
+One photo of a modern floral recipe card — the fifth from that pack, after the Grandpa Glauser
+cookies, the Strawberry Ice Cream, the Apple Dessert and the Halloween Dinner in a Pumpkin. Titled
+**Carmel Corn by mom**, shot in dim light but legible. The printed cook time, prep time and servings
+fields are blank.
+
+**Sixth card signed Mom**, and like the others it gives no surname. Still not merged with the Sausage
+Souffle's Verna Metcalf.
+
+**This card is an ingredient list and nothing else** — no method, no candy-thermometer temperature, no
+oven, no timing. That makes it the third such entry in the file, after the Strawberry Ice Cream and
+the Halloween Dinner in a Pumpkin, and the gap matters more here than in most: caramel corn depends
+entirely on how far the syrup is cooked, and the card does not say. Nothing was invented.
+
+**"raw" is inserted above the peanut line**, squeezed in before "Spanish peanuts" — a later
+clarification, and it is carried into the line as written.
+
+"Carmel" is the card's spelling, matching the *Delicious Carmel Sauce* on the same pack's Apple
+Dessert card.
+
+**No tab exists for this recipe.**
 
 ## Jim's Pancakes
 
