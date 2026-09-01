@@ -75,6 +75,8 @@ clean to copy.
 | Bread Stuffing | Sides › **(new tab needed)** | ☐ |
 | Scripture Fudge | Desserts › **(new tab needed)** | ☐ |
 | Scripture Cookies | Desserts › **(new tab needed)** — *ingredients are scripture references* | ☐ |
+| Baked Potato Soup | Soups › **(new tab needed)** | ☐ |
+| Taco Soup | Soups › Taco Soup | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -3364,6 +3366,66 @@ Melt butter in a large sauce pan over medium heat. Add onion and cook until it b
 
 ---
 
+## **Baked Potato Soup**
+
+### **Jill Roderick Parkinson**
+
+**Ingredients**
+
+  - 2 medium potatoes (about 2 c. chopped)
+  - 3 Tbsp. butter
+  - 1 c. diced white onion
+  - 2 Tbsp. flour
+  - 4 c. chicken stock
+  - 2 c. water
+  - ¼ c. cornstarch
+  - 1½ c. instant mashed potatoes
+  - 1 tsp. salt
+  - ¾ tsp. pepper
+  - ½ tsp. basil
+  - ⅛ tsp. thyme
+  - 1 c. half & half
+
+**Garnish**
+
+  - ½ c. shredded Cheddar cheese
+  - ¼ c. crumbled cooked bacon
+  - 2 green onions, chopped (green part only)
+
+**Instructions**
+
+Preheat oven to **400°** and bake the potatoes for **1 hour** or until done. When potatoes have cooked, remove them from the oven to cool.
+
+As potatoes cool, prepare soup by melting butter in a large saucepan and saute onions until light brown. Add the flour to the onions and stir to make a roux. Add stock, water, cornstarch, mashed potatoes, and spices to the pot and bring to a boil. Reduce heat and simmer for **5 minutes**.
+
+Cut potatoes in halves lengthwise and scoop out contents with a large spoon. Discard skin. Chop baked potato with a large knife to make chunks that are about **½ inch** in size. Add chopped baked potato and half & half to the saucepan; bring soup back to a boil, then reduce heat and simmer the soup for another **15 minutes** or until it is thick. Garnish with about 1 tablespoon shredded Cheddar cheese, ½ tablespoon crumbled bacon, and 1 teaspoon or so of chopped green onion.
+
+*Tastes just like the baked potato soup served at Tony Roma's.*
+
+*Handwritten across the title: this is the one I made!*
+
+---
+
+## **Taco Soup**
+
+### **Lois Beecroft & Shirley Van Leeuwen**
+
+**Ingredients**
+
+  - 1 lb. ground beef, browned with onion
+  - ½ c. chopped onion
+  - 3 c. water
+  - 1 large can tomatoes, diced
+  - 2 (16 oz.) cans kidney beans (do not drain)
+  - 1 (15 oz.) can tomato sauce
+  - 1 env. taco seasoning
+
+**Instructions**
+
+Brown ground beef and onions. Drain fat. Add water, tomatoes, kidney beans, tomato sauce, and taco seasoning. Simmer, covered, for **at least 15 minutes**. Top each serving with grated cheese, corn chips, sour cream, avocado, and chopped green onions.
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -3420,6 +3482,51 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Baked Potato Soup
+
+One photo of a page from a spiral-bound community cookbook, under a **Soups and Salads** running head,
+credited to **Jill Roderick Parkinson**. The page is folded across the middle but no text is lost.
+
+**"this is the one I made!" is written by hand across the title in ballpoint**, with an underline. It
+is carried as an italic line at the end — somebody's note to themselves that of several potato soups,
+this is the version that worked.
+
+**The recipe closes with its own comparison**, printed on the page: *Tastes just like the baked potato
+soup served at Tony Roma's.* That is the author's line, not marginalia, so it sits above the
+handwritten note.
+
+**The garnish takes its own heading** because the page sets it apart under "Garnish:" with three
+ingredients of its own. It is not given a separate method — the amounts per serving are stated inside
+the last sentence of the main method.
+
+**One quantity sits on the fold and is worth a glance: "1½ c. instant mashed potatoes."** The fraction
+is crossed by the crease. A cup and a half of instant potato flakes into six cups of liquid is
+plausible for a soup this thick, which is what decided the reading, but 1¼ is not impossible.
+
+The recipe uses potatoes three ways — baked whole and chunked, instant flakes as a thickener, and
+cornstarch besides — which is unusual enough to look like an error and is not.
+
+**No tab exists for this recipe.** Soups has Corn Chowder as its nearest thing, and this is not that.
+
+## Taco Soup
+
+One photo of page 23 from a spiral-bound community cookbook, printed in two columns and photographed
+sideways. **Two names are credited, stacked one above the other**: Lois Beecroft and Shirley Van
+Leeuwen. That is the usual convention in these books when two people submit the same recipe, so both
+are kept, joined with an ampersand on the single attribution line.
+
+**A hand-drawn star sits beside the title** — somebody's mark for a recipe worth making again. A mark
+rather than words, so it is not in the block.
+
+**Destination is an exact tab match:** Soups already has **Taco Soup**.
+
+The ingredients are printed across two columns; they are merged here in reading order down the left
+column then the right, which keeps the beef and its onion adjacent.
+
+**Also on this page but not transcribed:** the tail of the recipe above, ending "Suggested toppings:
+Grated cheese, sour cream, chopped avocado, guacamole. Serves 8." Its name and ingredients are above
+the crop.
 
 ## Scripture Fudge
 
