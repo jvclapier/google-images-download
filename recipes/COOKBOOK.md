@@ -77,6 +77,7 @@ clean to copy.
 | Scripture Cookies | Desserts › **(new tab needed)** — *ingredients are scripture references* | ☐ |
 | Baked Potato Soup | Soups › **(new tab needed)** | ☐ |
 | Taco Soup | Soups › Taco Soup | ☐ |
+| Instant Pot Minestrone Soup | Soups › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -3426,6 +3427,49 @@ Brown ground beef and onions. Drain fat. Add water, tomatoes, kidney beans, toma
 
 ---
 
+## **Instant Pot Minestrone Soup**
+
+**Ingredients**
+
+  - 2 T olive oil or avocado oil
+  - 1 medium onion, diced
+  - 1 clove garlic, minced
+  - 2-3 ribs celery, diced
+  - 1 cup matchstick carrots (or one cup of diced carrots)
+  - 1 medium zucchini, cut up
+  - 1 cup frozen green beans
+  - 4 cups chicken broth
+  - 1 bay leaf
+  - 1 15 oz can diced tomatoes
+  - 1 tsp salt
+  - 1 tsp dried basil
+  - 1 tsp parsely
+  - ½ tsp dried thyme
+  - ½ tsp dried oregano
+  - ¼ tsp ground black pepper
+  - ¾ cup uncooked small shell noodles
+  - 1 15 oz can kidney beans
+  - 1 15 oz can navy beans
+
+### **Instant Pot Directions**
+
+**Instructions**
+
+1.  Using the "sauté" feature, combine oil, onion, and garlic. Give it a good stir and when the onions are soft, add the rest of the ingredients to the pot.
+2.  Put the lid on, seal the steam valve, and cook on high pressure for **12 minutes**. When the **12 minutes** is up, you can do a quick release pressure release by flipping the steam valve open.
+3.  Serve with crusty bread and Parmesan cheese.
+
+### **Stove Top Directions**
+
+**Instructions**
+
+1.  In a large pot, sauté onion and garlic in oil until onions are soft. Add carrots and celery, giving them a few minutes to sauté also, stirring often.
+2.  Add the tomatoes, beans, broth, and seasonings.
+3.  Let it come to a boil, then add the zucchini and pasta and let cook for **about 10 minutes** or until pasta and vegetables are soft.
+4.  Serve with crusty bread and Parmesan cheese
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -3482,6 +3526,34 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Instant Pot Minestrone Soup
+
+One screenshot of a recipe page, cropped so that it begins at the Ingredients heading. **The title is
+supplied from the instruction** — *instant pot minestrone soup* — since the page's own heading is above
+the crop. No site or author is visible either.
+
+**The page gives two complete methods for one ingredient list**, so the entry keeps the ingredients
+once and splits the methods into two `###` components under the page's own headings. Neither is a
+variation of the other; they are alternative routes to the same pot, and the page treats them as
+equals.
+
+**The two methods do not add the ingredients in the same order or the same groupings**, which is why
+neither was harmonised to the other. The Instant Pot version says simply "add the rest of the
+ingredients"; the stovetop version stages them, holding the zucchini and pasta back until the pot
+boils. Follow whichever you are using.
+
+**The stovetop method never places the green beans or the bay leaf explicitly.** They fall under
+"beans" and "seasonings" in its step 2 by implication. The page says what it says; nothing was moved.
+
+"parsely" is the page's own spelling and stays, as does "a quick release pressure release" in the
+Instant Pot step 2 — the words are doubled on the page — and the missing full stop at the end of the
+stovetop's last step.
+
+The **Cook Mode** toggle ("Prevent your screen from going dark") is a website widget, not recipe
+content, and stayed out.
+
+**No tab exists for this recipe.** Soups has nothing minestrone-shaped.
 
 ## Baked Potato Soup
 
