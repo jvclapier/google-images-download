@@ -70,10 +70,15 @@ clean to copy.
 | Green Bean Parmesan | Sides › Green Bean Salad — *verify same dish* | ☐ |
 | Potatoes in Buttermilk | Sides › **(new tab needed)** | ☐ |
 | Pineapple Carrot Muffins | Breakfasts › **(new tab needed)** | ☐ |
+| So-Tender Swiss Steak | Main Dishes › Swiss Steak — *contested* | ☐ |
+| Barbecued Spareribs | Main Dishes › Spare Ribs | ☐ |
+| Bread Stuffing | Sides › **(new tab needed)** | ☐ |
+| Scripture Fudge | Desserts › **(new tab needed)** | ☐ |
+| Scripture Cookies | Desserts › **(new tab needed)** — *ingredients are scripture references* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
-| Grandma Verna's Swiss Steak | Main Dishes › Swiss Steak | ☐ |
+| Grandma Verna's Swiss Steak | Main Dishes › Swiss Steak — *contested* | ☐ |
 | Great Grandma Metcalf's Beef Cubes in Gravy | Main Dishes › Beef Cubes & Gravy | ☐ |
 | Grandma Verna's Swedish Meatballs | Main Dishes › **(new tab needed)** — listed under POTENTIAL | ☐ |
 | Salmon Patties | Main Dishes › Salmon Patties | ☐ |
@@ -1028,6 +1033,65 @@ Place in casserole dish or baking pan w/ lid. (Do not pre cook meat.) Peel + cub
 
 ---
 
+## **So-Tender Swiss Steak**
+
+**Ingredients**
+
+  - ¼ cup all-purpose flour
+  - 1½ teaspoon salt
+  - ¼ teaspoon pepper
+  - 2 pounds round steak, cut into serving-size pieces
+  - 2 tablespoons vegetable oil
+  - 1 medium onion, thinly sliced
+  - 2 cups water
+  - 2 tablespoons Worcestershire sauce
+
+**Instructions**
+
+In a shallow bowl, combine flour, salt and pepper. Dredge steak, a few pieces at a time. Pound with a mallet to tenderize. In a Dutch oven, brown steak in oil on all sides. Arrange onion slices between the layers of meat. Add water and Worcestershire sauce. Cover and bake at **325° for 2 to 2½ hours** or until meat is very tender. Remove to a serving platter and keep warm.
+
+### **Gravy**
+
+**Ingredients**
+
+  - ¼ cup all-purpose flour
+  - ¼ teaspoon salt
+  - ⅛ teaspoon pepper
+  - 1¼ cups beef broth or water
+  - Hot cooked noodles or mashed potatoes, optional
+
+**Instructions**
+
+In a small bowl, combine flour, salt, pepper and broth until smooth; stir into pan juices. Bring to a boil over medium heat; cook and stir for **2 minutes**. Serve steak and gravy over noodles or mashed potatoes if desired.
+
+*Handwritten on the page: add to taste — minced garlic, juice, catsup. Yield: 8 servings.*
+
+---
+
+## **Barbecued Spareribs**
+
+**Ingredients**
+
+  - 4-6 lbs. spareribs
+  - ⅔ cup catsup
+  - ⅔ cup water
+  - ½ cup garlic viniger
+  - 1 tsp. worchestershire
+  - ¼ tsp. dry mustard
+  - ½ cup sliced onions
+  - 1 tsp. chili powder
+  - 1 tsp. salt
+  - ½ tsp. pepper
+  - ¼ tsp. tobasco
+
+**Instructions**
+
+Cut ribs in pairs; brown in hot oven; **450° 20 min.** Pour off fat. Combine remaining ingreds. Pour over ribs; cover, bake in moderate oven **1½ hrs.**, basting occasionally. Uncover, brown **15 min.** more.
+
+*Serves 8.*
+
+---
+
 # Sides
 
 ## **Fruit Salad**
@@ -1412,6 +1476,40 @@ Cook onions in bacon grease & heat green beans — drain well. Add bacon, onions
 Heat butter in skillet, add potatoes & toss & cook until potatoes brown. Add salt, pepper & buttermilk. Simmer slowly until potatoes are tender and liquid is thickened. Paprika each serving.
 
 *Serves 5 or 6.*
+
+---
+
+## **Bread Stuffing**
+
+**Ingredients**
+
+  - 1 loaf French bread or 14 oz. bag of bread croutons
+  - 2 cups chopped onion
+  - 1½ cups chopped celery, including the leaves
+  - ½ cup butter
+  - 1 egg, beaten
+  - 1-2 cups chicken broth, depending upon preference
+  - 2 tsp. sage
+  - 2 tsp. poultry seasoning
+  - 1 tsp. marjoram
+  - 1 tsp. salt, or to taste
+  - 1 tsp. pepper, or to taste
+  - ½ tsp. thyme
+  - optional - 1 or 2 tart apples such as Granny Smith, peeled and chopped
+
+**Instructions**
+
+If using French bread, tear into pieces. Toast the bread in the oven at **200 degrees Fahrenheit** until firm, **about 20 or 30 minutes**. If using croutons, you can skip this step.
+
+Melt butter over medium heat on the stove in a large skillet. Add the onions, celery, and optional apples. Cook until onions become soft. If not using apples, the onions and celery can be mixed in with the rest of the ingredients without cooking them first. This saves a step and some time. The onions and celery will be more crunchy, which I actually like.
+
+Put the toasted French bread pieces in a large mixing bowl. Add the celery and onion mixture. Then add all of the seasonings. Mix well.
+
+Next, slowly pour in the chicken broth about ⅓ cup at a time so that the mixture doesn't become too soggy. Mix with a fork. Don't get the stuffing too wet. Add the egg and mix well.
+
+This Thanksgiving turkey stuffing recipe can be made ahead and put in the refrigerator for the next day before cooking or stuffing. This recipe can be used in the turkey or baked by itself at **350 degrees Fahrenheit for approximately 40 minutes**. To cook this bread stuffing recipe in a slow cooker, gently transfer it to a greased slow cooker. Then cook for **1 hour on high**, then turn down to low for **2-3 hours**. Check it about once an hour. Stir and add more broth, if needed.
+
+*Serves approximately 10 people and will stuff a 12 pound turkey at the most.*
 
 ---
 
@@ -2766,6 +2864,54 @@ Put all ingreds. in large bowl & stir until completely mixed. Pour into a **larg
 
 ---
 
+## **Scripture Fudge**
+
+**Ingredients**
+
+  - 4½ cups (Exodus 15:25) — sugar
+  - 1 large can (D&C 84:82, 2 Nephi 26:25) — evap. milk
+  - dash (Matthew 5:13) — salt
+  - 24 large (Ecclesiastes 9:8, Mark 4:38) — marsh-mellows
+  - 2 cubes (Genesis 18:8) — butter
+  - 1⅓ cup (Proverbs 17:1) — choc chips
+  - 2 teaspoons (Isaiah 32:6) — vanilla
+  - 2 C. nuts
+
+**Instructions**
+
+In a large, heavy pot, bring the following ingredients to a soft ball stage (**235-240°**): 4½ cups sugar, 1 large can evap. milk, dash salt.
+
+Add: 24 large marsh-mellows, 2 cubes butter.
+
+Stir until melted, then add: 1⅓ cup choc chips, 2 teaspoons vanilla, 2 C. nuts.
+
+Stir until smooth. Put into (Psalms 55:21)-ed (Ether 2:17) — a buttered **9x13** — and freeze.
+
+---
+
+## **Scripture Cookies**
+
+**Ingredients**
+
+  - 1 C. (Psalms 55:21)
+  - 1½ C. (Jeremiah 6:20)
+  - ¼ C. (2 Nephi 26:25)
+  - ¾ C. (Genesis 30:40, 1 Nephi 17:12)
+  - 3 (Isaiah 10:14)
+  - 4 C. (1 Kings 4:22)
+  - 1½ t. (D&C 101:39)
+  - 1½ t. (1 Corinthians 4:6)
+  - 1 T. (Isaiah 32:6)
+  - ¾ t. (Exodus 25:33)
+  - 1½ c. (D&C 89:17)
+  - small pkg. (Proverbs 17:1)
+
+**Instructions**
+
+Mix together. Roll into balls the size of walnuts. Place on cookie sheet and bake at **350° for 10-12 minutes**. But not before reading: (History of Joseph Smith 1:37) (D&C 133:11)
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3274,6 +3420,115 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Scripture Fudge
+
+One side of a green sheet, folded in quarters. **Its reverse carries a different recipe** — Scripture
+Cookies — so despite arriving as "both photos for one recipe", the two are filed separately. They are
+two recipes sharing one piece of paper, not two halves of one.
+
+**This is a puzzle recipe.** Every ingredient is given as a scripture reference rather than a name,
+and the cook is meant to look them up. Someone has since pencilled the answers in above each line, and
+those annotations are carried into the entry — they are on the card, so they are part of it. The
+method has been written out in plain words using those same annotations, because a recipe you cannot
+read is not much use in a paste block.
+
+**"235-240°" is a later addition in blue ink**, written after "soft ball stage" — someone pinning down
+what the phrase means on a thermometer. Kept, since it is the only temperature on the card.
+
+**A line was struck out and replaced.** The pencilled "½ teaspoon (Exodus 25:33) almond flavoring" is
+crossed through in blue, with "2 C. nuts" written beside it. The strike is honoured and the nuts are
+what the entry calls for — but the almond flavouring is recorded here in case someone wants the older
+version.
+
+The final line's two references are left in place — "(Psalms 55:21)-ed (Ether 2:17)" — because the
+sentence is built around them grammatically. The pencilled **9x13** and the sense of the passages give
+"a buttered 9x13", which is set alongside rather than replacing the original.
+
+"marsh-mellows" is the annotator's spelling and stays.
+
+## Scripture Cookies
+
+The reverse of the Scripture Fudge sheet, in the same puzzle format — but **nobody ever pencilled in
+the answers on this side.** Twelve ingredients, twelve scripture references, and no key.
+
+**The references are left exactly as written and nothing was guessed.** Working out what a passage
+means is interpretation, not transcription, and a wrong reading here would put the wrong thing in the
+bowl. The block is the card.
+
+**Four of them can be resolved from the fudge side's own annotations**, since the same references
+appear on both faces of the sheet. On the fudge, someone wrote:
+
+  - Psalms 55:21 → butter
+  - Proverbs 17:1 → choc chips
+  - Isaiah 32:6 → vanilla
+  - Exodus 25:33 → almond
+
+Applied here, that gives 1 C. butter, a small pkg. of chocolate chips, 1 T. vanilla and ¾ t. almond.
+Those four are the family's own key, not an outside reading, which is why they are recorded — but they
+are kept here in the notes rather than written into the block, so the block stays what the card says.
+
+The remaining eight are open: Jeremiah 6:20, 2 Nephi 26:25, Genesis 30:40 with 1 Nephi 17:12,
+Isaiah 10:14, 1 Kings 4:22, D&C 101:39, 1 Corinthians 4:6 and D&C 89:17.
+
+**The closing line is part of the recipe**, not decoration: "But not before reading: (History of Joseph
+Smith 1:37) (D&C 133:11)" — two more references, to be read while the cookies bake.
+
+## Bread Stuffing
+
+One photo of a printed page, folded into quarters and creased hard enough that a fold runs through two
+lines of the method, though nothing is lost. Untitled beyond "Traditional Thanksgiving Recipes - Bread
+Stuffing Recipe"; no author or source.
+
+**The method is written in the first person and is kept that way** — "This saves a step and some time.
+The onions and celery will be more crunchy, which I actually like." That aside is the writer telling
+you which shortcut they take, so it stays in the method rather than being trimmed as commentary.
+
+**Three cooking routes are given and all three are kept**: inside the turkey, baked alone at **350° for
+40 minutes**, or in a slow cooker (**1 hour high, then 2-3 hours low**). The slow-cooker version is the
+only one with a stirring instruction.
+
+The serving note from the top of the page is carried as the italic line.
+
+**No tab exists for this recipe.** Sides has *Thanksgiving Cauliflower*, which is the nearest thing in
+spirit and a different dish.
+
+## So-Tender Swiss Steak
+
+One photo of a printed recipe clipping, folded in quarters and photographed upside down, with
+handwritten notes in the margins. The print is clean once inverted.
+
+**The Swiss Steak tab is now contested.** Grandma Verna's Swiss Steak, already in this file, pounds
+flour into the meat, browns it in a skillet and simmers it on the stovetop for **an hour** with catsup
+and sweet pickle juice. This one dredges, pounds with a mallet, and bakes in a Dutch oven at
+**325° for 2 to 2½ hours** with Worcestershire, then builds a separate gravy from the pan juices.
+Different techniques, different times, different flavourings.
+
+**The handwritten additions are carried as an italic line**, not folded into the ingredient list —
+"add to taste: minced garlic, juice, catsup" — because they are somebody's amendments to a printed
+recipe rather than part of it. A second annotation near the gravy is too cramped to read with
+confidence and was left out.
+
+**The gravy takes a `###` component** because the clipping sets it out that way, under its own GRAVY:
+heading with its own ingredient list.
+
+## Barbecued Spareribs
+
+One photo of a typed card, tanned and grease-spotted, photographed sideways. Unsigned. Something is
+written in teal ink across the lower middle of the card in a loose hand — three or four words, too
+faint and too overlapped by the typing to read.
+
+**Destination is an existing tab:** Main Dishes has **Spare Ribs**, and this is a sparerib recipe.
+
+**The card's two ovens are given differently and both are kept as written**: a specific **450° 20 min.**
+to brown, then "moderate oven" for **1½ hrs.** with no number. Moderate would conventionally be around
+350°, but the card does not say so and nothing was supplied.
+
+The typing's own misspellings stay: "spareeribs" in the title line, "viniger", "worchestershire",
+"tobasco", and "ingreds." in the method.
+
+The ingredients are typed in two columns; they are merged into one list here in reading order down the
+left column then the right, which keeps the ribs and the wet ingredients together.
 
 ## Green Bean Parmesan
 
