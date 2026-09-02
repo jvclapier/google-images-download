@@ -80,6 +80,7 @@ clean to copy.
 | Instant Pot Minestrone Soup | Soups › **(new tab needed)** | ☐ |
 | Corn Chowder | Soups › Corn Chowder | ☐ |
 | Mexican Corn Chowder | Soups › **(new tab needed)** | ☐ |
+| Never Fail Choc Cake | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2917,6 +2918,34 @@ Mix together. Roll into balls the size of walnuts. Place on cookie sheet and bak
 
 ---
 
+## **Never Fail Choc Cake**
+
+**Ingredients**
+
+  - 1 cube butter
+  - 2 C. sugar
+  - 1 C. sour milk w/ 2 tea soda added
+  - 2 eggs
+  - ½ C. cocoa
+  - 2½ C flour
+  - ½ tea. vanilla
+  - 1 cup boiling water
+
+**Instructions**
+
+Bake **375°** — **30 min** loaf, **25 min** layers.
+
+### **Chocolate Frosting for Cake**
+
+**Ingredients**
+
+  - 1 lb. pow sugar
+  - 1 sq. butter
+  - ¼ cup cocoa
+  - ¼ cup whip cream (warmed)
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3567,6 +3596,34 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Never Fail Choc Cake
+
+Two photos making up **one recipe** — the cake on a blue card, its frosting on an orange one, both
+punched into the same white ring binder and confirmed as a pair on instruction. The orange card was
+photographed upside down. Neither is signed.
+
+**Two lines on the blue card run off the edge of the card itself**, not the frame: "1 C. sour milk w/
+2 tea soda ad" and "Bake 375° - 30 min loaf 25 min lay". The writer ran out of width. Both are written
+out in full above — *added* and *layers* — because the surviving fragments admit no other reading in
+those positions, but the letters are genuinely not on the card.
+
+**"25 min layers" is the more useful of the two**, since it means the same batter takes two bake times
+depending on the pan: **30 minutes** as a loaf, **25** as layers. Easy to miss when the line is cut
+off mid-word.
+
+**Neither card has a method.** The cake gives ingredients and a bake line; the frosting gives four
+ingredients and stops. That makes this the fifth ingredients-only entry in the file. Nothing was
+invented — no creaming order, no mixing instruction for the frosting.
+
+**"1 sq. butter" on the frosting card is the one uncertain reading.** The abbreviation is short and
+could be taken for a stick. *Square* is what fits this collection, where the Apple Dessert card writes
+"2 squares butter" in the same idiom, but it is worth a glance.
+
+The cards' own forms stay throughout: "sour milk", "tea." for teaspoon, "pow sugar" and "whip cream".
+
+**No tab exists for this recipe.** Desserts already carries Verna Metcalf's *Hurry Up Chocolate Cake*
+on its own tab, and the family index's generic "Chocolate cake" line points at that one, not this.
 
 ## Corn Chowder
 
