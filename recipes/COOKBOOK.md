@@ -82,6 +82,7 @@ clean to copy.
 | Mexican Corn Chowder | Soups › **(new tab needed)** | ☐ |
 | Never Fail Choc Cake | Desserts › **(new tab needed)** | ☐ |
 | Winder Brownies or Graham Gems | Desserts › **(new tab needed)** | ☐ |
+| Untitled — flour-dipped meat in gravy | Main Dishes › Swiss Steak — *probably a by-taste version of Verna's, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1096,6 +1097,39 @@ In a small bowl, combine flour, salt, pepper and broth until smooth; stir into p
 Cut ribs in pairs; brown in hot oven; **450° 20 min.** Pour off fat. Combine remaining ingreds. Pour over ribs; cover, bake in moderate oven **1½ hrs.**, basting occasionally. Uncover, brown **15 min.** more.
 
 *Serves 8.*
+
+---
+
+## **Untitled — flour-dipped meat in gravy**
+
+**Ingredients**
+
+  - Meat
+  - Flour
+  - Oil
+  - Salt & pepper
+  - Water
+  - Bouillon granuals
+  - Worchestershire
+  - Sweet pickel juice
+  - Catsup
+  - Dried onion
+
+**Instructions**
+
+This is made by taste & by taste & good luck —
+
+Dip meat in flour. Brown in oil (salt & pepper it). When brown add water (more than covers) — to make thickening & add some bouillon granuals in it.
+
+To make the thickening, add worchestershire, salt & pepper, add sweet pickel juice, catsup, dried onion.
+
+Then as it cooks taste it & probably need to add more S + P — catsup.
+
+### **Crock pot version**
+
+**Instructions**
+
+Make a flour & water gravy. Dip meat in flour. Brown (after water in oil). Place in crock pot. Cook well w/ water.
 
 ---
 
@@ -3612,6 +3646,46 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Untitled — flour-dipped meat in gravy
+
+Two photos of one yellow legal pad, same hand throughout — a long narrative version on the first page,
+a short crock-pot restatement on the second. The first page was photographed sideways. **The page
+carries no title and no name.**
+
+**This is almost certainly Grandma Verna's Swiss Steak, written out the way somebody actually cooks
+it.** Compare: Verna's card calls for meat floured and browned in oil, seasoning salt and pepper as it
+browns, then hot water, catsup, sweet pickle juice and sliced onion. This page says dip meat in flour,
+brown in oil, salt and pepper it, add water, catsup, sweet pickel juice, dried onion. Same dish, same
+sequence, same unusual pairing of catsup with sweet pickle juice — which is not a combination that
+turns up twice by chance.
+
+**The difference is that this version has no quantities at all, deliberately.** Its first line is
+*"This is made by taste & by taste & good luck"*, and the method ends by telling you to taste it and
+probably add more salt, pepper and catsup. Verna's card gives approximate cups; this one refuses to.
+Worth keeping as a separate entry rather than merged, because it records a way of cooking rather than a
+formula — but consider pasting it into the Swiss Steak tab beneath Verna's card rather than as a recipe
+of its own.
+
+**It adds two things Verna's card does not have**: bouillon granules stirred into the water, and
+Worcestershire. It drops the green pepper.
+
+**Read this one with more caution than most.** The hand is elaborate looping cursive, the first page was
+shot rotated, and several words were worked out from context rather than read cleanly — particularly the
+middle of the long paragraph, where the sequence of "thickening", the bouillon and the seasonings is
+harder to follow than the transcription above makes it look. **There are no quantities anywhere on the
+page**, which is the one thing that makes filing it safe: there is no number here to get wrong. If a
+word matters to you, check it against the pad.
+
+**The second page is a shorter, different route** — a flour-and-water gravy made first, then the crock
+pot — and is kept as its own component rather than merged into the narrative, since it is not the same
+method.
+
+The page's own spellings stay: "granuals", "pickel", "worchestershire".
+
+**No new tab is proposed.** The Swiss Steak tab is already contested between Verna's card and the
+So-Tender Swiss Steak clipping; this makes a third claimant, and is the one least likely to want a tab
+of its own.
 
 ## Winder Brownies or Graham Gems
 
