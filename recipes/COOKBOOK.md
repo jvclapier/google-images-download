@@ -81,6 +81,7 @@ clean to copy.
 | Corn Chowder | Soups › Corn Chowder | ☐ |
 | Mexican Corn Chowder | Soups › **(new tab needed)** | ☐ |
 | Never Fail Choc Cake | Desserts › **(new tab needed)** | ☐ |
+| Winder Brownies or Graham Gems | Desserts › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -2946,6 +2947,21 @@ Bake **375°** — **30 min** loaf, **25 min** layers.
 
 ---
 
+## **Winder Brownies or Graham Gems**
+
+**Ingredients**
+
+  - 1 cup chopped nuts
+  - 1 can sweetened condensed milk
+  - 1 pkg. choc. chips (small
+  - 16 crushed graham crackers
+
+**Instructions**
+
+Mix together — put in **8x8 pan**. Bake **350° for 30-35 min.** Cut while warm — chill before serving.
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3596,6 +3612,29 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Winder Brownies or Graham Gems
+
+One photo of a yellow card from the same white ring binder as the Never Fail Choc Cake and its
+frosting, written in pencil. Unsigned. The read is clean throughout — the pencil is dark and the hand
+is unhurried.
+
+**The recipe is complete**: four ingredients, a pan, a temperature, a time, and what to do after it
+comes out. After a long run of ingredients-only cards that is worth stating.
+
+**The card offers two names for one thing** — *Winder Brownies or Graham Gems* — and both are kept in
+the title, as the card has it. "Winder" is written clearly and is not "Wonder"; whether it is a place,
+a surname, or something else, the card does not say.
+
+**"1 pkg. choc. chips (small" has an unclosed parenthesis** on the card and keeps it here. The
+intended sense is a small package, not a small anything else.
+
+The graham crackers are counted rather than measured — 16, crushed — which is the card's own way and
+is left alone.
+
+**No tab exists for this recipe.** Desserts has three brownie tabs and every one is spoken for: Mint
+Brownies by Clapier's, Chocolate Brownies contested between Mom's and Mary's, Gold Rush Brownies by its
+own recipe. This is a no-bake-style condensed-milk bar rather than a batter brownie, and wants its own.
 
 ## Never Fail Choc Cake
 
