@@ -78,6 +78,8 @@ clean to copy.
 | Baked Potato Soup | Soups › **(new tab needed)** | ☐ |
 | Taco Soup | Soups › Taco Soup | ☐ |
 | Instant Pot Minestrone Soup | Soups › **(new tab needed)** | ☐ |
+| Corn Chowder | Soups › Corn Chowder | ☐ |
+| Mexican Corn Chowder | Soups › **(new tab needed)** | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -91,7 +93,7 @@ clean to copy.
 | Mediterranean Lemon Chicken Soup | Soups › Lemon Chicken Soup | ☐ |
 | Blueberry Baked Oatmeal | Breakfasts › **(new tab needed)** | ☐ |
 | Mango Chicken Pasta Salad with Tarragon Lime Dressing | Sides › **(new tab needed)** | ☐ |
-| Sweet Potato Roasted Corn Chowder | Soups › Corn Chowder — *verify tab is empty* | ☐ |
+| Sweet Potato Roasted Corn Chowder | Soups › **(new tab needed)** — *see Corn Chowder note* | ☐ |
 | Honey Mustard Sheet Pan Chicken with Brussels Sprouts | Main Dishes › Honey Mustard Chicken with Brussel Sprouts | ☐ |
 | Asian Glazed Turkey Meatballs | Main Dishes › Turkey Teriyaki Meatballs — *verify same dish* | ☐ |
 | Fruit Salad | Sides › Fruit Salad | ☐ |
@@ -3470,6 +3472,45 @@ Brown ground beef and onions. Drain fat. Add water, tomatoes, kidney beans, toma
 
 ---
 
+## **Corn Chowder**
+
+**Ingredients**
+
+  - 8 strips bacon
+  - 2 C. onion, chopped
+  - 4 C. cubed potatoes, cooked
+  - 4 C. chicken broth
+  - 4 C. chicken, boiled + cubed
+  - 2 cans or frozen corn (14 oz each)
+  - 2 cans creamed corn (14 oz each)
+  - 2 C. ½ + ½ or cream
+  - ½ tsp. parsley
+
+---
+
+## **Mexican Corn Chowder**
+
+### **Brad Hale**
+
+**Ingredients**
+
+  - ½ cup chopped onion
+  - 1 clove garlic, minced
+  - 1 cup hot water
+  - 2 cubes chicken bouillon
+  - ¾ teaspoon ground cumin
+  - 2 cups half-and-half
+  - 2 cups pepper jack cheese, shredded (use Cache Valley)
+  - 1 cup frozen cut corn (use Albertson's super sweet white)
+
+**Instructions**
+
+Add together onion, garlic, hot water, bouillon and cumin. Bring to boil, then turn down heat and add other stuff, stirring.
+
+*Options: add chicken, tomatoes, green chiles.*
+
+---
+
 # Drinks
 
 ## **Grandma M's Quick French Hot Chocolate**
@@ -3526,6 +3567,52 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Corn Chowder
+
+One photo of a modern floral recipe card — the sixth from that pack, after the Grandpa Glauser
+cookies, the Strawberry Ice Cream, the Apple Dessert, the Halloween Dinner in a Pumpkin and the
+Carmel Corn. Unsigned this time; the printed cook time, prep time and servings fields are blank.
+
+**This card settles a question left open earlier.** Soups has a *Corn Chowder* tab, and the Sweet
+Potato Roasted Corn Chowder was queued to it with a warning that the tab might already hold something
+more traditional. It does: this. A card titled plainly *Corn Chowder*, built on bacon, potatoes,
+chicken and canned corn, is what that tab is named for. It takes the tab; the sweet potato version has
+been re-pointed to a new one.
+
+**This card is an ingredient list and nothing else** — no method, no pot, no timing. The fourth such
+entry in the file, after the Strawberry Ice Cream, the Halloween Dinner in a Pumpkin and the Carmel
+Corn. A chowder is forgiving enough to assemble from the list, but nothing was invented.
+
+**One line is genuinely ambiguous: "2 cans or frozen corn (14 oz each)".** The short word between
+"cans" and "frozen" could be *or*, making canned and frozen alternatives, or the line could read
+"2 cans frozen corn" — which is not a thing frozen corn comes in. *Or* is the reading that makes
+sense of it and is what the strokes best support, but the word is small and the card is dense. The
+line below, "2 cans creamed corn", is unambiguous.
+
+"½ + ½" is the card's shorthand for half and half, expanded nowhere on the card and left as written.
+
+## Mexican Corn Chowder
+
+One photo of a lined card written in block capitals, tanned along one edge. Signed **Brad Hale** in
+the top corner — a name new to this file.
+
+**The card's method is a brace, and the brace is what makes it readable.** Five ingredients are
+bracketed together on the right to the words "add together / bring to boil, then turn down heat and add
+other stuff, stirring." Those five — onion, garlic, hot water, bouillon, cumin — are the base; "other
+stuff" is everything below the brace. The instruction above is that sentence with the bracketed
+ingredients named, and nothing else added.
+
+**The card names two brands and both are kept**: Cache Valley for the pepper jack, and Albertson's
+super sweet white for the frozen corn. Those are somebody's considered preferences, not filler.
+
+**"Options: add chicken, tomatoes, green chiles" is carried as an italic line** rather than as
+ingredients, since the card sets it apart on its own line at the foot and gives no quantities.
+
+**This is the third corn chowder in the file** and the third distinct recipe: the plain family *Corn
+Chowder* (bacon, potatoes, canned corn), the *Sweet Potato Roasted Corn Chowder* (vegan, coconut milk,
+poblano), and this one (pepper jack, cumin, half-and-half). Only the first takes the doc's Corn Chowder
+tab; the other two want their own.
 
 ## Instant Pot Minestrone Soup
 
@@ -5103,12 +5190,11 @@ run-on "Let sit for 5 to 10 minutes to steam, this will make it easier to peel" 
 The blurb and the nutrition panel are page furniture and stayed out. Worth knowing anyway:
 the author notes the chowder is vegan.
 
-**The tab needs a look before pasting.** Soups already has a **Corn Chowder** tab, and this
-is a corn chowder, so it is queued there — but unlike the Quinoa Enchilada Bake match,
-there is nothing confirming the tab is empty rather than already holding a different,
-probably more traditional corn chowder. If it has one, this wants its own tab under the
-fuller name; the two are not interchangeable, since this one is vegan and built on sweet
-potato and coconut milk.
+**Resolved: this does not belong on the Corn Chowder tab.** The note here used to say the tab
+might already hold a more traditional corn chowder. It does — a family card titled plainly
+*Corn Chowder*, bacon and potatoes and canned corn, has since been filed, and that is
+self-evidently what the tab is named for. This one is re-pointed to a new tab. The two are not
+interchangeable: this is vegan and built on sweet potato and coconut milk.
 
 Clean read otherwise — printed text throughout.
 
