@@ -54,7 +54,7 @@ clean to copy.
 | Southwestern Chicken | Main Dishes › **(new tab needed)** | ☐ |
 | Halloween Dinner in a Pumpkin | Main Dishes › **(new tab needed)** — *ingredients only, no method* | ☐ |
 | Parmesan Chicken | Main Dishes › **(new tab needed)** | ☐ |
-| Oh So Easy Chicken | Main Dishes › Swiss Chicken — *verify same dish* | ☐ |
+| Oh So Easy Chicken | Main Dishes › **(new tab needed)** — *Swiss Chicken tab now claimed* | ☐ |
 | Cheesy Spaghetti Bake | Main Dishes › Spaghetti — *contested, incomplete* | ☐ |
 | Chili Cheese Festivity | Main Dishes › **(new tab needed)** | ☐ |
 | Chicken Crescents | Main Dishes › **(new tab needed)** | ☐ |
@@ -83,6 +83,9 @@ clean to copy.
 | Never Fail Choc Cake | Desserts › **(new tab needed)** | ☐ |
 | Winder Brownies or Graham Gems | Desserts › **(new tab needed)** | ☐ |
 | Untitled — flour-dipped meat in gravy | Main Dishes › Swiss Steak — *probably a by-taste version of Verna's, see notes* | ☐ |
+| Swiss Chicken | Main Dishes › Swiss Chicken | ☐ |
+| Bonnie — The Best Chocolate Cake Ever | Desserts › **(new tab needed)** | ☐ |
+| Texas Sheet Cake | Desserts › Texas Sheet Cake — *title obscured, see notes* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -1130,6 +1133,51 @@ Then as it cooks taste it & probably need to add more S + P — catsup.
 **Instructions**
 
 Make a flour & water gravy. Dip meat in flour. Brown (after water in oil). Place in crock pot. Cook well w/ water.
+
+---
+
+## **Swiss Chicken**
+
+### **Lee Johnson**
+
+**Ingredients**
+
+  - 6 whole chicken breasts, split and deboned
+  - Flour
+  - 2 eggs, beaten
+  - Oil, for the skillet
+  - 6 pieces Swiss or Mozzarella cheese
+
+**Instructions**
+
+Use 6 whole chicken breasts, split and deboned. Coat with flour, beaten eggs, then coating.
+
+Heat oil in large skillet. Cook chicken over medium heat until brown (**about 15 minutes**). Put in flat baking dish; top each piece of chicken with a slice of Swiss or Mozzarella cheese. Pour cheese sauce over chicken. Bake until cheese melts and chicken is tender, **about 8 minutes**.
+
+### **Coating**
+
+**Ingredients**
+
+  - ¾ c. fine bread crumbs
+  - ¼ c. Parmesan cheese
+  - 1 tsp. dried parsley
+  - ½ env. garlic cheese salad dressing mix
+
+*Use all for 4 breasts too.*
+
+### **Cheese Sauce**
+
+**Ingredients**
+
+  - 1 c. whipping cream
+  - ¼ c. butter
+  - ¼ c. snipped parsley
+  - ¼ c. water
+  - ½ c. Parmesan cheese
+
+**Instructions**
+
+Heat cream, water, and butter in saucepan until butter melts. Add cheese and parsley; cook and stir over medium heat for **about 5 minutes**.
 
 ---
 
@@ -2697,36 +2745,36 @@ Cream butter, cheese and sugar. Add vanilla and nuts. Frost when … is cool.
 
 ## **Sour Cream Banana Bars**
 
+### **Ann Bezdjian**
+
 **Ingredients**
 
-  - 1½ c. sugar
-  - 1 c. sour cream
-  - ½ c. margarine
+  - 1½ cups sugar
+  - 1 cup sour cream
+  - ½ cup butter
   - 2 eggs
-  - 1½ c. mashed banana
-  - 2 tea. vanilla
-  - 2 c. flour
-  - 1 tea. salt
-  - 1 tea. baking soda
+  - 1½ cup mashed banana
+  - 2 tsp. vanilla
+  - 2 cups flour
+  - 1 tsp. salt
+  - 1 tsp. baking soda
 
 **Instructions**
 
-Put on cookie sheet or **lg. cake pan**. Bake **375° 20 to 25 min.**
+Mix first nine ingredients together. Pour into a greased **12 x 16 jelly roll pan**. Bake at **375° for 20 minutes**.
 
 ### **Brown Butter Frosting**
 
 **Ingredients**
 
-  - ½ c. butter
-  - 4 c. pdr sugar
-  - 2 tsp vanilla
-  - 4 Tbls. milk
+  - ½ cup butter
+  - 4 cups powdered sugar
+  - 2 tsp. vanilla
+  - 4 Tbsp. milk
 
 **Instructions**
 
-Heat ¼ c butter over med heat until a delicate brown. Remove from heat and add 2 c. powdered sugar. Beat in 1 tea. vanilla & 2 tbs. milk. Beat until smooth and spreading consistancy.
-
-*Double this fr recipe above. If halfing banana recipe, then frosting recipe is just right.*
+Heat ½ cup butter over medium heat until a delicate brown. Remove from heat and add powdered sugar. Beat in vanilla and milk and stir until smooth and spreading consistency. Spread over banana cake.
 
 ---
 
@@ -2993,6 +3041,69 @@ Bake **375°** — **30 min** loaf, **25 min** layers.
 **Instructions**
 
 Mix together — put in **8x8 pan**. Bake **350° for 30-35 min.** Cut while warm — chill before serving.
+
+---
+
+## **Bonnie — The Best Chocolate Cake Ever**
+
+**Ingredients**
+
+  - 2 cubes margarine
+  - 1 C. water
+  - 5 TBLS. cocoa
+  - 2 C. sugar
+  - 2 C. flour
+  - 1 tsp. soda
+  - 2 eggs
+  - 1 tsp. vanilla
+  - ½ C. sour milk
+
+**Instructions**
+
+Bring 2 cubes margarine, 1 C. water and 5 TBLS. cocoa to a boil.
+
+Add: 2 C. sugar, 2 C. flour, 1 tsp. soda, 2 eggs, 1 tsp. vanilla, ½ C. sour milk.
+
+Combine and and bake at **400 for 20 minutes**.
+
+### **Frosting**
+
+**Ingredients**
+
+  - 1¾ cubes margarine
+  - 3 TBLS cocoa
+  - 3 TBLS milk
+  - 1 lb. powdered sugar
+  - 2 tsp. vanilla
+
+**Instructions**
+
+Bring 1¾ cubes margarine, 3 TBLS cocoa and 3 TBLS milk to a boil and add: 1 lb. powdered sugar and 2 tsp. vanilla. Frost while cake is warm.
+
+---
+
+## **Texas Sheet Cake**
+
+### **Amy Maida Wadsworth**
+
+**Ingredients**
+
+  - 1 cup water
+  - 4 tablespoons cocoa
+  - 1 cup margarine
+  - 2 cups sugar
+  - 2 cups flour
+  - 1 teaspoon baking soda
+  - ½ teaspoon salt
+  - 2 eggs
+  - ½ cup buttermilk
+  - 1 teaspoon vanilla extract
+
+**Instructions**
+
+Heat oven to **350°**. Grease and flour a **9-by-13-inch baking dish**. In a small saucepan, gradually stir water into cocoa powder to form a paste. Add margarine and heat until margarine is melted and mixture is smooth. In a large bowl, combine the sugar, flour, baking soda and salt. Combine the flour mixture and chocolate mixture until smooth (a whisk works best for this). Add the eggs, buttermilk and vanilla. Mix until smooth, then pour into prepared pan. Bake for **25 to 35 minutes** or until a toothpick comes out clean when poked in the center. Cool before cutting into 24 squares.
+
+*Makes 24 brownies. From "A Cup of Comfort Cookbook".*
 
 ---
 
@@ -3646,6 +3757,72 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Swiss Chicken
+
+One photo of a typed page from a ring binder, soft and stained, covered in handwritten annotations in
+at least two inks. Credited in print to **Lee Johnson**.
+
+**Destination is an exact tab match, and it settles an earlier question.** Main Dishes has a **Swiss
+Chicken** tab. The Oh So Easy Chicken was queued there on the strength of its Swiss cheese slices, with
+a note to verify; this page is titled SWISS CHICKEN outright, so it takes the tab and Oh So Easy
+Chicken has been re-pointed to a new one.
+
+**Three handwritten additions are carried into the entry**, because they supply what the print leaves
+out: *2 eggs* beside the beaten-egg step, *6 pieces Swiss or Mozzarella cheese* beside the topping
+step, and *(use all for 4 breasts too.)* under the coating heading, kept as an italic line where the
+writer put it.
+
+**Two handwritten temperatures are not carried, because they contradict each other.** A **300°** sits
+in the left margin beside the skillet paragraph and a **425°** runs vertically up the right margin
+beside the same paragraph. The printed method gives no oven temperature at all — only "bake until
+cheese melts and chicken is tender, about 8 minutes" — so one of these is presumably filling that gap,
+but there is no telling which, and 300 and 425 are not close. Both are recorded here and neither is in
+the block. Eight minutes suits the higher one; a longer bake would suit the lower.
+
+**A handwritten "Wait" with two arrows** sits in the cheese sauce, one arrow pointing to "¼ c. snipped
+parsley" and the other back toward the water and Parmesan. It plainly means hold something back, but
+which and until when is not legible from the marks, so it is noted rather than encoded.
+
+A pencilled note at the top left reads as **"16X RS"** or "10X R5" — too few characters to interpret.
+
+**Also on this page but not transcribed:** *Stuffed Chicken Breasts*, credited to a Janis, beginning at
+the bottom edge.
+
+## Bonnie — The Best Chocolate Cake Ever
+
+One photo of a typed page from a ring binder, with a newspaper clipping taped to its right-hand side.
+The typed recipe is titled **Bonnie -- The Best Chocolate Cake Ever**; Bonnie is the attribution as
+well as part of the title, run together on one line, and it is kept whole rather than split.
+
+**"Combine and and bake at 400 for 20 minutes" carries the page's own doubled "and"** and keeps it.
+
+**There is no pan size**, which for a boiled-cocoa sheet cake at **400°** is the one thing worth knowing
+before starting. The taped clipping beside it uses a 9-by-13 for a nearly identical batter — a hint,
+not an instruction, and nothing was carried across.
+
+The frosting is boiled the same way as the cake's base and is given as a run-on line at the foot of the
+page; it is split into a `###` component here with no words changed.
+
+## Texas Sheet Cake
+
+A newspaper clipping **taped to the same page as Bonnie's cake**, credited to Amy Maida Wadsworth and
+*"A Cup of Comfort Cookbook"*. Somebody kept the two side by side, presumably to compare them: the
+batters are close cousins, both starting with cocoa and margarine melted into water.
+
+**The clipping's title is partly hidden under glare.** What survives reads "Texas … ake". It is filed as
+**Texas Sheet Cake** because the doc has exactly that tab and the recipe is unmistakably one — a 9-by-13
+of boiled-cocoa batter cut into 24 squares. That is an inference from the tab name, the same move made
+with the Scripture Cookies key, and it is flagged rather than hidden.
+
+**The clipping calls its own output brownies** — "Makes 24 brownies" — while being a sheet cake by every
+other measure. Kept as printed.
+
+**The two recipes on this page differ more than they look.** Bonnie's uses 5 TBLS cocoa, sour milk, no
+salt, and bakes at **400° for 20 minutes**; the clipping uses 4 tablespoons cocoa, buttermilk, ½ tsp
+salt, and bakes at **350° for 25 to 35**. Not the same cake.
+
+**Also on this page:** a page number in the top right, partly torn, reading as 21 or 31.
 
 ## Untitled — flour-dipped meat in gravy
 
@@ -4603,6 +4780,27 @@ recipe.
 banana bar with a brown butter frosting, so it is queued there — but the names differ and there is
 nothing confirming the tab is empty rather than holding a different family recipe. Note also that
 Breads has a separate *Banana Bread*, already in this file, which is a loaf and a different thing.
+
+**Rebuilt from a typed source, which fills both gaps and adds a name.** A printed page under a
+*Desserts* running head, attributed to **Ann Bezdjian**, carries the same recipe with the same nine
+quantities. It supplies the two things the handwritten sheet lacked: a mixing instruction — "Mix first
+nine ingredients together" — and a pan, a **12 x 16 jelly roll pan** where the sheet said only "cookie
+sheet or lg. cake pan".
+
+**It also confirms the doubling.** The note above worked out that the handwritten frosting's column was
+a doubled batch and its method a single one. The typed page's frosting is ½ cup butter, 4 cups powdered
+sugar, 2 tsp vanilla and 4 Tbsp milk *in both its list and its method* — exactly the handwritten
+column. The reading was right.
+
+**Two differences between the sources are left standing, with the typed page taking the block.** The
+typed page says **butter** where the handwritten sheet says margarine, and **375° for 20 minutes**
+where the sheet says 20 to 25. The typed page is the fuller source and reads as the original; the
+handwritten sheet reads as somebody's working copy, which is also why it carries a doubling note the
+printed page has no need for.
+
+**That note is dropped from the block** now the frosting is the full batch, but is worth keeping
+somewhere: *"double this fr recipe above. If halfing banana recipe, then frosting recipe is just
+right."*
 
 ## Carrot Cake
 
