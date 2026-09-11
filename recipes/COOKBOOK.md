@@ -87,6 +87,7 @@ clean to copy.
 | Bonnie — The Best Chocolate Cake Ever | Desserts › **(new tab needed)** | ☐ |
 | Texas Sheet Cake | Desserts › Texas Sheet Cake — *title obscured, see notes* | ☐ |
 | Peanut Butter Cookies | Desserts › Peanut Butter Cookies | ☐ |
+| Chocolate Peanut butter Marshmallow Krispie Brownies | Desserts › **(new tab needed)** — *no bake time, no topping method* | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -3132,6 +3133,45 @@ Thoroughly cream butter, peanut butter, sugars, egg, and vanilla. Sift together 
 
 ---
 
+## **Chocolate Peanut butter Marshmallow Krispie Brownies**
+
+### **Brownies**
+
+**Ingredients**
+
+  - 1 c. soft butter
+  - 2 c. sugar
+  - 4 eggs
+  - 2 tsp vanilla
+  - ⅔ c. unsweetened cocoa
+  - 1 c. flour
+  - ½ tsp salt
+  - ½ tsp baking powder
+  - 1 package miniature marshmallows
+
+**Instructions**
+
+Bake at **350 degrees** in **9x13 pan**.
+
+Pull brownies from oven and sprinkle 1 package of miniature marshmallows on top. Bake another **3 min.** Pull from oven and add topping.
+
+### **Topping**
+
+**Ingredients**
+
+  - 1½ c. semisweet chocolate chips
+  - 1 c. creamy peanut butter
+  - 1 T butter
+  - 1½ c. Rice Krispie cereal
+
+**Instructions**
+
+Let cool before cutting.
+
+*To save time, you can also use boxed brownie mix. If you are feeding a larger crowd, double recipe and bake in cookie sheet pan. I often use 2 pouches of the boxed brownies at Costco.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3782,6 +3822,36 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Chocolate Peanut butter Marshmallow Krispie Brownies
+
+One screenshot of a typed document, cleanly set and fully legible — no handwriting, no damage, nothing
+to squint at. Unsigned.
+
+**Two things are missing from it, and both are real.**
+
+*There is no bake time for the brownies.* The line reads "Bake at 350 degrees in 9x13 pan" and stops.
+The only duration anywhere is the **3 min.** the marshmallows go back in for. A pan of brownies this
+size would normally want something in the region of half an hour, but the page does not say and
+nothing was supplied.
+
+*The topping has no method.* Four ingredients are listed — chocolate chips, peanut butter, butter and
+Rice Krispies — and the next words are "Let cool before cutting." Nothing says to melt the first three
+together and stir the cereal in, which is what a topping of this kind requires. The entry carries the
+ingredients and the one instruction the page gives.
+
+**The marshmallows were added to the brownie ingredient list** from the method, where they are the only
+place a package of them is mentioned.
+
+**The closing paragraph is the author's own** and is kept as an italic line: the boxed-mix shortcut, the
+doubling advice, and the Costco note. It is the one part of the page with a voice in it, and it names
+the writer's actual habit.
+
+The title's lowercase b in "Peanut butter" is the page's own and stays.
+
+**No tab exists for this recipe.** Desserts has three brownie tabs and all three are spoken for — Mint
+by Clapier's, Chocolate contested between Mom's and Mary's, Gold Rush by its own. This is a fourth
+distinct brownie, and the second no-bake-topped one after the Winder Brownies.
 
 ## Peanut Butter Cookies
 
