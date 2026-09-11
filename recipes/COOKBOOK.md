@@ -6505,21 +6505,30 @@ both fuller and clearer.
 flagged as uncertain — read as `½ cube` while noting the stroke before it could make it
 `1½ cube`, and reasoning that half a cube seemed thin for a 9x12 crumb base. **It is
 1½ cubes.** The reasoning was right and the reading was wrong; the flag is what caught it.
+**A later, clearer photo of the same card settles it completely: the card itself reads
+1½ cube.** The two sources never disagreed about the butter — only the first photograph did.
 
-**Six other figures differ between the two sources.** These are not misreadings but genuine
+**Five figures differ between the two sources.** These are not misreadings but genuine
 divergence between the card and the page:
 
 | | Handwritten card | Typed page |
 |---|---|---|
-| Butter | ½ cube *(misread)* | **1½ cubes** |
+| Butter | 1½ cube *(agrees)* | **1½ cubes** |
 | Pan | 9x12 pyrex | **9 x 13 pyrex** |
-| Oven | 325° | **350** |
+| Oven | 325° *(see below)* | **350** |
 | Time | 25 min | **about 30 min** |
 | Chocolate chips | 1½ c. | **about 1¼ c.** |
 | Coconut | 1½ c. | **about 1¼ c.** |
 | Condensed milk | 1½ – 1¾ can | **1½ cans** |
 
 The typed figures are used above. The card's are recorded here so neither version is lost.
+
+**The oven difference may not be a difference at all.** The card's bake line carries a
+parenthetical beside the temperature, reading as **"(for glass pan)"** — which would make its
+325° the glass-pan adjustment to the typed page's 350°, the conventional 25° drop, rather than
+a competing figure. The word is short and could be "or"; if it is "for", the two sources agree
+and the card is simply the more careful of the two. Worth a look, because it also explains why
+the card names a pyrex dish in the same breath.
 
 **The typed page adds method the card never had:** how to crush the crackers (plastic bag,
 rolling pin), a warning to watch the butter so it does not burn, and the closing note about
