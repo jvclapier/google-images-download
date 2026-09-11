@@ -264,14 +264,14 @@ Melt butter over medium heat. Add cream, stirring constantly. Let butter and cre
 **Ingredients**
 
   - 10 chicken breast halves, cooked and cubed
-  - 1 large onion
+  - 1 large onion, chopped & sauteed
   - 2 cans green chilies
   - 1 # longhorn cheese, grated
   - 20 med. or 10 large flour tortillas
 
 **Instructions**
 
-Mix chicken, onion, green chilies, and ⅓ of the cheese. Fill tortilla, roll and put in large pan. Cover w/ sauce.
+Mix chicken, onion, green chilies, and ⅓ of the cheese. Fill tortilla, roll and put ends side down in large pan. Cover w/ sauce.
 
 ### **Sauce**
 
@@ -6656,6 +6656,28 @@ Robynne's Lasagne and the Cinnamon Rolls glaze. No wording changed.
 
 The onion carries no prep instruction — the page says only "1 large onion", not chopped or
 diced.
+
+**Updated from the handwritten original.** A Stylecraft card (69-930), "From the Kitchen of" left
+blank, carries the same recipe: 10 cooked chicken breasts, 1 lg. onion, 2 cans diced green chili,
+1 lb. longhorn cheese, 20 tortillas, and a sauce of 2 cans cream of chicken soup and 1 can chicken
+broth. It is the printed page's source, or its sibling.
+
+**It answers the onion question above.** The card writes "1 lg. onion — (chop & saute)", so the onion
+is chopped *and* softened before it goes in. That is now in the ingredient line. The card also says
+to lay the filled tortillas "ends side down in casserol pan", which is more specific than the page's
+"put in large pan", and that has been added too. Neither change contradicts the page; both fill
+silences in it.
+
+**But the two sources disagree about the third sauce ingredient, and it is not a small difference.**
+The printed page says **1 carton sour cream**. The card says **1 pt. half & half**. Sour cream gives a
+tangy, thick sauce that holds; half and half gives a thinner, sweeter one that soaks further into the
+tortillas. Both are written plainly in their own source and neither is a misreading. The page's sour
+cream is kept in the block, being the version already filed and the one with a name attached to it —
+but the card's half and half is a real alternative, not an error.
+
+The card's bake is **350° 45 min**, at the short end of the page's "45 min. – 1 hr. at 350".
+
+The card's own spellings: "casserol", "cr. o chick soup", "2 can" for two cans.
 
 **The page is unsigned.** The `### Linda Glauser` line is carried from the doc's existing
 Chicken Enchiladas tab. The parenthetical aside about mixing sauce into the chicken is
