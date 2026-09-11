@@ -86,6 +86,7 @@ clean to copy.
 | Swiss Chicken | Main Dishes › Swiss Chicken | ☐ |
 | Bonnie — The Best Chocolate Cake Ever | Desserts › **(new tab needed)** | ☐ |
 | Texas Sheet Cake | Desserts › Texas Sheet Cake — *title obscured, see notes* | ☐ |
+| Peanut Butter Cookies | Desserts › Peanut Butter Cookies | ☐ |
 | Chicken and Broccoli Casserole | Main Dishes › Broccoli Chicken Casserole — *contested* | ☐ |
 | Fried Chicken with Milk Gravy | Main Dishes › **(new tab needed)** | ☐ |
 | Grandma Verna's Sloppy Joes | Main Dishes › Sloppy Joes | ☐ |
@@ -3107,6 +3108,30 @@ Heat oven to **350°**. Grease and flour a **9-by-13-inch baking dish**. In a sm
 
 ---
 
+## **Peanut Butter Cookies**
+
+**Ingredients**
+
+  - ½ cup butter or margarine
+  - ½ cup peanut butter
+  - ½ cup granulated sugar
+  - ½ cup brown sugar
+  - 1 egg
+  - ½ teaspoon vanilla
+  - 1¼ cups sifted all-purpose flour
+  - ¾ teaspoon soda
+  - ¼ teaspoon salt
+  - Granulated sugar, for rolling
+  - Peanut halves, to top (optional)
+
+**Instructions**
+
+Thoroughly cream butter, peanut butter, sugars, egg, and vanilla. Sift together dry ingredients; blend into creamed mixture. Shape in **1-inch balls**; roll in granulated sugar. Place **2 inches apart** on ungreased cookie sheet. Press 5 peanut halves atop each or crisscross with fork tines. Bake at **375° for 10 to 12 minutes**. Cool slightly; remove from pan.
+
+*Oven 375°. Makes 4 dozen.*
+
+---
+
 # Breads
 
 ## **Banana Bread**
@@ -3757,6 +3782,29 @@ Mix shortening, sugar, and egg together. Then add applesauce and all dry ingredi
 ---
 
 # Transcription notes
+
+## Peanut Butter Cookies
+
+One photo of a page from a printed cookbook — the heavy serif type, the small-caps OVEN line set to
+the right of the ingredient column, and the two-column layout all point to a mid-century commercial
+book rather than a family compilation. No author or source is visible on the crop.
+
+**Destination is an exact tab match:** Desserts already has **Peanut Butter Cookies**.
+
+**The page states its oven twice**, once as a standalone "OVEN 375°" beside the ingredients and again
+inside the method. The standalone line is carried in the italic footer alongside the yield, since it is
+the book's own formatting device rather than a step.
+
+**Two method-only ingredients were added to the list**: the granulated sugar the balls are rolled in —
+which is a second use of an ingredient already listed, so the line says "for rolling" — and the peanut
+halves, marked optional because the page offers them as an alternative to the fork-tine crisscross.
+
+**Also on this page but not transcribed:** *Chocolate Crinkles* (oven 350°) beginning below, and two
+recipes in the right-hand column cut off by the crop — one beginning VANI… and one beginning SPRI….
+Their ingredient quantities are partly visible but their names and methods are not. Send a wider shot
+if you want any of them.
+
+Clean read throughout — printed text, well lit.
 
 ## Swiss Chicken
 
